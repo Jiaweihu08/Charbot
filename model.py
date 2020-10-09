@@ -10,15 +10,15 @@ class Encoder(tf.keras.Model):
 
 		self.bi_gru_1 = tf.keras.layers.Bidirectional(
 			tf.keras.layers.GRU(enc_units,
-								return_sequences=True,
-								return_state=True,
-								recurrent_initializer='glorot_uniform'))
+				return_sequences=True,
+				return_state=True,
+				recurrent_initializer='glorot_uniform'))
 
 		self.bi_gru_2 = tf.keras.layers.Bidirectional(
 		    tf.keras.layers.GRU(enc_units,
-		    					return_sequences=True,
-		    					return_state=True,
-		    					recurrent_initializer='glorot_uniform'))
+		    	return_sequences=True,
+		    	return_state=True,
+		    	recurrent_initializer='glorot_uniform'))
 
 
 	def call(self, enc_input):
@@ -61,14 +61,14 @@ class Decoder(tf.keras.Model):
 		self.embedding = embedding_layer
 
 		self.gru_1 = tf.keras.layers.GRU(dec_units,
-										return_sequences=True,
-										return_state=True,
-										recurrent_initializer='glorot_uniform')
+			return_sequences=True,
+			return_state=True,
+			recurrent_initializer='glorot_uniform')
         
 		self.gru_2 = tf.keras.layers.GRU(dec_units,
-										return_sequences=True,
-										return_state=True,
-										recurrent_initializer='glorot_uniform')
+			return_sequences=True,
+			return_state=True,
+			recurrent_initializer='glorot_uniform')
 
 		self.fc = tf.keras.layers.Dense(vocab_size, activation='softmax')
 		
