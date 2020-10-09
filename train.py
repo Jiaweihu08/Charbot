@@ -60,10 +60,9 @@ def val_step(m, r, encoder, decoder, tokenizer):
 
 
 # @tf.function
-def summarize_and_save_epoch(epoch, start, train_loss,
-							val_loss, val_perplexity,
-							train_writer, val_writer,
-							train_steps, val_steps):
+def summarize_and_save_epoch(epoch, start, train_loss, val_loss, val_perplexity,
+	train_writer, val_writer, train_steps, val_steps):
+	
 	train_loss /= train_steps
 	val_loss /= val_steps
 	val_perplexity /= val_steps
@@ -118,9 +117,9 @@ if __name__ == '__main__':
 	
 	print('--> Loading and preparing datasets...\n')
 	message_train_val, response_train_val, tokenizer = load_dataset(
-															path_to_convs, path_to_lines,
-															args.max_len, args.vocab_size,
-															args.test_set_size)
+		path_to_convs, path_to_lines,
+		args.max_len, args.vocab_size,
+		args.test_set_size)
 
 	m_train_tensor, m_val_tensor, m_val = message_train_val
 	r_train_tensor, r_val_tensor, r_val = response_train_val
@@ -139,8 +138,8 @@ if __name__ == '__main__':
 	checkpoint_dir = './training_checkpoints'
 	checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
 	checkpoint = tf.train.Checkpoint(optimizer=optimizer,
-									encoder=encoder,
-									decoder=decoder)
+		encoder=encoder,
+		decoder=decoder)
 
 	if args.continue_training:
 		checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
@@ -162,10 +161,8 @@ if __name__ == '__main__':
 			total_loss += batch_loss
 
 			if batch % 100 == 0:
-				print("Epoch {} Batch {}/{} Loss {:.4f}".format(epoch,
-																batch,
-																steps_per_epoch,
-																batch_loss.numpy()))
+				print("Epoch {} Batch {}/{} Loss {:.4f}".format(epoch,batch,
+					steps_per_epoch, batch_loss.numpy()))
 
 		total_val_loss = 0
 		total_val_perplexity = 0
@@ -174,10 +171,8 @@ if __name__ == '__main__':
 			total_val_loss += batch_val_loss
 			total_val_perplexity += batch_perplexity
 
-		summarize_and_save_epoch(epoch, start, total_loss,
-								total_val_loss, total_val_perplexity,
-								train_writer, val_writer,
-								steps_per_epoch, steps_per_epoch_val)
+		summarize_and_save_epoch(epoch, start, total_loss,total_val_loss, total_val_perplexity,
+			train_writer, val_writer, steps_per_epoch, steps_per_epoch_val)
 
 		if epoch % 2 == 0:
 			checkpoint.save(file_prefix=checkpoint_prefix)
