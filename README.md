@@ -15,6 +15,6 @@
 #####	- Define customized training loop
 #####	- Understand BLEU score, perplexity, and cross_entropy. Store training and testing metrics and losses in the training loop for later examination using TensorBoard
 
------ In progress _____
+----- In progress -----
 #####	- Train the model on GCP
 #####	- Model deployment on GCP
