@@ -128,7 +128,7 @@ if __name__ == '__main__':
 	train_set = train_set.shuffle(args.buffer_size).batch(args.batch_size, drop_remainder=True)
 
 	val_set = tf.data.Dataset.from_tensor_slices((m_val_tensor, r_val_tensor))
-	val_set = val_set.shuffle(args.buffer_size).batch(args.batch_size, drop_remainder=True)
+	val_set = val_set.shuffle(args.buffer_size).batch(args.val_batch_size, drop_remainder=True)
 
 
 	steps_per_epoch = len(m_train_tensor) // args.batch_size
