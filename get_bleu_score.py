@@ -3,7 +3,7 @@ import tensorflow as tf
 import argparse
 import json
 from nltk.translate.bleu_score import corpus_bleu, SmoothFunction
-from model import *
+from inference import *
 
 
 def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
@@ -62,17 +62,7 @@ def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
 # 	args = parser.parse_args()
 
 
-# 	encoder = Encoder(int(args.units/2), args.embedding_dim, args.vocab_size)
-# 	decoder = Decoder(args.units, encoder.embedding, args.vocab_size)
-
-# 	checkpoint_dir = './training_checkpoints'
-# 	checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
-# 	checkpoint = tf.train.Checkpoint(optimizer=optimizer, encoder=encoder, decoder=decoder)
-# 	checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
-
-# 	with open('tokniezer.json') as f:
-# 		data = json.load(f)
-# 		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
+# 	encoder, decoder, tokenizer = load_model(args.units, args.embedding_dim, args.vocab_size)
 
 
 # 	message_train_val, response_train_val, tokenizer = load_dataset(
@@ -82,3 +72,11 @@ def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
 
 # 	m_train_tensor, m_val_tensor, m_val = message_train_val
 # 	r_train_tensor, r_val_tensor, r_val = response_train_val
+
+# 	start = len('<start> ')
+# 	end = len(' <end>')
+# 	r_val_mod = list(map(lambda sent: [sent[start:-end].split()], r_val))
+# 	bleu = calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod)
+# 	print()
+# 	print('bleu: ', bleu)
+
