@@ -8,7 +8,7 @@ from model import *
 
 def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
 	batch_size = 1000
-	steps = TEST_SET_SIZE // batch_size
+	steps = len(m_val_tensor) // batch_size
 	all_responses = []
 
 	for i in range(steps):
@@ -54,20 +54,31 @@ def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
 
 
 
-if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Get BLEU score for the model')
-	parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=512)
-	parser.add_argument('-embedding_dim', '--embedding_dim', type=int, metavar='', help='embedding dimension', default=300)
-	parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
-	args = parser.parse_args()
+# if __name__ == '__main__':
+# 	parser = argparse.ArgumentParser(description='Get BLEU score for the model')
+# 	parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=512)
+# 	parser.add_argument('-embedding_dim', '--embedding_dim', type=int, metavar='', help='embedding dimension', default=300)
+# 	parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
+# 	args = parser.parse_args()
 
-	checkpoint_dir = './training_checkpoints'
-	checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
-	checkpoint = tf.train.Checkpoint(optimizer=optimizer,
-									encoder=encoder,
-									decoder=decoder)
-	checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
 
-	with open('tokniezer.json') as f:
-		data = json.load(f)
+# 	encoder = Encoder(int(args.units/2), args.embedding_dim, args.vocab_size)
+# 	decoder = Decoder(args.units, encoder.embedding, args.vocab_size)
 
+# 	checkpoint_dir = './training_checkpoints'
+# 	checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
+# 	checkpoint = tf.train.Checkpoint(optimizer=optimizer, encoder=encoder, decoder=decoder)
+# 	checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
+
+# 	with open('tokniezer.json') as f:
+# 		data = json.load(f)
+# 		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
+
+
+# 	message_train_val, response_train_val, tokenizer = load_dataset(
+# 															path_to_convs, path_to_lines,
+# 															args.max_len, args.vocab_size,
+# 															args.test_set_size)
+
+# 	m_train_tensor, m_val_tensor, m_val = message_train_val
+# 	r_train_tensor, r_val_tensor, r_val = response_train_val
