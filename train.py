@@ -107,14 +107,11 @@ if __name__ == '__main__':
 	parser.add_argument('-val_batch_size', '--val_batch_size', type=int, metavar='', help='batch size for the validation set', default=100)
 	
 	parser.add_argument('-continue', '--continue_training', type=bool, metavar='', help='continue training the model from the last checkpoint', defualt=False)
+	parser.add_argument('-init_epoch', '--init_epoch', type=int, metavar='', help='if continue training, redefine the initial epoch', default=1)
 	args = parser.parse_args()
 
-	
-	print('--> Creating encoder and decoder...\n')
-	encoder = Encoder(int(args.units/2), args.embedding_dim, args.vocab_size)
-	decoder = Decoder(args.units, encoder.embedding, args.vocab_size)
-	#----------------------------------------------------------------
-	
+
+	#----------------------------------------------------------------	
 	print('--> Loading and preparing datasets...\n')
 	message_train_val, response_train_val, tokenizer = load_dataset(
 		path_to_convs, path_to_lines,
@@ -133,7 +130,17 @@ if __name__ == '__main__':
 
 	steps_per_epoch = len(m_train_tensor) // args.batch_size
 	steps_per_epoch_val = len(m_val_tensor) // args.val_batch_size
+
+	print('training tensor shape', m_train_tensor.shape)
+	print('testing tensor shape', m_val_tensor.shape)
+	print('steps per epoch', steps_per_epoch)
+	print('testing steps per epoch', steps_per_epoch_val)
+
+
 	#----------------------------------------------------------------
+	print('--> Creating encoder and decoder...\n')
+	encoder = Encoder(int(args.units/2), args.embedding_dim, args.vocab_size)
+	decoder = Decoder(args.units, encoder.embedding, args.vocab_size)
 
 	checkpoint_dir = './training_checkpoints'
 	checkpoint_prefix = os.path.join(checkpoint_dir, 'ckpt')
@@ -145,15 +152,18 @@ if __name__ == '__main__':
 		checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
 
 
+	#----------------------------------------------------------------
 	train_writer, val_writer = get_train_val_writers()
 
+	
+	#----------------------------------------------------------------
+	
 	print('--> Entering training loop...')
 	print('--> Total Epochs:', args.epochs)
 
-
 	# steps_per_epoch_val = steps_per_epoch = 2
 
-	for epoch in range(1, args.epochs + 1):
+	for epoch in range(args.init_epoch, args.epochs + 1):
 		start = time.time()
 		total_loss = 0
 		for (batch, (m, r)) in enumerate(train_set.take(steps_per_epoch)):
