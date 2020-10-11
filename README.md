@@ -18,3 +18,4 @@
 ----- In progress -----
 #####	- Train the model on GCP
 #####	- Model deployment on GCP
+##### - Intergrate it into the portfolio
