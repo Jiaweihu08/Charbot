@@ -9,7 +9,7 @@ max_len = 45
 
 def load_model(units, embedding_dim, vocab_size, checkpoint_dir='./training_checkpoints',
 	tokenizer_dir='./tokenizer.json'):
-	encoder = Encoder(int(units/2), embedding_dim, vocab_size)
+	encoder = Encoder(units, embedding_dim, vocab_size)
 	decoder = Decoder(units, encoder.embedding, vocab_size)
 
 	checkpoint = tf.train.Checkpoint(optimizer=optimizer,

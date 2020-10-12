@@ -8,25 +8,17 @@ class Encoder(tf.keras.Model):
 
 		self.embedding = tf.keras.layers.Embedding(vocab_size, embedding_dim)
 
-		self.bi_gru_1 = tf.keras.layers.Bidirectional(
-			tf.keras.layers.GRU(enc_units,
-				return_sequences=True,
-				return_state=True,
-				recurrent_initializer='glorot_uniform'))
-
-		self.bi_gru_2 = tf.keras.layers.Bidirectional(
-		    tf.keras.layers.GRU(enc_units,
-		    	return_sequences=True,
-		    	return_state=True,
-		    	recurrent_initializer='glorot_uniform'))
+		self.gru = tf.keras.layers.GRU(enc_units,
+			return_sequences=True,
+			return_state=True,
+			dropout=0.25,
+			recurrent_initializer='glorot_uniform')
 
 
 	def call(self, enc_input):
-		x = self.embedding(enc_input)
-		sequence, fh_1, bh_1 = self.bi_gru_1(x)
-		sequence, fh_2, bh_2 = self.bi_gru_2(sequence)
-		hiddens = [tf.concat([fh_1, bh_1], axis=-1),
-					tf.concat([fh_2, bh_2], axis=-1)]
+		x_emb = self.embedding(enc_input)
+		
+		sequence, hiddens = self.gru(x_emb)
 
 		return sequence, hiddens
 
@@ -40,63 +32,54 @@ class LuongAttention(tf.keras.Model):
 	def call(self, attention_inputs):
 		query, values = attention_inputs
 
-		query = tf.expand_dims(query, axis=-1)
 		values = self.W(values)
 
-		scores = tf.matmul(values, query)
+		scores = tf.matmul(query, values, transpose_b=True)
 
-		attention_weights = tf.nn.softmax(scores, axis=1)
+		alignments = tf.nn.softmax(scores, axis=-1)
 
-		context_vector = attention_weights * values
-		context_vector = tf.reduce_sum(context_vector, axis=1)
+		context_vector = tf.matmul(alignments, values)
 
-		return context_vector, attention_weights
+		return context_vector, alignments
 
 
 class Decoder(tf.keras.Model):
 	def __init__(self, dec_units, embedding_layer, vocab_size):
 		super(Decoder, self).__init__()
-		self.vocab_size = vocab_size
 
 		self.embedding = embedding_layer
 
-		self.gru_1 = tf.keras.layers.GRU(dec_units,
+		self.gru = tf.keras.layers.GRU(dec_units,
 			return_sequences=True,
 			return_state=True,
-			recurrent_initializer='glorot_uniform')
-        
-		self.gru_2 = tf.keras.layers.GRU(dec_units,
-			return_sequences=True,
-			return_state=True,
+			dropout=0.25,
 			recurrent_initializer='glorot_uniform')
 
-		self.fc = tf.keras.layers.Dense(vocab_size, activation='softmax')
-		
 		self.attention = LuongAttention(dec_units)
+
+		self.fc = tf.keras.layers.Dense(dec_units, activation='tanh')
+
+		self.out = tf.keras.layers.Dense(vocav_size, activation='softmax')
 
 
 	def call(self, dec_inputs):
 		x, hiddens, enc_output = dec_inputs
 
-		first_hidden, last_hidden = hiddens
+		x_emb = self.embedding(x)
 
-		attention_inputs = (last_hidden, enc_output)
+		gru_out, hiddens = self.gru(x_emb, initial_state=hiddens)
 
-		context, attentions = self.attention(attention_inputs)
+		attention_inputs = (gru_out, enc_output)
+		context, alignments = self.attention(attention_inputs)
 
-		x = self.embedding(x)
-		x = tf.concat([tf.expand_dims(context, 1), x], axis=-1)
+		gru_out = tf.concat([gru_out, context], axis=-1)
+		gru_out = tf.squeeze(gru_out, axis=1)
 
-		output, first_state = self.gru_1(x, initial_state=first_hidden)
+		gru_out = self.fc(gru_out)
 
-		output, last_state = self.gru_2(output, initial_state=last_hidden)
-		
-		output = tf.squeeze(output, axis=1)
+		logits = self.out(gru_out)
 
-		dec_output = self.fc(output)
-		states = [first_state, last_state]
-
-		return dec_output, states, attentions
+		return logits, hiddens, alignments
 
 
 optimizer = tf.keras.optimizers.Adam()

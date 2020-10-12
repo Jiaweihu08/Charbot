@@ -59,7 +59,7 @@ def val_step(m, r, encoder, decoder, tokenizer):
 	return batch_loss, batch_perplexity
 
 
-# @tf.function
+
 def summarize_and_save_epoch(epoch, start, train_loss, val_loss, val_perplexity,
 	train_writer, val_writer, train_steps, val_steps):
 	
@@ -96,7 +96,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Training seq2seq model.')
 	parser.add_argument('-epochs', '--epochs', type=int, metavar='', help='number of training epochs', default=20)
 
-	parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=512)
+	parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=1024)
 	parser.add_argument('-embedding_dim', '--embedding_dim', type=int, metavar='', help='embedding dimension', default=300)
 
 	parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
 	#----------------------------------------------------------------
 	print('--> Creating encoder and decoder...\n')
-	encoder = Encoder(int(args.units/2), args.embedding_dim, args.vocab_size)
+	encoder = Encoder(args.units, args.embedding_dim, args.vocab_size)
 	decoder = Decoder(args.units, encoder.embedding, args.vocab_size)
 
 	checkpoint_dir = './training_checkpoints'
@@ -155,7 +155,7 @@ if __name__ == '__main__':
 	#----------------------------------------------------------------
 	train_writer, val_writer = get_train_val_writers()
 
-	
+
 	#----------------------------------------------------------------
 	
 	print('--> Entering training loop...')

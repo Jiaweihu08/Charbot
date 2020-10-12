@@ -69,8 +69,19 @@ def create_dataset(path_to_convs, path_to_lines):
 		for i in range(len(turns)-1):
 			conv_pairs.append([line_dict[turns[i]], line_dict[turns[i+1]]])
 
-	return zip(*conv_pairs), list(line_dict.values())
+	return zip(*conv_pairs)
 
+def filter_long_sentences(m, r, max_len):
+	filtered_m = []
+	filtered_r = []
+
+	for i in range(len(m)):
+		if len(m[i].split()) > max_len or len(r[i].split()) > max_len:
+			continue
+		filtered_m.append(m[i])
+		filtered_r.append(r[i])
+
+	return filtered_m, filtered_r
 
 def get_tensor(message, response, tokenizer, max_len):
 	m_tensor = tokenizer.texts_to_sequences(message)
@@ -99,14 +110,14 @@ def save_tokenizer(tokenizer):
 
 
 def load_dataset(path_to_convs, path_to_lines, max_len, vocab_size, test_set_size):
+	messages, responses = create_dataset(path_to_convs, path_to_lines)
 
-	data, lines = create_dataset(path_to_convs, path_to_lines)
-	messages, responses = data
+	messages, responses = filter_long_sentences(messages, responses, max_len)
 
 	tokenizer = tf.keras.preprocessing.text.Tokenizer(
 		num_words=vocab_size,
 		filters='')
-	tokenizer.fit_on_texts(lines)
+	tokenizer.fit_on_texts(messages + responses)
 
 	save_tokenizer(tokenizer)
 
@@ -128,7 +139,7 @@ if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser("Testing util functions for dataset creation")
 	parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
-	parser.add_argument('-max_len', '--max_len', type=int, metavar='', help='max sentence length', default=45)
+	parser.add_argument('-max_len', '--max_len', type=int, metavar='', help='max sentence length', default=18)
 	parser.add_argument('-test_set_size', '--test_set_size', type=int, metavar='', help='size of the test set', default=10000)
 
 	args = parser.parse_args()
