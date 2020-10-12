@@ -5,7 +5,7 @@ import argparse
 from model import *
 from create_dataset import unicoder_to_ascii, preprocess_text
 
-max_len = 45
+max_len = 18
 
 def load_model(units, embedding_dim, vocab_size, checkpoint_dir='./training_checkpoints',
 	tokenizer_dir='./tokenizer.json'):
@@ -40,7 +40,7 @@ def get_response(message, encoder, decoder, tokenizer):
 	results = ''
 
 	enc_out, hiddens = encoder(inputs)
-	dec_in = (tf.expand_dims([tokenizer.word_index['<start>']], 0))
+	dec_in = (tf.expand_dims([tokenizer.word_index['<start>']], 0), hiddens, enc_out)
 
 	for t in range(max_len):
 		predictions, hiddens = decoder(dec_in)
@@ -49,7 +49,7 @@ def get_response(message, encoder, decoder, tokenizer):
 		if tokenizer.index_word[prediction_id] == '<end>':
 			return message, results.strip()
 
-		dec_in = (tf.expand_dims([prediction_id], 0))
+		dec_in = (tf.expand_dims([prediction_id], 0), hiddens, enc_out)
 
 	return message, results.strip()
 
