@@ -94,19 +94,19 @@ def get_train_val_writers():
 		
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Training seq2seq model.')
-	parser.add_argument('-epochs', '--epochs', type=int, metavar='', help='number of training epochs', default=20)
+	parser.add_argument('-epochs', '--epochs', type=int, metavar='', help='number of training epochs', default=10000)
 
 	parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=1024)
 	parser.add_argument('-embedding_dim', '--embedding_dim', type=int, metavar='', help='embedding dimension', default=300)
 
 	parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
-	parser.add_argument('-max_len', '--max_len', type=int, metavar='', help='max sentence length', default=45)
-	parser.add_argument('-batch_size', '--batch_size', type=int, metavar='', help='batch size for the training set', default=64)
+	parser.add_argument('-max_len', '--max_len', type=int, metavar='', help='max sentence length', default=18)
+	parser.add_argument('-batch_size', '--batch_size', type=int, metavar='', help='batch size for the training set', default=32)
 	parser.add_argument('-buffer_size', '--buffer_size', type=int, metavar='', help='buffer size for data shuffling', default=10000)
 	parser.add_argument('-test_set_size', '--test_set_size', type=int, metavar='', help='size of the test set', default=10000)
 	parser.add_argument('-val_batch_size', '--val_batch_size', type=int, metavar='', help='batch size for the validation set', default=100)
 	
-	parser.add_argument('-continue', '--continue_training', type=bool, metavar='', help='continue training the model from the last checkpoint', defualt=False)
+	parser.add_argument('-continue', '--continue_training', type=bool, metavar='', help='continue training the model from the last checkpoint', default=False)
 	parser.add_argument('-init_epoch', '--init_epoch', type=int, metavar='', help='if continue training, redefine the initial epoch', default=1)
 	args = parser.parse_args()
 

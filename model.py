@@ -59,7 +59,7 @@ class Decoder(tf.keras.Model):
 
 		self.fc = tf.keras.layers.Dense(dec_units, activation='tanh')
 
-		self.out = tf.keras.layers.Dense(vocav_size, activation='softmax')
+		self.out = tf.keras.layers.Dense(vocab_size, activation='softmax')
 
 
 	def call(self, dec_inputs):
