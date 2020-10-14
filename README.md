@@ -1,4 +1,4 @@
-# Charbot Project - Building a conversational agent using seq2seq models
+# Chatbot Project - Building a conversational agent using seq2seq models
 
 ### Motivation
 #### - Gain deepened understanding on NLP and NLU
