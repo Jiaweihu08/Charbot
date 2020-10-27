@@ -82,7 +82,7 @@ class Decoder(tf.keras.Model):
 		return logits, hiddens, alignments
 
 
-optimizer = tf.keras.optimizers.Adam()
+optimizer = tf.keras.optimizers.Adam(0.0001)
 
 loss_object = tf.keras.losses.SparseCategoricalCrossentropy(
 	from_logits=True, reduction='none')

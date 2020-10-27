@@ -1,5 +1,5 @@
 __pycache__
-chatbot-v1/
+chatbot_env/
 tokenizer.json
 .DS_Store
 training_logs/
