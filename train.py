@@ -85,9 +85,9 @@ if __name__ == '__main__':
 
 	#----------------------------------------------------------------
 	print('--> Entering training loop...')
-	print('--> Total Epochs:', EPOCHS)
+	print('--> Total Epochs:', EPOCHS + 1)
 
-	for epoch in range(EPOCHS):
+	for epoch in range(EPOCHS+1):
 		start = time.time()
 		total_loss = 0
 		for (batch, (m, r)) in enumerate(train_set.take(steps_per_epoch)):
