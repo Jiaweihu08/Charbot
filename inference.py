@@ -1,18 +1,21 @@
 import tensorflow as tf
 import json
-import argparse
+import unicodedata
 
 from model import *
-from create_dataset import unicoder_to_ascii, preprocess_text
 
-max_len = 18
 
-def load_model(units, embedding_dim, vocab_size, checkpoint_dir='./training_checkpoints',
-	tokenizer_dir='./tokenizer.json'):
+MAX_LEN = 12
+
+def load_model(units, embedding_dim, vocab_size,
+		checkpoint_dir='./training_checkpoints',
+		tok_path='./tokenizer.json'):
+	
 	encoder = Encoder(units, embedding_dim, vocab_size)
 	decoder = Decoder(units, encoder.embedding, vocab_size)
 
-	checkpoint = tf.train.Checkpoint(optimizer=optimizer,
+	checkpoint = tf.train.Checkpoint(
+		optimizer=optimizer,
 		encoder=encoder,
 		decoder=decoder)
 	checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
@@ -24,55 +27,66 @@ def load_model(units, embedding_dim, vocab_size, checkpoint_dir='./training_chec
 	return encoder, decoder, tokenizer
 
 
-def get_input(message):
-	message = preprocess_text(message)
+class Chatbot:
+	"""class for greedy output generation"""
+	def __init__(self, encoder, decoder, tokenizer, max_len=MAX_LEN):
+		self.encoder = encoder
+		self.decoder = decoder
+		self.tokenizer = tokenizer
+		self.max_len = max_len
 
-	inputs = [tokenizer.word_index.get(w, 0) for w in message.split()]
-	inputs = tf.keras.preprocessing.sequence.pad_sequences([inputs],
-		maxlen=max_len, truncating='post')
+	def preprocess_text(self, text):
 
-	inputs = tf.convert_to_tensor(inputs)
+		text = re.sub(r"([?.!,¿])", r" \1 ", text)
+		
+		text = re.sub(r'[" "]+', " ", text)
 
-	return inputs
+		text = re.sub(r"[^a-zA-Z0-9?.!,]+", " ", text)
 
+		text = text.strip()
 
-def get_response(message, encoder, decoder, tokenizer):
-	results = ''
+		text = '<start> ' + text + ' <end>'
+		
+		return text
 
-	enc_out, hiddens = encoder(inputs)
-	dec_in = (tf.expand_dims([tokenizer.word_index['<start>']], 0), hiddens, enc_out)
+	def prepare_input(self, message):
+		message = preprocess_input(message)
 
-	for t in range(max_len):
-		predictions, hiddens = decoder(dec_in)
-		prediction_id = tf.argmax(predictions[0]).numpy()
-		results += tokenizer.index_word[prediction_id] + ' '
-		if tokenizer.index_word[prediction_id] == '<end>':
-			return message, results.strip()
+		sequence = self.tokenizer.texts_to_sequences([message])
 
-		dec_in = (tf.expand_dims([prediction_id], 0), hiddens, enc_out)
+		padded_sequence = tf.keras.preprocessing.sequence.pad_sequences(
+			sequence,
+			maxlen=self.max_len
+			truncating='post')
 
-	return message, results.strip()
+		tensor = tf.convert_to_tensor(padded_sequence)
 
+		return tensor
 
-def beam_search(message, encoder, decoder, tokenizer):
-	pass
+	def __call__(self, message):
+		tensor = self.prepare_input(message)
 
+		response = ""
 
-if __name__ == "__main__":
-	# parser = argparse.ArgumentParser(description='Inferencing model')
-	# parser.add_argument('-units', '--units', type=int, metavar='', help='number of neurons for GRU', default=512)
-	# parser.add_argument('-embedding_dim', '--embedding_dim', type=int, metavar='', help='embedding dimension', default=300)
-	# parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=30000)
-	# args = parser.parse_args()
+		enc_output, hiddens = self.encoder(tensor)
 
-	# encoder, decoder, tokenizer = load_model(args.units, args.embedding_dim, args.vocab_size)
-	# message = os.stdin.read()
-	# _, response = get_response(message, encoder, decoder, tokenizer)
-	# print(message)
-	# print(response)
-	
+		dec_in = (tf.expand_dims([self.tokenizer.word_index['<start>']], 0),
+			hiddens, enc_outpput)
 
+		for t in range(self.max_len):
+			pred, hiddens, _ = self.decoder(dec_in)
 
+			pred_id = tf.argmax(pred[0]).numpy()
 
+			pred_word = self.tokenizer.index_word[pred_id]
+
+			if pred_word == '<end>':
+				return message, response.strip()
+
+			response += pred_word + ' '
+
+			dec_in = (tf.expand_dims([pred_id], 0), hiddens, enc_output)
+
+		return message, response.strip()
 
 
