@@ -1,0 +1,2000 @@
+<start> yeah , right . <end> +++ <start> i m serious . . . <end>
+<start> all right . <end> +++ <start> my door is always open . <end>
+<start> just leave it , all right ? <end> +++ <start> oh , i like that tone . <end>
+<start> i think i ve heard this speech before . <end> +++ <start> i m really sorry . <end>
+<start> he s broken his pattern . <end> +++ <start> they ve broken their pattern . <end>
+<start> okay . we re up at six . <end> +++ <start> good . <end>
+<start> you had to do nothing ! <end> +++ <start> you re wrong . <end>
+<start> you re precious to me , rose . <end> +++ <start> jewels are precious . goodbye , mr . hockley . <end>
+<start> baby goddamn scared me to death ! <end> +++ <start> they just wanted to say hello . <end>
+<start> yo . <end> +++ <start> damone . it s mark . <end>
+<start> frederick frankenstein ? <end> +++ <start> fron kon steen ! <end>
+<start> where s mr . johns ? <end> +++ <start> which half ? <end>
+<start> neil , you re not gonna . . . <end> +++ <start> quiet . i have to think . <end>
+<start> not that tie with that coat . <end> +++ <start> why not ? ! <end>
+<start> don t try to change to the subject . <end> +++ <start> why don t you answer ? <end>
+<start> ted ! do something ! <end> +++ <start> what do you want me to do ? <end>
+<start> yes , i would ! <end> +++ <start> like that ? <end>
+<start> i ll take a chance . <end> +++ <start> go for it . <end>
+<start> rangers . <end> +++ <start> go . <end>
+<start> yes , darling ? <end> +++ <start> stuff it . <end>
+<start> this is 132 , over . <end> +++ <start> ben uh i just heard about the station . <end>
+<start> in birmingham . <end> +++ <start> oh yeah ? that s my home town . <end>
+<start> okay . my main man . marvin gaye . <end> +++ <start> easy . gunshot . patricide . next . <end>
+<start> you heard what abbott said ? <end> +++ <start> yes . <end>
+<start> that s it . <end> +++ <start> okay , so that s it . <end>
+<start> i know it s a lot . <end> +++ <start> i mean a parking lot . <end>
+<start> where is she ? ! <end> +++ <start> hey , take it easy . <end>
+<start> it s from an ira . <end> +++ <start> oh shit . . . <end>
+<start> you come highly recommended by herr seebach . <end> +++ <start> herr seebach was a very kind employer . <end>
+<start> is that him ? <end> +++ <start> wait a second . <end>
+<start> whatever happened to mary ? <end> +++ <start> i told you , her family moved to miami . <end>
+<start> let them look . <end> +++ <start> it is trouble for me . <end>
+<start> who is it ? <end> +++ <start> it s me , ed . <end>
+<start> gee that fair <end> +++ <start> it hasn t opened yet ? <end>
+<start> you mean he doesn t like bad guys . <end> +++ <start> that right ? <end>
+<start> i never . . . . <end> +++ <start> where s the lady who brings the soda ? <end>
+<start> and you are ? <end> +++ <start> looking for maggie . <end>
+<start> glenn , are you trying to steal this car ? <end> +++ <start> jesus , i don t believe it . <end>
+<start> who ? <end> +++ <start> roy . <end>
+<start> i need the wayne diamonds . <end> +++ <start> we gonna trap ourselves a snowman ? <end>
+<start> you don t seem like no fag . . . <end> +++ <start> what s that supposed to mean ? <end>
+<start> no special conditions ? <end> +++ <start> no conditions . <end>
+<start> fucked me . <end> +++ <start> ray ! <end>
+<start> oh , and austin . . . <end> +++ <start> yes ? <end>
+<start> tijuana . <end> +++ <start> they were here ? <end>
+<start> is that right ? <end> +++ <start> i don t like starlings . <end>
+<start> we must be a curious sight to him . <end> +++ <start> what are you spying on ? <end>
+<start> yes . <end> +++ <start> and then what happened ? <end>
+<start> i thought you weren t coming . <end> +++ <start> i almost didn t . <end>
+<start> clean ? <end> +++ <start> more or less . <end>
+<start> you better stop running from that girl . <end> +++ <start> fuuuuuuck u ! <end>
+<start> was i at that dinner ? <end> +++ <start> you were wandering around . <end>
+<start> that s the end of the line . <end> +++ <start> then i know my alphabet . <end>
+<start> put them down . <end> +++ <start> i heard you met shu lien today . <end>
+<start> call petrov . . . i ll be back . <end> +++ <start> both of you . <end>
+<start> and you did that to protect my interest ? <end> +++ <start> in a way , yes . <end>
+<start> what are you going to ? <end> +++ <start> pull over . <end>
+<start> oooooh , i m good . <end> +++ <start> hey , you guys back already ? <end>
+<start> no . <end> +++ <start> you can t bring it . <end>
+<start> i always knew that you were special . <end> +++ <start> you did ? <end>
+<start> of course i like girls . <end> +++ <start> a lot ? i mean , a whole lot ? <end>
+<start> i know . <end> +++ <start> it s not your fault . <end>
+<start> am i fucking him ? <end> +++ <start> shit . <end>
+<start> i haven t seen you around here . <end> +++ <start> you just haven t been looking . <end>
+<start> you re the shrink , aren t you ? <end> +++ <start> no , not really . <end>
+<start> why ? you re never going to know . <end> +++ <start> yes , i will . <end>
+<start> am i really so deeply repugnant ? <end> +++ <start> yes . <end>
+<start> transmit copy of program via satellite north uplink . <end> +++ <start> destination ? <end>
+<start> that isn t magic . <end> +++ <start> what ? <end>
+<start> how many months are you ? <end> +++ <start> two . <end>
+<start> and the light goes out . . . <end> +++ <start> frankenstein ! <end>
+<start>  <end> +++ <start> ext . motel night . <end>
+<start> and what do you tell yourself now ? <end> +++ <start> nothing . it s over . <end>
+<start> ten is standard , sir . <end> +++ <start> fine . but only if we recover the cash . <end>
+<start> so what happened ? <end> +++ <start> i told you . nothing <end>
+<start> hello , peter . <end> +++ <start> you sonofabitch ! <end>
+<start> who s the old geezer ? <end> +++ <start> some judge . . . <end>
+<start> what s wrong ? <end> +++ <start> nothing . . . <end>
+<start> i m glad you stayed . thank you . <end> +++ <start> i d better get back now . <end>
+<start> prepare what ? <end> +++ <start> my disguise . and here . . . <end>
+<start> need any help ? <end> +++ <start> i can manage . <end>
+<start> it s boring , isn t it ? <end> +++ <start> i can sit through it once . <end>
+<start> daddy ! <end> +++ <start> yes , amy ? <end>
+<start> she s a friend of jill s . <end> +++ <start> and who s jill ? <end>
+<start> you sure ? <end> +++ <start> yeah , i m sure . <end>
+<start> you know who ? <end> +++ <start> maybe . <end>
+<start> oh , tangerine . <end> +++ <start> nothing makes any sense . nothing makes any sense . <end>
+<start> what do i play ? <end> +++ <start> you play left field . <end>
+<start> a fine specimen for conversion . <end> +++ <start> what are you on about ? <end>
+<start> shall i give you a few ideas ? <end> +++ <start> please . <end>
+<start> that was very good . <end> +++ <start> thank you . <end>
+<start> i m going to miss you . <end> +++ <start> oh , rosie . <end>
+<start> cigarette ? <end> +++ <start> no thanks . <end>
+<start> just banged my head . it was an accident . <end> +++ <start> another accident ? you got to be more careful . <end>
+<start> so beautiful ! <end> +++ <start> hang on . <end>
+<start> have they done blood tests on him ? <end> +++ <start> yes . <end>
+<start> you still in school ? <end> +++ <start> nah , i got me a job . <end>
+<start> it s been known to happen . <end> +++ <start> not to me , you know that . <end>
+<start>  <end> +++ <start>  <end>
+<start> yep , it s all yours . <end> +++ <start> okay . <end>
+<start> this is everything ? is there . <end> +++ <start> is there . is all there . <end>
+<start> david <end> +++ <start> we re playing ! <end>
+<start> and look who you brought with ! <end> +++ <start> sophie , this is chauncey gardiner . . . <end>
+<start> deutchland , deutchland . . . <end> +++ <start> mr . liebkind , mr . liebkind . <end>
+<start> lance johnson ? the surfer ? <end> +++ <start> that s right , sir . <end>
+<start> of course not . <end> +++ <start> that s not very logical , lester . <end>
+<start> perhaps these are the ones mapes told us of . <end> +++ <start> are you trained in the ways of the desert ? <end>
+<start> feel like the dog s dinner . <end> +++ <start> probably a touch of what s going around . <end>
+<start> a ride . you want one ? <end> +++ <start> yeah . but i got my bike . <end>
+<start> can i undress and talk at the same time ? <end> +++ <start> right . <end>
+<start> god , you have great legs . <end> +++ <start> harry . . . snap out of it ! <end>
+<start> yeah , almost . . . <end> +++ <start> you dodged a bullet . <end>
+<start> even when you were young ? <end> +++ <start> nope . not even when i was young . <end>
+<start> did you ever see eldorado ? <end> +++ <start> what ? <end>
+<start> i think you had better both come inside . <end> +++ <start> you re too kind . <end>
+<start> alone ? <end> +++ <start> no . <end>
+<start> anyone else make it ? <end> +++ <start> i don t think so . <end>
+<start>  <end> +++ <start> okay . <end>
+<start> what re these ? <end> +++ <start> i don t know . what are they ? <end>
+<start> i gotta know the truth , kevin . <end> +++ <start> the truth is for suckers , johnny boy . <end>
+<start> did you hear something ? <end> +++ <start> not me . <end>
+<start> that s it . dyke s auto camp . <end> +++ <start> thanks . <end>
+<start> what s that ? <end> +++ <start> half red , half black <end>
+<start> that s s . o . p . . <end> +++ <start> s . o . p . . <end>
+<start> oh , for christ s sake . <end> +++ <start> you are . <end>
+<start> sure . <end> +++ <start> after you then . <end>
+<start> yes , monsieur . <end> +++ <start> right away . . . instantly ! <end>
+<start> she wants to have an affair with me . <end> +++ <start> she said that ? <end>
+<start> hello ! <end> +++ <start> hello . <end>
+<start> albert s got the stomach flu . <end> +++ <start> that s too bad . <end>
+<start> whose rooms are those ? <end> +++ <start> your mother s . <end>
+<start> flowers . <end> +++ <start> i m terribly sorry she isn t here . <end>
+<start> can you account for his disappearance in any way ? <end> +++ <start> no . <end>
+<start> what re you doin ? <end> +++ <start> blessing you like the others . it s painless . <end>
+<start> cunt . <end> +++ <start> stop it . <end>
+<start> how do i look ? <end> +++ <start> like a woman of mystery . <end>
+<start> betsy , can i talk to you a minute ? <end> +++ <start> of course , wes . <end>
+<start> you didn t just smash up the bathroom ? <end> +++ <start> no . <end>
+<start> i don t know . i got a feeling . <end> +++ <start> i m wearing your bracelet . <end>
+<start> and we got a guy in justice <end> +++ <start> deep throat ? <end>
+<start> what ? nobody set anybody up . <end> +++ <start> the cops were there waitin for us ! <end>
+<start> no . lambeau okay thank you , timmy . <end> +++ <start> so who won the bet ? <end>
+<start> no , edgar allen . <end> +++ <start> the furniture guy ? <end>
+<start> are you telling me i m a non smoker ? <end> +++ <start> just for now . <end>
+<start> there s always a bright side . <end> +++ <start> i m listening , sir . <end>
+<start> did you howl off key at the moon again ? <end> +++ <start> aannnnaahhnn . <end>
+<start> who s there ? <end> +++ <start> let me in . <end>
+<start> no . <end> +++ <start> move ! <end>
+<start> what ? he gonna record you on his label ? <end> +++ <start> maybe . <end>
+<start> you attacked me . <end> +++ <start> can you think of something more romantic than attacked ? <end>
+<start> i really creamed the sonofabitch , didn t i ? <end> +++ <start> you sure did . <end>
+<start> a subconscious type thing . <end> +++ <start> yah , that can happen . <end>
+<start> whew ! where that come from ? <end> +++ <start> found it . growing in a garden . <end>
+<start> thank you . goodbye , john . <end> +++ <start> goodbye , pete . <end>
+<start> i made them , man . . . . <end> +++ <start> i stuck them on , man . . . . <end>
+<start> i think i ve heard of you . <end> +++ <start> it s possible . <end>
+<start> can we talk price ? <end> +++ <start> make me an offer . <end>
+<start> i love you . <end> +++ <start> love you too . . <end>
+<start> yes . <end> +++ <start> really want to know ? <end>
+<start> maybe you were born older , george . <end> +++ <start> how s that ? <end>
+<start> what s going on here ? <end> +++ <start> tell me again . your wife . <end>
+<start> ow ! shit ! <end> +++ <start> be quiet ! listen ! <end>
+<start> and d brooke is obviously hiding something . <end> +++ <start> but maybe it s not what you think . <end>
+<start> no , it s a very groovy girl . <end> +++ <start> then what s the problem ? <end>
+<start> what can i do for you ? <end> +++ <start> checking in . . . karla wilson . <end>
+<start> oh , god . <end> +++ <start> he is so bald . <end>
+<start> bully for you . <end> +++ <start> you don t have to be unfriendly . <end>
+<start> and ? <end> +++ <start> drains right into the central reservoir . <end>
+<start> john , how are you ? <end> +++ <start> i ll be sending you on a report tonight . <end>
+<start> yeah . <end> +++ <start> a sponsor . <end>
+<start> it s early . <end> +++ <start> it must be one o clock . <end>
+<start> what ? <end> +++ <start> your grandfather s here . <end>
+<start> what the hell you need her for ? <end> +++ <start> because i think i m wrong . <end>
+<start> probably not . <end> +++ <start> it was for my report . <end>
+<start> i wouldn t know . <end> +++ <start> oh , you . . . <end>
+<start> i don t care . <end> +++ <start> kids eat that kind of stuff in korea . <end>
+<start> who the hell was your father ? <end> +++ <start> well , dad said . . . <end>
+<start> what the hell happened down there , worf ? <end> +++ <start> commander . . . we have a problem . <end>
+<start> what are you doing there ? <end> +++ <start> reconstructing a life . care to have a look ? <end>
+<start> do you have a boyfriend ? <end> +++ <start> no . do you ? <end>
+<start> y mean take off our costumes ? <end> +++ <start> guess i m sick of wearing masks . . . <end>
+<start> going north ? <end> +++ <start> you bet your raggedy white ass i am . <end>
+<start> huh ? <end> +++ <start> open up the trunk . <end>
+<start> welcome back . <end> +++ <start> thank you , ma am . <end>
+<start> wham . . . . <end> +++ <start> how do you like it ? <end>
+<start> no . <end> +++ <start> why ? <end>
+<start> what are you talking about ? <end> +++ <start> what are we talking about ? <end>
+<start> no , i don t , mr . kane . <end> +++ <start> i didn t used to be afraid of it . <end>
+<start> who s that ? <end> +++ <start> i haven t the slightest idea . <end>
+<start> you wanna buy some ignorant art ? ten bucks . <end> +++ <start> ignorant art ? <end>
+<start> yeah , i m 5 5 and 1 . <end> +++ <start> so , it s not a winning record . <end>
+<start> thank you . you have one ? <end> +++ <start> a wife . she left . <end>
+<start> want to join me ? <end> +++ <start> some other time , cecile . <end>
+<start> hello . <end> +++ <start> beautiful place . . . <end>
+<start> i want to know ! <end> +++ <start> barton , honestly , only the last couple <end>
+<start> no . <end> +++ <start> then what do you think ? <end>
+<start> your hairline looks like it s receding . <end> +++ <start> it s not . <end>
+<start> mm hm . <end> +++ <start> screwgie . <end>
+<start> was the child full term ? <end> +++ <start> oh , dear god . . . <end>
+<start> that dam is a con job . <end> +++ <start> what dam ? <end>
+<start> a blimp . <end> +++ <start> a turd . <end>
+<start> sure . it complies with all standard construction codes . <end> +++ <start> great . <end>
+<start> i stood up first . <end> +++ <start> that doesn t matter . <end>
+<start> what do you do ? <end> +++ <start> althea hasn t told you ? <end>
+<start> good evening , miss schmidt . you remember me ? <end> +++ <start> of course . <end>
+<start> no , it s not . <end> +++ <start> yes it is . i ve seen it . <end>
+<start> man this is heavy ! <end> +++ <start> yeah what s this , murdered elephant ? <end>
+<start> innocuous ? <end> +++ <start> defined by webster s as harmless . <end>
+<start> her headaches . <end> +++ <start> oh , yes . <end>
+<start> oh , so now you think you know me ? <end> +++ <start> i m gettin there <end>
+<start> weir . <end> +++ <start> he s dead . . . <end>
+<start> nice friend . <end> +++ <start> yeah . <end>
+<start> what is it ? <end> +++ <start> like this . <end>
+<start> for a price . <end> +++ <start> good god . <end>
+<start> i know . <end> +++ <start> how do you know ? <end>
+<start> who knows you have these ? <end> +++ <start> only you . and the photo lab . <end>
+<start> you d like to see a nuclear holocaust ? <end> +++ <start> not a holocaust <end>
+<start> not yet . <end> +++ <start> okay . . . thanks . . . <end>
+<start> it must be twelve thirty . <end> +++ <start> yes just exactly . <end>
+<start> oh , james . i ve missed you <end> +++ <start> is this another one of your games ? <end>
+<start> yeah , that s old , in a tree . <end> +++ <start> oh . <end>
+<start> do you plan everything ? <end> +++ <start> always . <end>
+<start> kennedy s a catholic . he ll never win . <end> +++ <start> he ll win . <end>
+<start> that s ridiculous . <end> +++ <start> maybe . but that s how it works . <end>
+<start> what . . . ? <end> +++ <start> is this really news to you ? <end>
+<start> do what ? <end> +++ <start> move to mars . <end>
+<start> where are you going ? <end> +++ <start> we re heading back to cape kenneth . <end>
+<start> what ? <end> +++ <start> anything . <end>
+<start> i understand you were in africa . whereabouts ? <end> +++ <start> oh , all over . <end>
+<start> i m glad bill s back . <end> +++ <start> they d die without each other . <end>
+<start> no , i just thought <end> +++ <start> well don t think ! <end>
+<start> fundoscopic examination <end> +++ <start> fundoscopic examination is unrevealing in these cases ! <end>
+<start> you re vulnerable . <end> +++ <start> it s about time . <end>
+<start> i d rather read , thank you . <end> +++ <start> you prefer a book to your husband s company ? <end>
+<start> no , wait , are you <end> +++ <start> lt . madison , go . <end>
+<start> oh , golly . and i forgot to tell you <end> +++ <start> yes , dear . you forgot all about it . <end>
+<start> i will . <end> +++ <start> do you love me ? <end>
+<start> he wouldn t say . <end> +++ <start> christ , what is going on in there ? <end>
+<start> who cares ? i got a case . <end> +++ <start> twelve pack ? <end>
+<start> rules are rules . <end> +++ <start> come on , it s our only senior prom . <end>
+<start> my god . <end> +++ <start> not bad , huh ? <end>
+<start> okay . <end> +++ <start> come on . . . <end>
+<start> how d they get it inside ? <end> +++ <start> through the door . it comes apart . <end>
+<start> are you ready ? <end> +++ <start> ready ? we ve got plenty of time . <end>
+<start> we should get moving . <end> +++ <start> doc s just in no kinda shape . <end>
+<start> holy shit . <end> +++ <start> lemme see the map . <end>
+<start> i don t have a girlfriend <end> +++ <start> you said you did . <end>
+<start> well , here we are again . <end> +++ <start> yes , here we are again . good night . <end>
+<start> so how do we give ordell to nicolet ? <end> +++ <start> get ordell to come to your office . <end>
+<start> how did you get here ? <end> +++ <start> where is it ? i want it . <end>
+<start> have you seen him ? <end> +++ <start> i ain t seen him for a week . <end>
+<start> all right . tell em to shoot to kill . <end> +++ <start> what ? <end>
+<start> you look good . . . <end> +++ <start> you , too , ma . . . <end>
+<start> got it . over . <end> +++ <start> meet me in the moonpool . move fast . <end>
+<start> tread matches . it s the car . <end> +++ <start> yes . <end>
+<start> joyce can be nice . <end> +++ <start> what d she say ? <end>
+<start> i think we may as well sit down . <end> +++ <start> i guess all the suspects are here . <end>
+<start> do you like fish ? <end> +++ <start> not that much . <end>
+<start> okay . <end> +++ <start> i thought he d be here to meet me . <end>
+<start> whom did they choose ? <end> +++ <start> herr sommer . <end>
+<start> what s his name again ? <end> +++ <start> campaign manager ? waldrip . <end>
+<start> daddy , no ! <end> +++ <start> just for a minute <end>
+<start> ben . <end> +++ <start> mr . mcquire . <end>
+<start> what s her name ? <end> +++ <start> lynn bracken . <end>
+<start> it s up to you ladies . <end> +++ <start> howard ! <end>
+<start> all right , let it go . <end> +++ <start> . . . turn . <end>
+<start> we did talk about naomi . <end> +++ <start> i said are you sure ? you seem unsure . <end>
+<start> hang . . . <end> +++ <start> . . . on ! <end>
+<start> you ll find i m full of surprises . <end> +++ <start> and i too . <end>
+<start> hey . <end> +++ <start> your hair looks so cute like that . <end>
+<start> listen to me <end> +++ <start> tired of chasing squirrels around the park ? <end>
+<start> it s thanksgiving . <end> +++ <start> to you , to me it s thursday . <end>
+<start> no . <end> +++ <start> that s bullshit . <end>
+<start> i don t need them anymore . . . <end> +++ <start> i know . <end>
+<start> yeah , it is . <end> +++ <start> i never get my hair done . <end>
+<start> of course i am . <end> +++ <start> of course you are . <end>
+<start> don t do that . <end> +++ <start> do what ? <end>
+<start> i m pulling up . <end> +++ <start> no ! now we re inverted ! <end>
+<start> do you think cathy s all right ? <end> +++ <start> what ? <end>
+<start> i know . <end> +++ <start> i put a cigarette out in it . <end>
+<start> so you saved her . <end> +++ <start> yeah . but not for long . <end>
+<start> lava ? <end> +++ <start> no . <end>
+<start> good night , sugar . <end> +++ <start> good night , honey . <end>
+<start> my wife . <end> +++ <start> dead ? <end>
+<start> is that the way it is ? <end> +++ <start> pretty much . <end>
+<start> i get it . <end> +++ <start> tell me . <end>
+<start> it didn t discourage you , though . <end> +++ <start> hey ? <end>
+<start> same weight i always was . <end> +++ <start> you look awful good in that uniform , though . <end>
+<start> i wanted him to marry her . <end> +++ <start> why ? <end>
+<start> okay . okay . i believe you . <end> +++ <start> you killed her ! <end>
+<start> you ve heard the stories right ? <end> +++ <start> no . <end>
+<start> how do you feel about him now ? <end> +++ <start> i don t know , zander . <end>
+<start> you re so bossy . <end> +++ <start> you re leaving me here alone ? <end>
+<start> five hundred yards . <end> +++ <start> you have a man near it ? <end>
+<start> i m on break from <end> +++ <start> oxbridge academy ? <end>
+<start> very happily married . <end> +++ <start> same here . <end>
+<start> the plane is fine . <end> +++ <start> is it you ? <end>
+<start> that s right , steve . <end> +++ <start> can i have my gun back ? <end>
+<start> well , you re catching on . <end> +++ <start> who , for instance ? <end>
+<start> oh yeah . . . ? alright . <end> +++ <start> i m ready to be briefed . excuse us . <end>
+<start> who ? <end> +++ <start> bianca <end>
+<start> she your wife ? <end> +++ <start> suppose you could say that . <end>
+<start> i m not going ! <end> +++ <start> you don t have a choice . <end>
+<start> we must abandon . <end> +++ <start> contaminated substance . very dangerous . shooting mud . <end>
+<start> john ! don t ! <end> +++ <start> you promised dad you wouldn t never tell ! <end>
+<start> baked with a butter lime glaze . <end> +++ <start> now we re talking . <end>
+<start> did you see that ? it s remarkable ! <end> +++ <start> huh ? <end>
+<start> i m sorry . <end> +++ <start> what is it ? <end>
+<start> my god , what in hell happened here ? <end> +++ <start> come on , copper . <end>
+<start> deep blue ? i d call it grey blue . <end> +++ <start> you must come from pretty far south . <end>
+<start> 0h , shit ! <end> +++ <start> you don t think . . . <end>
+<start> it s just a room . . . <end> +++ <start> so shall we begin ? what do yo do ? <end>
+<start> relatives of old man semple . <end> +++ <start> they keep insisting they should have some nuisance value . <end>
+<start> and who runs it ? <end> +++ <start> i already told you . <end>
+<start> you re u sure u ? ? ? <end> +++ <start> yes ! just do it ! <end>
+<start> tell me one ? <end> +++ <start> she d aspirated vomitus into her mask . . . <end>
+<start> sit down a minute . <end> +++ <start> what s up ? <end>
+<start> what picture ? <end> +++ <start> i m talking about you . <end>
+<start> no . <end> +++ <start> i m just laying on my bed . <end>
+<start> you re sure of that ? <end> +++ <start> yes . i am . <end>
+<start> oh , please . <end> +++ <start> give me a break . <end>
+<start> uh , yeah . we re old friend <end> +++ <start> you and verona ? <end>
+<start> you think i m crazy . <end> +++ <start> i think you re different . <end>
+<start> get outta there ! <end> +++ <start> i can t ! do you mind ! <end>
+<start> wonderful if one could believe it . <end> +++ <start> you must , darling . <end>
+<start> it s sarah . <end> +++ <start> roman that s not the line . <end>
+<start> oh , my god . <end> +++ <start> great story , isn t it ? <end>
+<start> how different ? <end> +++ <start> toffs game there . but not at home . . <end>
+<start> not a thing . <end> +++ <start> was there much blood ? <end>
+<start> dr . maxwell it s nice to see you . <end> +++ <start> dr . maxwell has very unpleasant news for us . <end>
+<start> jesus . <end> +++ <start> i thought you d be happy . <end>
+<start> not what ? <end> +++ <start> he s not crazy . <end>
+<start> what do you know about trilogies ? <end> +++ <start> you mean like , movie trilogies ? <end>
+<start> beat i do it . <end> +++ <start> have you always been a waitress ? <end>
+<start> assholes . this happen to you ? <end> +++ <start> twice a year . <end>
+<start> nude . imagine , a pair . <end> +++ <start> it ll be all right . . . <end>
+<start> yeah , do you know em ? <end> +++ <start> no , just checking . <end>
+<start> huh ? <end> +++ <start> they re movin . <end>
+<start> then let s not get caught . <end> +++ <start> what are you talkin about ? <end>
+<start> who the hell would you call ? <end> +++ <start> anyone . <end>
+<start> take care , wilya johnny ? <end> +++ <start> see you on the bounce ! <end>
+<start> that is correct . <end> +++ <start> this is from the highest authority ? <end>
+<start> why are you crying ? <end> +++ <start> i ll miss you . <end>
+<start> capitalistic methods . . . <end> +++ <start> they accumulate millions by taking loss after loss . <end>
+<start> the door was unlocked . <end> +++ <start> lock s busted . <end>
+<start> well , i live downtown . <end> +++ <start> yeah , i , we both live downtown . <end>
+<start> i know the feeling . <end> +++ <start> how do you become something you re not ? <end>
+<start> not the focus . <end> +++ <start> you know what i mean . <end>
+<start> she s a pretty good sort . <end> +++ <start> what does she do with herself after business hours ? <end>
+<start> why doesn t it never work out ? <end> +++ <start> what ? <end>
+<start> did they . . . ? <end> +++ <start> you understand ? <end>
+<start> you don t like my voice . . . ? <end> +++ <start> i don t like the song . <end>
+<start> w w what are you doing ? ! <end> +++ <start> performing a miracle . <end>
+<start> your sexual orientation ? <end> +++ <start> hetero . <end>
+<start> my father said i should ve gotten a lawyer ! <end> +++ <start> then your father s a wimp . <end>
+<start> really ? <end> +++ <start> yeah . <end>
+<start> where s my information ? <end> +++ <start> in here . . . <end>
+<start> does she wear glasses ? <end> +++ <start> no . <end>
+<start> no what ? <end> +++ <start> no ! <end>
+<start> . . . makes me . . . <end> +++ <start> yes ? <end>
+<start> nagger ? <end> +++ <start> no , nigger . <end>
+<start> what are you talking about ? who ? <end> +++ <start> just some people from work . . . <end>
+<start> i m looking for a private island . <end> +++ <start> what are you running away from ? <end>
+<start> i m just going to my car . <end> +++ <start> that s right on my way . <end>
+<start> don t you want to hear what s next ? <end> +++ <start> what s next ? <end>
+<start> and be poisoned out here in the open ? <end> +++ <start> certainly not ! <end>
+<start> what ? ! <end> +++ <start> josh proposed ! <end>
+<start> well . . . <end> +++ <start> i think they re announcing your flight . <end>
+<start> we ve got lift off ! <end> +++ <start> may the forks be with us ! <end>
+<start> no , i ain t got you . . . <end> +++ <start> no , i ain t got you . . . <end>
+<start> oh baby . <end> +++ <start> don t go upstairs . <end>
+<start> why you re here ? <end> +++ <start> . . . yeah . <end>
+<start> wally thinks apples are boring . <end> +++ <start> i never said they were boring . <end>
+<start> natasha ? <end> +++ <start> no . doris . <end>
+<start> if you re unhappy with the arrangement <end> +++ <start> i m not unhappy . <end>
+<start> brill . <end> +++ <start> never . <end>
+<start> the cops call him the dreamer . <end> +++ <start> where do i find him ? <end>
+<start> peter . <end> +++ <start> what ? <end>
+<start> ow ! <end> +++ <start> oh , hush . i disengaged your pain programming . <end>
+<start> twenty five wives ! <end> +++ <start> and he killed every last one of em ! <end>
+<start> they re afraid of you , aren t they ? <end> +++ <start> they should be . <end>
+<start> nobody . <end> +++ <start> well , what s the beef ? <end>
+<start> thank you . <end> +++ <start> you re welcome . <end>
+<start> otherwise , how are things ? <end> +++ <start> i sure didn t expect her to drop dead . <end>
+<start> you know what happened . <end> +++ <start> no , i don t . <end>
+<start> i know it ain t no durned bank holiday ! <end> +++ <start> you re right , sir . <end>
+<start> no , it was worse than that . . . <end> +++ <start> the f word ? ! <end>
+<start> so you re just the thing we need . <end> +++ <start> excuse me ? <end>
+<start> god bless ya , rock . <end> +++ <start> thanks , mick i m gonna try . <end>
+<start> now , george ! dinner s ready now ! <end> +++ <start> coming , eileen . . . <end>
+<start> i never hear the whistle . <end> +++ <start> feed the dogs . <end>
+<start> what re you doing here ? <end> +++ <start> i ll take care of him . <end>
+<start> you need the money just like we do . <end> +++ <start> shut up , violet . <end>
+<start> i am lieutenant dunbar . <end> +++ <start> what is your number ? <end>
+<start> that s the one . <end> +++ <start> they don t suspect i him i ? <end>
+<start> then why the hell are you sitting around here ? <end> +++ <start> right . <end>
+<start> so he s doing okay ? <end> +++ <start> seemed fine . quiet evening enjoying his new digs . <end>
+<start> barton , honestly , only the last couple <end> +++ <start> hah ! <end>
+<start> the moment of truth . <end> +++ <start> another man s life in your sights . <end>
+<start> so you live in chicago now ? <end> +++ <start> yup . not far from here , actually . <end>
+<start> well hector s a giant cracker . <end> +++ <start> you think jack s handsome ? <end>
+<start> hey , sisters . are you going in there ? <end> +++ <start> you know it . <end>
+<start> i said , tell me to go to the <end> +++ <start> i heard you , i heard you . <end>
+<start> thank you . <end> +++ <start> oh , and austin . . . <end>
+<start> where s my wife ? <end> +++ <start> okay then . here s the scoop . <end>
+<start> you have the wrong house . <end> +++ <start> and who might you be ? <end>
+<start> i mean pulling a stunt like that . <end> +++ <start> what are you talking about ? <end>
+<start> no kidding ? <end> +++ <start> yes . <end>
+<start> exactly . <end> +++ <start> richard , you know something <end>
+<start> more ? <end> +++ <start> no . thanks . <end>
+<start> how d she die ? <end> +++ <start> auto wreck . <end>
+<start> you re it . <end> +++ <start> am not . <end>
+<start> you are so brilliant . <end> +++ <start> yep . <end>
+<start> far away . <end> +++ <start> kiss me . <end>
+<start> she called you brad ? <end> +++ <start> she called me brad . <end>
+<start> george ! <end> +++ <start> yeah . <end>
+<start> where up north ? <end> +++ <start> seattle . <end>
+<start> it s not the air force anymore , scuff <end> +++ <start> so where are you ? <end>
+<start> or a bit player <end> +++ <start> or a supporting actor <end>
+<start> ten pounds . <end> +++ <start> you re a liar . <end>
+<start> did you sleep with her ? <end> +++ <start> i admit nothing . <end>
+<start> who ? <end> +++ <start> the other guests ? <end>
+<start> course plotted for regula i , admiral . . . <end> +++ <start> engage warp engines <end>
+<start> hey , boss . get a load of this . <end> +++ <start> what ? <end>
+<start> a couple blocks ! about six ! <end> +++ <start> we work there ! <end>
+<start> yes , but we re just singing . <end> +++ <start> sue was trying to get hold of you . <end>
+<start> what is it , your charm ? <end> +++ <start> this just won t work . <end>
+<start> what ll you do when you leave here ? <end> +++ <start> i don t know . <end>
+<start> yeah ? <end> +++ <start> are you a lawyer ? <end>
+<start> who ? <end> +++ <start> michael meyers . <end>
+<start> how re you doing ? <end> +++ <start> i m doing great . you ready ? <end>
+<start> hello ? computer . . . ? <end> +++ <start> just use the keyboard . . . <end>
+<start> thank you . <end> +++ <start> right . <end>
+<start> what are you doing here ? <end> +++ <start> i was lost . <end>
+<start> so , is everything okay ? <end> +++ <start> how are the rooms ? comfortable ? <end>
+<start> what do you mean , it ll find her ? <end> +++ <start> she said it was coming . . . . <end>
+<start> yeah . well , you re okay ? <end> +++ <start> yeah , thanks for keeping an eye out . <end>
+<start> do you love me ? <end> +++ <start> of course . <end>
+<start> i know where they re going . <end> +++ <start> figured you did . <end>
+<start> you know what you got here ? <end> +++ <start> not really <end>
+<start> then i ll have to kill you . <end> +++ <start> then kill me . <end>
+<start> if we can get a clean shot <end> +++ <start> u inside u the house ? <end>
+<start> she knows you real self ? <end> +++ <start> she knows how she feel . <end>
+<start> but he always says . . . <end> +++ <start> . . . whatever is manly and independent . <end>
+<start> no , we re just . . . <end> +++ <start> we re just talking about it . <end>
+<start> go away . <end> +++ <start> yessir . <end>
+<start> how ? <end> +++ <start> the same as jane mckenna . <end>
+<start> three ? i count two . <end> +++ <start> three . <end>
+<start> i don t know . maybe california . <end> +++ <start> you swear ? <end>
+<start> never mind . he died two years ago . <end> +++ <start> 1985 . hans korshaud . <end>
+<start> well , maybe he did , huh ? <end> +++ <start> his girlfriend doesn t think so . <end>
+<start> design major . <end> +++ <start> can we not talk about this ? <end>
+<start> sir ? <end> +++ <start> of them . <end>
+<start> let me just check on my boy . <end> +++ <start> don t worry . he s in good hands . <end>
+<start> did you find a sword ? an old sword ? <end> +++ <start> yeah how d you know that ? <end>
+<start> how s it going , doc ? <end> +++ <start> okay . <end>
+<start> it s nice isn t it ? <end> +++ <start> oh . . . <end>
+<start> try next of kin . <end> +++ <start> next of kin ! <end>
+<start> i can t . it s all too much . <end> +++ <start> go on . you can do it . <end>
+<start> what ? ! <end> +++ <start> i said , i m sorry ! <end>
+<start> the royal . . . studs ? <end> +++ <start> you see the top yardarm , now look to the <end>
+<start> no , all we got is 40 . <end> +++ <start> you sure ? <end>
+<start> maybe we ll see you sometime . <end> +++ <start> yeah . . . maybe . so long . <end>
+<start> man , what re you saying ? <end> +++ <start> ray , we got the shotguns . <end>
+<start> you ve been watching the film . <end> +++ <start> tell me about the girl . <end>
+<start> no , it reminds me . <end> +++ <start> would you like one ? huh ? <end>
+<start> you did . <end> +++ <start> you knit ? <end>
+<start> aren t you scared kinnear will find out ? <end> +++ <start> he won t . he thinks i m simple . <end>
+<start> we re going up to bed now . <end> +++ <start> thanks , mom . <end>
+<start> what are you talking about ? ? ? <end> +++ <start> you know your plan . <end>
+<start> i knew that after the fact . <end> +++ <start> why didn t you do anything to stop her ? <end>
+<start> how do you get this thing down ? <end> +++ <start> tell me what happened theo . <end>
+<start> no . shit . <end> +++ <start> come on . <end>
+<start> they recruited me when i was in high school . <end> +++ <start> jesus why ? <end>
+<start> hey , you alright ? <end> +++ <start> what ? <end>
+<start> so she didn t mention anything more about it ? <end> +++ <start> no she isn t in any trouble is she ? <end>
+<start> the earth just opens up and swallows people . <end> +++ <start> eerie . really eerie . <end>
+<start> out the back . <end> +++ <start> and the weed ? <end>
+<start> . . . you ride winston . <end> +++ <start> you sure ? <end>
+<start> where at ? <end> +++ <start> palmdale . <end>
+<start> you know that can t happen . <end> +++ <start> oh , why is that ? <end>
+<start> don t give up on me now , dean . <end> +++ <start> they ll never stop . <end>
+<start> yes , miss ratched , this is correct . <end> +++ <start> but you have no proof . <end>
+<start> what on earth are they doing ? <end> +++ <start> who am i , david blane ? <end>
+<start> there ya go . <end> +++ <start> good , let s drink up . <end>
+<start> you gonna open up another sal s famous pizzeria ? <end> +++ <start> no . what are you gonna do ? <end>
+<start> not bad . <end> +++ <start> get it ? <end>
+<start> what d you say ? <end> +++ <start> nothing . let s go . . . . <end>
+<start> how are you ? <end> +++ <start> scarred for life , that s how i am ! <end>
+<start> i m playing to win . <end> +++ <start> winning isn t everything . <end>
+<start> i was at harrow . . . <end> +++ <start> but did they teach you this ? <end>
+<start> here s the file . cates checks the file . <end> +++ <start> one of em s in the slam . <end>
+<start> you hear trouble . <end> +++ <start> what is it ? <end>
+<start> far out . where are my glasses ? <end> +++ <start> they broke when you fell . <end>
+<start> no . . . <end> +++ <start> please . . . <end>
+<start> why ? <end> +++ <start> i got punished , man . <end>
+<start> whyn t you learn your lines ? <end> +++ <start> i u know u my lines . . . <end>
+<start> he doesn t bite . <end> +++ <start> they never do , mr . barker . <end>
+<start> lyssa . . . <end> +++ <start> colwyn . . . <end>
+<start> hey jack , join us . <end> +++ <start> no thanks . <end>
+<start> you re lying . <end> +++ <start> i lost him . i was panicked . <end>
+<start> graduate thesis <end> +++ <start> about the witch <end>
+<start> what s your twenty ? <end> +++ <start> bout fourteen miles this side of mississippi . <end>
+<start> why ? <end> +++ <start> you go in for dangerous things . <end>
+<start> a simple please would suffice . . . <end> +++ <start> fluck you ! <end>
+<start> almost . <end> +++ <start> i said get out . <end>
+<start> businessman ? <end> +++ <start> businessman ! <end>
+<start> obviously . <end> +++ <start> how many ? <end>
+<start> a perry russo ? <end> +++ <start> no . <end>
+<start> ha ! is the pope catholic ? <end> +++ <start> i don t know . <end>
+<start> i beg your pardon ? <end> +++ <start> who is this ? <end>
+<start> to see your reaction . <end> +++ <start> reaction to what ? <end>
+<start> then there it is . ashby gets the itch . <end> +++ <start> the standard ten . <end>
+<start> what s it called ? <end> +++ <start> anguish . <end>
+<start> my pleasure . <end> +++ <start> it was at least as good as the sky . <end>
+<start> how much ? <end> +++ <start> ten pounds . <end>
+<start> when did you start drinking again ? <end> +++ <start> a couple days ago . <end>
+<start> i can never get a way from it . <end> +++ <start> old ties are hard to cut . <end>
+<start> ready ? <end> +++ <start> hit it . <end>
+<start> randall . <end> +++ <start> right . <end>
+<start> you re thinking . . . ? <end> +++ <start> who knows . <end>
+<start> mustn t do that , sir . <end> +++ <start> i must grant him his last rites . <end>
+<start>  <end> +++ <start>  <end>
+<start> i told you i need a drink . <end> +++ <start> then buy a bottle and go outside . <end>
+<start> you believe that ? <end> +++ <start> i have to . <end>
+<start> jesus . <end> +++ <start> do it ! i want to get higher ! <end>
+<start> you never been in one of those things . <end> +++ <start> i suppose you have . . . <end>
+<start> your stomach ? <end> +++ <start> they had to pump it out . <end>
+<start> all street mimes should be executed . <end> +++ <start> . . . looks like a convention . <end>
+<start> before you . <end> +++ <start> ben where do you have to get to ? <end>
+<start> you mean just leave the hotel ? <end> +++ <start> yes . <end>
+<start> hey , what s up . <end> +++ <start> you weren t at my game . <end>
+<start> yeah ? <end> +++ <start> i think you should wear that . <end>
+<start> they don t serve wine here . <end> +++ <start> what kind of restaurant doesn t serve wine ? <end>
+<start> doesn t answer the question . <end> +++ <start> the only answer i have for you . <end>
+<start> do you want anything ? <end> +++ <start> maybe an orange juice . <end>
+<start> bob , it s me . <end> +++ <start> oh , hi , elaine . <end>
+<start> coming with you . <end> +++ <start> you will not live to see the morning . <end>
+<start> as long as you keep remembering why . <end> +++ <start> well , we talked about the whole disapproval thing . <end>
+<start> i assume you have one . <end> +++ <start> assumptions are always dangerous . <end>
+<start> how ? <end> +++ <start> i don t know . it s a mystery . <end>
+<start> come straight here . don t talk to anyone . <end> +++ <start> i ll come straight there . <end>
+<start> it s my bullworker . <end> +++ <start> anyway , listen up . they re gone ! <end>
+<start> where s your new friend ? <end> +++ <start> what friend ? you re my only friend . <end>
+<start> that s fantastic . <end> +++ <start> why did you agree to come here ? <end>
+<start> how do you know ? <end> +++ <start> i saw him today . <end>
+<start> mrs . frank ? <end> +++ <start> yeah . <end>
+<start> should i kill them ? <end> +++ <start> why bother ? <end>
+<start> what about sing ? <end> +++ <start> sang . <end>
+<start> i think it s a marvelous letter . <end> +++ <start> we re a good team . <end>
+<start> no . i want what s best for you . <end> +++ <start> this him landon is what s best for me ! <end>
+<start> . . . you fucked me ! <end> +++ <start> who is this ? <end>
+<start> not a good time to lose one s head . <end> +++ <start> indeed . <end>
+<start> chocolate . <end> +++ <start> chocolate it shall be . come on son . <end>
+<start> wait a second <end> +++ <start> now ! <end>
+<start> well , whatta we got here ? <end> +++ <start> a lucas jackson . <end>
+<start> what about that guy this morning ? <end> +++ <start> you mean shelly ? <end>
+<start> what ? what do you mean ? <end> +++ <start> he said you didn t have one . <end>
+<start> so . . . did my brother call you ? <end> +++ <start> no . <end>
+<start> what are they saying ? <end> +++ <start> nothing good . <end>
+<start> were you asleep ? <end> +++ <start> what are you doing here ? <end>
+<start> sounds perfect ? what do i owe you ? <end> +++ <start> i wasn t helping you for money . <end>
+<start> well , it shattered your faith in everything . <end> +++ <start> i m just temporarily off my game . <end>
+<start> you could have killed us both ! ! <end> +++ <start> he s kidnapping me ! ! ! <end>
+<start> hello , mary ? <end> +++ <start> oh , hello darling . <end>
+<start> what s he doing here ? <end> +++ <start> that s not him . <end>
+<start> yeah . <end> +++ <start> it doesn t look like it . <end>
+<start> can i help you ? <end> +++ <start> yes , sir . i need a room <end>
+<start> okay . how d yours go ? <end> +++ <start> not so good . <end>
+<start> you wouldn t kiss him , huh ? <end> +++ <start> not with my mouth open . <end>
+<start> i can get you a job . <end> +++ <start> a job ? <end>
+<start> any news of quaid ? <end> +++ <start> not since you lost him . <end>
+<start> and what did he come back now for ? <end> +++ <start> who ? <end>
+<start> bring me forty five back . <end> +++ <start> naturally , comrade . <end>
+<start> george . . . <end> +++ <start> yeah , baby . . . <end>
+<start> lucy come back ! <end> +++ <start> somebody s gotta do something ! ! <end>
+<start> rain s coming . <end> +++ <start> thank god . <end>
+<start> because it was going to fall . <end> +++ <start> you re certain ? <end>
+<start> excuse me . . . <end> +++ <start> listen , i m not feeling well . <end>
+<start> as far away as i ever want to be . <end> +++ <start> oh , dear . <end>
+<start> is that him over there ? <end> +++ <start> no . <end>
+<start> get on the expressway . <end> +++ <start> where are we going ? <end>
+<start> love you , dil . <end> +++ <start> you do ? <end>
+<start> they did , admiral . <end> +++ <start> then . . . where the hell are we ? <end>
+<start> i don t know , herman maybe you do . <end> +++ <start> me ? <end>
+<start> good morrow , cousin . <end> +++ <start> is the day so young ? <end>
+<start> what hath god wrought ? <end> +++ <start> that was the telephone . <end>
+<start> so there are others ? <end> +++ <start> oh , yes . <end>
+<start> what s that ? <end> +++ <start> the breath of god . . . <end>
+<start> i just wanted to see something . <end> +++ <start> see what ? <end>
+<start> jump , timmy ! it s too late ! <end> +++ <start> i m afraid i am gonna fall ! <end>
+<start> the mission director . <end> +++ <start> you wish . <end>
+<start> what . we all gonna dress up like cowboys ? <end> +++ <start> not cowboys , nick . not cowboys . <end>
+<start> be careful . <end> +++ <start> thanks . <end>
+<start> where s the car ? <end> +++ <start> i need to get something straight first . <end>
+<start> where ? <end> +++ <start> pittsburgh . <end>
+<start> i shot him . <end> +++ <start> you killed him ! <end>
+<start> no . <end> +++ <start> you sure ? <end>
+<start> that man that shot you died in prison . <end> +++ <start> in angola . yeah . <end>
+<start> . . . you re money . . . <end> +++ <start> . . . you re so fuckin mmmoney . <end>
+<start> studio b . <end> +++ <start> hi . this is heather langenkamp . <end>
+<start> oh . . . <end> +++ <start> dad ! <end>
+<start> better late than never , right ? <end> +++ <start> wrong . <end>
+<start> my name is parry . <end> +++ <start> hi . . . where are my shoes ? <end>
+<start> they were nazis , dude ? <end> +++ <start> come on , donny , they were threatening castration ! <end>
+<start> don t be afraid . you can tell me . <end> +++ <start> you re sure . . . <end>
+<start> sure am . <end> +++ <start> coming with us ? overman s buying . <end>
+<start> oh , shit . <end> +++ <start> dilophosaurus . <end>
+<start> can i see you again ? <end> +++ <start> certainly not . <end>
+<start> what bag ? <end> +++ <start> the bag with the envelopes . <end>
+<start> let s get outta here . you want to ? <end> +++ <start> yeah . <end>
+<start> what is his room number ? <end> +++ <start> i don t know . <end>
+<start> tell the chief we thank him . <end> +++ <start> chief knows . <end>
+<start> no . <end> +++ <start> oh , my , yes . <end>
+<start> i don t know , honey . <end> +++ <start> why are they trying to kill people ? <end>
+<start> take your clothes . <end> +++ <start> don t throw my clothes out the window ! <end>
+<start> really ? rob , that girl is sixteen . <end> +++ <start> and a gymnast ! <end>
+<start> mommy ! <end> +++ <start> mommy s here . <end>
+<start> this morning . <end> +++ <start> where was i ? <end>
+<start> holy fucking shit ! <end> +++ <start> yes . <end>
+<start> jesus h . christ ! <end> +++ <start> oh dear . <end>
+<start> no more , lenny . <end> +++ <start> yeah . i m ghosting pretty bad . <end>
+<start> if you get it back in one piece . <end> +++ <start> it s a risk i m willing to take . <end>
+<start> the leads are coming . <end> +++ <start> get em to me ! <end>
+<start> izzat the thing . . . <end> +++ <start> indeed it is . <end>
+<start> where s mitch ? <end> +++ <start> al malone wanted him out at the fawcett farm . <end>
+<start> no longer . <end> +++ <start> frost ! ! ! <end>
+<start> sorry , y all . my bad . <end> +++ <start> shorty , why don t you say grace ? <end>
+<start> ssh ! <end> +++ <start> bobby <end>
+<start> good shooting , rafe ! <end> +++ <start> land of the free . . . <end>
+<start> that should buy you ten minutes at least . <end> +++ <start> gee , thanks friend . <end>
+<start> this is stupid . <end> +++ <start> it s better than doing nothing . <end>
+<start> that s all there is to it , huh ? <end> +++ <start> that s all . <end>
+<start> good evening , neighbor stone . <end> +++ <start> look here now <end>
+<start> okay . <end> +++ <start>  <end>
+<start> you going there ? <end> +++ <start> yeah why <end>
+<start> yes . <end> +++ <start> how long will it take ? <end>
+<start> were you fooling with the power ? <end> +++ <start> no . <end>
+<start> my patient had to leave early . <end> +++ <start> who was that ? <end>
+<start> really . <end> +++ <start> didn t get it . <end>
+<start> target disruptors . destroy them . <end> +++ <start> disruptors are off line , sir . <end>
+<start> what ? <end> +++ <start> don t start acting hurt . <end>
+<start> hobart , what are you people doing here ? <end> +++ <start> this is where baxter and hawley brung us . <end>
+<start> can he breathe under water ? <end> +++ <start> data doesn t breathe . <end>
+<start> comin out here , boss ? <end> +++ <start> yeah . come on out , luke . <end>
+<start> mrs . dudley . <end> +++ <start> so far . <end>
+<start> what the fuck . . . ? ! <end> +++ <start> why are you following me ? <end>
+<start> mrs . ansel s clothing . <end> +++ <start> does it fit ? <end>
+<start> seems like a pretty open minded guy , huh ? <end> +++ <start> his nickname is the hammer . <end>
+<start> it means bloodbrother . <end> +++ <start> i don t understand . <end>
+<start> feel that . <end> +++ <start> that s tight . solid . <end>
+<start> they don t know ? <end> +++ <start> no they don t . <end>
+<start> you got your room straightened out yet ? <end> +++ <start> it s getting there . <end>
+<start> where ? <end> +++ <start> what ? <end>
+<start> i batted ! <end> +++ <start> you batted or you bunted ? <end>
+<start> i ve got something . . . <end> +++ <start> i sincerely hope so . <end>
+<start> that wasn t your plan , was it ? <end> +++ <start> what are you talking about ? <end>
+<start> i know . <end> +++ <start> how do you know ? <end>
+<start> aren t we stayin ? <end> +++ <start> no . we re not stayin <end>
+<start> what about other homosexual facilities , whatever they are ? <end> +++ <start> charles . . . <end>
+<start> you didn t ask . <end> +++ <start> hardy fuckin har . what did he say ? <end>
+<start> uh huh . <end> +++ <start> i m going over to the other side . <end>
+<start> how was your game ? <end> +++ <start> twenty seven points , eleven assists and still undefeated . <end>
+<start> he s not bad at it . <end> +++ <start> it s tougher than it looks . <end>
+<start> i think we might . <end> +++ <start> he didn t say we need guns . <end>
+<start> beautiful . sad . she died ! <end> +++ <start> yeah . <end>
+<start> yes ? <end> +++ <start> the flowers . . . they re beautiful . <end>
+<start> no . <end> +++ <start> do they have an x rated channel ? <end>
+<start> i plan to . soon . <end> +++ <start> how soon ? <end>
+<start> when does george get to come see his house ? <end> +++ <start> it s so beautiful . <end>
+<start> what ? <end> +++ <start> let s just go home , okay ? <end>
+<start> where s he going ? <end> +++ <start> i don t know , i can t say <end>
+<start> or someone <end> +++ <start> scared the living shit out of us . <end>
+<start> hi . <end> +++ <start> hi . <end>
+<start> dare say you can be taught . <end> +++ <start> to shoot perhaps , but not to kill . <end>
+<start> what ? <end> +++ <start> she u is u lana turner . <end>
+<start> actually , i just had an amusing thought . <end> +++ <start> what ? <end>
+<start> can of itself be a problem . <end> +++ <start> not for me . <end>
+<start> you told them that ? <end> +++ <start> it s true , isn t it ? <end>
+<start> well , don t they ? <end> +++ <start> sure . <end>
+<start> no way , jude . i m out . <end> +++ <start> you re never out , fergus . <end>
+<start> shit . here we go again . <end> +++ <start> didn t you see her this morning ? <end>
+<start> well , yeah . <end> +++ <start> she says you re a fabulous hairdresser . <end>
+<start> ladies and gentlemen . . . <end> +++ <start> welcome to the greatest show on earth . <end>
+<start> and absent bridegrooms ! <end> +++ <start> and the bride . <end>
+<start> i can t . <end> +++ <start> then i m going <end>
+<start> jesus christ , castor . <end> +++ <start> drive . <end>
+<start> yes they are . <end> +++ <start> stiffs ? ? <end>
+<start> woody ? ! <end> +++ <start> we re gonna get outta here , buzz buzz ? <end>
+<start> there s still a big spot on the floor . <end> +++ <start> okay , we need wallpaper paste . hey cece ! <end>
+<start> that so ? <end> +++ <start> every time ! <end>
+<start> uh huh . <end> +++ <start> ah yes , a music lover . <end>
+<start> why not ? <end> +++ <start> i was scared . and there wasn t time . <end>
+<start> i ll go first . <end> +++ <start> no , you ll follow me . <end>
+<start> goose is dead . <end> +++ <start> true . <end>
+<start> well ? <end> +++ <start> she s still a virgin . <end>
+<start> the world needs dreamers , son . <end> +++ <start> what ? <end>
+<start> . . . hello . . . ? <end> +++ <start> wake up , pops . your education begins tonight . <end>
+<start> nothing like this back home . <end> +++ <start> derek ! <end>
+<start> i m not drunk . yet . <end> +++ <start> maybe you should be . <end>
+<start> excellent . <end> +++ <start> your usual table , sir ? <end>
+<start> can t we keep it , dada ? <end> +++ <start> absolutely not . <end>
+<start> jed s got cables . <end> +++ <start> go to sleep . <end>
+<start> what the fuck are you talkin about ? <end> +++ <start> floyd say he don t be eatin pussy . <end>
+<start> what are you doing out here ? <end> +++ <start> cook school that did it . <end>
+<start> how many ? <end> +++ <start> stop busting my hump . . . . <end>
+<start> that s ok . <end> +++ <start> when are you coming home ? <end>
+<start> richard ! <end> +++ <start> what ? <end>
+<start> well can we <end> +++ <start> a hundred and eighty dollars ? ! <end>
+<start> i d go fifty fifty with you . <end> +++ <start> why ? <end>
+<start> malkovich . <end> +++ <start> malkovich ! <end>
+<start> what s down there ? <end> +++ <start> the . . . fourth of july . <end>
+<start> hair and make up ? <end> +++ <start> she ll do her own . theater training . <end>
+<start> try my best . <end> +++ <start> i m looking for a man named mitchell brenner . <end>
+<start> can i help ? <end> +++ <start> you are . <end>
+<start> he can t walk , walter ! <end> +++ <start> yeah , i can see that , dude . <end>
+<start> a little older than paloma is now . <end> +++ <start> how come you never got married again ? <end>
+<start> yes . <end> +++ <start> what time did you get in ? <end>
+<start> are you okay ? <end> +++ <start> i think so . <end>
+<start> you didn t know that at the time ! <end> +++ <start> so i borrowed it till i did know ! <end>
+<start> we ll see . <end> +++ <start> when ? <end>
+<start> he ll give us a sworn statement . <end> +++ <start> we re inside the white house now . <end>
+<start> you re learning . <end> +++ <start> where does he sell it ? <end>
+<start> you know sid fletcher ? <end> +++ <start> what ? <end>
+<start> m m m ma am ? <end> +++ <start> would you like to start ? <end>
+<start> yes . always . <end> +++ <start> does it change with me in the room ? <end>
+<start> could be a fishing boat . <end> +++ <start> too big . more like a freighter . <end>
+<start> outside ? <end> +++ <start> yeah <end>
+<start> we re a tiny version of all that ? <end> +++ <start> as above , so below . <end>
+<start> we can use the flamethrower . <end> +++ <start> it s not going to work . <end>
+<start> uh , jim . . . <end> +++ <start> you heard the order , lieutenant . <end>
+<start> yes . <end> +++ <start> for what ? <end>
+<start> are you sure ? <end> +++ <start> yeah . <end>
+<start> he s setting me up to make a proposition . <end> +++ <start> i see . <end>
+<start> shall we be all right ? <end> +++ <start> yes . absolutely . <end>
+<start> it ll help me if you ll tell me . <end> +++ <start> please , baby <end>
+<start> nicholas . . . <end> +++ <start> get us out ! <end>
+<start> yeah . <end> +++ <start> why ? <end>
+<start> than why can t you tell me . <end> +++ <start> because i don t know . <end>
+<start> yes , jimmy . <end> +++ <start> thanks for not laughing at me . <end>
+<start> of course ! that s exactly what i want . <end> +++ <start> have you thought about getting a wife ? <end>
+<start> jesus , i don t know . . . <end> +++ <start> can you do it mike ? <end>
+<start> are you out of your mind ? <end> +++ <start> yep . finally . i love you , jez . <end>
+<start> and who s gonna pay for that ? <end> +++ <start> pop . <end>
+<start> what s all them books ? <end> +++ <start> different ones . the bible s one of em . <end>
+<start> it s okay . <end> +++ <start> you look beautiful . <end>
+<start> that bitch from . . . <end> +++ <start> what ? <end>
+<start> you didn t give them a name . <end> +++ <start> they know me . <end>
+<start> what are you doing ! <end> +++ <start> i gotta open the gate . <end>
+<start> oh , shit . <end> +++ <start> ext . road day . <end>
+<start> nowhere . i m trying to find her . <end> +++ <start> you got jimmy . let her go . <end>
+<start> what department ? <end> +++ <start> what do you think , eightball ? <end>
+<start> ludwig ? he s gay are you jealous ? <end> +++ <start> if i was your boyfriend , i might be . <end>
+<start> you re not the shipping greenleaf s ? <end> +++ <start> trying not to be . trying to jump ship . <end>
+<start> promise ? <end> +++ <start> yes i do . <end>
+<start> i don t u think u so . <end> +++ <start> then what brings you back ? <end>
+<start> what does he want from you ? <end> +++ <start> hard to say . <end>
+<start> you better take off . <end> +++ <start> ain t you coming with us , sweet thing ? <end>
+<start> no baseball diamonds , red . <end> +++ <start> y yes sir . <end>
+<start> tricks . . . jesus . . . <end> +++ <start> i m alright . let s go . <end>
+<start> you don t ? <end> +++ <start> no . <end>
+<start> how long have you known her ? <end> +++ <start> i told you . we met yesterday . <end>
+<start> the drums . he taught me to play some . <end> +++ <start> he did ? <end>
+<start> by the way who gives me the anti toxin ? <end> +++ <start> a medical team will be standing by . <end>
+<start> god , that smoke s poisonous ! <end> +++ <start> it s eating a hole in the floor ! <end>
+<start> do you know a marie ? <end> +++ <start> no . . . do you ? <end>
+<start> oh hi , mom . <end> +++ <start> what are you doing in the silver drawer ? <end>
+<start> you re lying . i don t believe you . <end> +++ <start> then don t come . <end>
+<start> no . <end> +++ <start> yeah . <end>
+<start> no , that s not it , jerry . <end> +++ <start> huh ? <end>
+<start> mr . president . . . <end> +++ <start> senator paine . <end>
+<start> shit , maybe he ll kill you . <end> +++ <start> what ? <end>
+<start> what s the matter with you ? <end> +++ <start> bluff bluff all bluff . <end>
+<start> where are you going ? <end> +++ <start> to the hotel . to register . <end>
+<start> that s good . <end> +++ <start> i ve got plans ! <end>
+<start> the phone call , man . the phone call . <end> +++ <start> the call i just made ? five minutes ago ? <end>
+<start> why we re just standing here . <end> +++ <start> look , your trespassing . <end>
+<start> i made a mistake . <end> +++ <start> what about ? <end>
+<start> you are . . . <end> +++ <start> uh huh . . <end>
+<start> propagate you know , multiply baby flies ? <end> +++ <start> oh oh ! <end>
+<start> hi . <end> +++ <start> hi , is vada home ? <end>
+<start> who is he ? <end> +++ <start> he s in charge . <end>
+<start> holy shit . get me back to manhattan . <end> +++ <start> take us right to kennedy . now . <end>
+<start> i m having a party tomorrow . <end> +++ <start> yes , i know that sweetheart . <end>
+<start> get off my property . <end> +++ <start> i m not on your property ! <end>
+<start> what s her name ? <end> +++ <start> ms . kramer . <end>
+<start> no idea . <end> +++ <start> no idea at all ? <end>
+<start> you ever been in love ? <end> +++ <start> too many times . <end>
+<start> hi , guys . we brought back a friend . <end> +++ <start> it s bullwinkle . <end>
+<start> is it a jamming device ? <end> +++ <start> maybe he s talking to himself . <end>
+<start> just serve . <end> +++ <start> in the same fashion as chess . <end>
+<start> you weren t gonna say goodbye ? <end> +++ <start> i was , later . <end>
+<start> each day is a little life . <end> +++ <start> what ? <end>
+<start> get chu at that table up yonder . <end> +++ <start> by myself ? <end>
+<start> louis , you re a life saver . <end> +++ <start> i know . <end>
+<start> her temperature is a hundred and four . <end> +++ <start> how old are you , dear ? thirteen ? <end>
+<start> i don t know . <end> +++ <start> what was the earliest it could have been cashed ? <end>
+<start> thomas ? who s thomas ? <end> +++ <start> thomas franklin , an attorney . <end>
+<start> sorry , mr . gekko . <end> +++ <start> allright . wait here . . . <end>
+<start> why would we <end> +++ <start> sweep the harbor . <end>
+<start> want you to do something , fergus . <end> +++ <start> what ? <end>
+<start> you re better than i expected . <end> +++ <start> i was at harrow . . . <end>
+<start> they told me i was too old to serve . <end> +++ <start> they told muddy his feet was too flat ! <end>
+<start> is it worth taking a chance ? <end> +++ <start> i suppose you re right . <end>
+<start> i molested little girls . <end> +++ <start> molested little girls ? <end>
+<start> what do you drive ? <end> +++ <start> i m sorry ? <end>
+<start> well good n <end> +++ <start> good night . <end>
+<start> tell them about pauline s mum . <end> +++ <start> not now . they wouldn t believe me . <end>
+<start> let me go . <end> +++ <start> you ve got to tell me what she said . <end>
+<start> can t break tradition . it s bad luck . <end> +++ <start> there is one more thing . <end>
+<start> look at you ! <end> +++ <start> oh ! <end>
+<start> ben . god doesn t like visitors . <end> +++ <start> how do you know ? <end>
+<start> where do we start ? <end> +++ <start> we ll vacuum these streets if we have to . <end>
+<start> my client proposes a thirty day cooling off period . <end> +++ <start> my client feels sufficiently dispassionate . <end>
+<start> i don t know . <end> +++ <start> who sent you to greece ? <end>
+<start> i guess i should go now . <end> +++ <start> you should go . <end>
+<start> when did you get back ? <end> +++ <start> tuesday . <end>
+<start> should have stayed a girl . <end> +++ <start> don t be cruel . <end>
+<start> hello , bob . <end> +++ <start> hey , bob . <end>
+<start> k through sixth . <end> +++ <start> doesn t it get noisy ? <end>
+<start> can you help me get her back ? <end> +++ <start> look , i d really like to . . . <end>
+<start> oh . congratulations . <end> +++ <start> the marriage already ended . <end>
+<start> i think we nought to wait . <end> +++ <start> i say we go . <end>
+<start> want the wagon unloaded , clay ? <end> +++ <start> just the grub box and bed rolls . <end>
+<start> and a social life . <end> +++ <start> yeah , but how do we get to them ? <end>
+<start> slow down ! <end> +++ <start> vincent ? <end>
+<start> do you like kissing me ? <end> +++ <start> yes . <end>
+<start> don t even . <end> +++ <start> do you love me ? <end>
+<start> i thought you d think it was crazy . <end> +++ <start> it is crazy ! <end>
+<start> we ve only been over this how many times ? <end> +++ <start> you only made half your quote this year . <end>
+<start> stuttering stanley ! stuttering stanley ! <end> +++ <start> s ssssstop it ! <end>
+<start> oh ? what happened to hochstetler ? <end> +++ <start> we had some lemonade and he left . <end>
+<start> hey , you can t park that thing here . <end> +++ <start> it s me , jack . . . <end>
+<start> mary ah , forget it . <end> +++ <start> what ? <end>
+<start> you fell out of the tall tower you creep ! <end> +++ <start> i was saved at the last minute . <end>
+<start> what was it , jack ? <end> +++ <start> an ape . . . some kind of ape . <end>
+<start> a sawbuck ! <end> +++ <start> ten dollars ? let s grab a highball ! <end>
+<start> he is in his pigeon cage . <end> +++ <start> i m sorry he got those birds . <end>
+<start> are there any other humans ? <end> +++ <start> gracious . . . no . <end>
+<start> they look nice . <end> +++ <start> you haven t even looked at them once . <end>
+<start> now ? <end> +++ <start> yeah . <end>
+<start> have you got your gun on now ? <end> +++ <start> sure have , sam . <end>
+<start> hey , bomb . <end> +++ <start> the only thing which exists is myself . <end>
+<start> still need a lift ? <end> +++ <start> yeah . transmission s shot . <end>
+<start> i ve got a weak signal over there . <end> +++ <start> split up . find him . <end>
+<start> what common objects ? <end> +++ <start> listen , hadn t somebody better check on broussard ? <end>
+<start> i have that date remember ? <end> +++ <start> i love you remember ? <end>
+<start> she your only sibling ? <end> +++ <start> twelve years younger . <end>
+<start> you ve been losing . <end> +++ <start> i m up twelve grand today . <end>
+<start> any of them richard long ? <end> +++ <start> no , sir . <end>
+<start> estes came after me with a gaffing hook . <end> +++ <start> he s in it with willis ? <end>
+<start> an interface attendant . <end> +++ <start> where ? <end>
+<start> i got an award once . from the mayor . <end> +++ <start> congratulations . <end>
+<start> that s not an answer . <end> +++ <start> what do you want to know ? <end>
+<start> you should . <end> +++ <start> you re right . <end>
+<start> i have his journal . <end> +++ <start> you what ? <end>
+<start> sooner it you like . <end> +++ <start> okay . <end>
+<start> you have no time . what is your question ? <end> +++ <start> i m thinking ! <end>
+<start> july of 71 . <end> +++ <start> about the past year . <end>
+<start> my god ! the bumstead contracts ! ! <end> +++ <start> oh my god , sir ! <end>
+<start> i can t do it . <end> +++ <start> what kind of man are you ? <end>
+<start> what do we do now ? <end> +++ <start> i don t know . talk to it . <end>
+<start> sorry i m in your seat aren t i ? <end> +++ <start> no please make yourself at home . <end>
+<start> i want to ride my own bike . <end> +++ <start> my dad always drives my mom . <end>
+<start> stay here . <end> +++ <start> why can t i go out there with you ? <end>
+<start> stay with him . <end> +++ <start> wait ! <end>
+<start> fire the whole division . <end> +++ <start> excuse me , sir ? <end>
+<start> to the brick kremlin ! <end> +++ <start> she ll never forgive me ! <end>
+<start> we need a warrant . <end> +++ <start> we have probable cause now . <end>
+<start> yeah , i went on a date last week . <end> +++ <start> how d it go ? <end>
+<start> patkin was a tribute to baseball . . . <end> +++ <start> . . . and one helluva guy . <end>
+<start> balint ? <end> +++ <start> it s german . <end>
+<start> come on , linda . it s just sex . <end> +++ <start> hey ! that s my line ! <end>
+<start> barton ! <end> +++ <start> i want to know ! <end>
+<start> i can t believe my ears . . . <end> +++ <start> a dull cliche . <end>
+<start> i don t know . <end> +++ <start> where ! <end>
+<start> sorry i didn t mean to <end> +++ <start> get out ! <end>
+<start> because i never got around to it . <end> +++ <start> well , why ? <end>
+<start> you like that statue ? <end> +++ <start> not particularly . <end>
+<start> everything . <end> +++ <start> cool . <end>
+<start> paul , this will be our legacy . <end> +++ <start> it will . <end>
+<start> ed , i am so very disappointed in you . <end> +++ <start> i m sorry <end>
+<start> tell me again . where d you go ? <end> +++ <start> central park . <end>
+<start> no treasure maps , huh ? <end> +++ <start> no . <end>
+<start> it was fun , wasn t it ? <end> +++ <start> it was the best , kid <end>
+<start> no . <end> +++ <start> come on , david . <end>
+<start> better than i . . . <end> +++ <start> that s the spirit ! <end>
+<start> see if you can guess . <end> +++ <start> well i can t . <end>
+<start> their power . they seduce me . <end> +++ <start> they seduce you ? <end>
+<start> i don t know , sire . <end> +++ <start> and where is joseph ? <end>
+<start> don t go in , ryan . <end> +++ <start> what ? <end>
+<start> i crashed your party . <end> +++ <start> pretty shallow of you . <end>
+<start> yes tired . . . <end> +++ <start> so alone . <end>
+<start> good school . what year ? <end> +++ <start> second . <end>
+<start> liza ? <end> +++ <start> did you kill him ? <end>
+<start> is it over ? <end> +++ <start> it s over . <end>
+<start> ann . hello . <end> +++ <start> are you in the middle of something ? <end>
+<start> you ever hear of jet lag ? <end> +++ <start> take a nap . <end>
+<start> i do , now . <end> +++ <start> and you have horses ? you love horses . <end>
+<start> i was impressed . <end> +++ <start> oh ? <end>
+<start> you left me a message ? <end> +++ <start> i m out of here . jenny . <end>
+<start> i see what you re saying . <end> +++ <start> wait . what do you mean ? <end>
+<start> go have fun . not too much . <end> +++ <start> i ll see you tomorrow . . . <end>
+<start> coulmier , you animal ! <end> +++ <start> i do not mean to flirt , marquis ! <end>
+<start> i am going to call the police now . <end> +++ <start> could i make one phone call first ? <end>
+<start> no thanks . what does that mean ? <end> +++ <start> i don t want to go . <end>
+<start> that s not the way we play the game . <end> +++ <start> i don t play games . <end>
+<start> my son . <end> +++ <start> bettes tells me he s doing fine . <end>
+<start> i m out . <end> +++ <start> i don t getcha . <end>
+<start> when i m guest of honor ? <end> +++ <start> i had no idea you were even here . <end>
+<start> what do you want with me ? <end> +++ <start> your love . <end>
+<start> how did you get me out of there ? <end> +++ <start> i wouldn t have made it by myself . <end>
+<start> i never want to go through this again . <end> +++ <start> that s entirely understandable . <end>
+<start> bathroom over there ? <end> +++ <start> yeah . <end>
+<start> twisted ? <end> +++ <start> you know what ? <end>
+<start> the city ? new york city ? why ? <end> +++ <start> because that s where i live . <end>
+<start> well , i heard you met herr mozart . <end> +++ <start> oh ? news travels fast in vienna . <end>
+<start> automatic channels open <end> +++ <start> remark . <end>
+<start> you re staring at me . <end> +++ <start> no i m not . i m not star <end>
+<start> shari , i really like you . . . <end> +++ <start> i really like you too . . . <end>
+<start> give me your keys . <end> +++ <start> my keys ? <end>
+<start> yeah . you met him once . <end> +++ <start> yeah . he s a rounder . <end>
+<start> let me see your hand ! <end> +++ <start> no ! <end>
+<start> a month from today ? <end> +++ <start> yeah . <end>
+<start> i don t know , sir . <end> +++ <start> well , find out . who s covering her ? <end>
+<start> yeah . <end> +++ <start> it s a long road that has no turning . <end>
+<start> you picked another winner ! <end> +++ <start> well , that s good , isn t ? <end>
+<start> she didn t . <end> +++ <start> but you said . . . <end>
+<start> what do you want ? <end> +++ <start> the invasion plans . <end>
+<start> mm . hey , what are you doing now ? <end> +++ <start> right now ? <end>
+<start> well . . . g bye . <end> +++ <start> it s been hell . <end>
+<start> dashboard . <end> +++ <start> dashboard . <end>
+<start> ouch ! <end> +++ <start> gesundheit . this requires a little thought here . <end>
+<start> i think you better put that away . <end> +++ <start> i think you re right . <end>
+<start> yoda spoke of another . <end> +++ <start> the other he spoke of is your twin sister . <end>
+<start> do you have a minute ? <end> +++ <start> actually i m running late <end>
+<start> west was one thing , but this <end> +++ <start> shut up , mueller . <end>
+<start> see you , warren . <end> +++ <start> bye , ted . <end>
+<start> it ll only work for one of us . <end> +++ <start> yes , sir . <end>
+<start> no . <end> +++ <start> oh . <end>
+<start> almost three . <end> +++ <start> that is so romantic . <end>
+<start> hi , guys . <end> +++ <start> hi . <end>
+<start> you re twenty minutes late . <end> +++ <start> sorry . <end>
+<start>  <end> +++ <start>  <end>
+<start> jimmy ? <end> +++ <start> what the fuck are you doing here ? <end>
+<start> please . get back into bed . <end> +++ <start> i have to speak to my father . <end>
+<start> alright . well , that s something new . <end> +++ <start> no . not something new . <end>
+<start> oh . <end> +++ <start> i play the ukulele . and i sing too . <end>
+<start> and the vow of chastity . <end> +++ <start> i m outta here . <end>
+<start> no . <end> +++ <start> stay away from me ! stay away ! <end>
+<start> you re shittin me . <end> +++ <start> you think i m shitting you . . . <end>
+<start> haps , railroad , bus timetables ? <end> +++ <start> everything . <end>
+<start> i don t want to waste your time . <end> +++ <start> then don t . <end>
+<start> by the light , by the light , <end> +++ <start> of the silvery moon , <end>
+<start> no ! <end> +++ <start> it bit me ! <end>
+<start> frank . <end> +++ <start> huh ? <end>
+<start> and you ve got cold feet . <end> +++ <start> isn t that ridiculous ? <end>
+<start> and who kills in the manner of his victim . <end> +++ <start> that information s being withheld from the media . <end>
+<start> these guys re good drivers . <end> +++ <start> they gotta be . <end>
+<start> is she alive ? <end> +++ <start> yes . <end>
+<start> i didn t think there was an alarm . <end> +++ <start> take him to the car , bob . <end>
+<start> you re amazing . <end> +++ <start> it has to be a full character s name . <end>
+<start> say it again . <end> +++ <start> alla puttanesca . <end>
+<start> she s gone ! <end> +++ <start> aubrey ? ! aubrey ? ! <end>
+<start> don t sweat it . it s over . <end> +++ <start> she had the baby ? <end>
+<start> she still with kent ? <end> +++ <start> this week anyhow . <end>
+<start> what is your name ? <end> +++ <start> bedevere , my liege . <end>
+<start> she had a moustache . <end> +++ <start> she was european ! <end>
+<start> me ! <end> +++ <start> you re in league with barbossa ! <end>
+<start> what do you remember ? <end> +++ <start> what do you mean ? <end>
+<start> william harcourt ? <end> +++ <start> yes . . . <end>
+<start> thou chid st me oft for loving rosaline . <end> +++ <start> for doting not for loving , pupil mine . <end>
+<start> how did it get so u big u ? <end> +++ <start> by eating our food supplies . <end>
+<start> dick weed ! <end> +++ <start> butt munch . <end>
+<start> he works for mr . eddy . <end> +++ <start> what s he do ? <end>
+<start> a single . just for myself , please . <end> +++ <start> will you sign the register , please ? <end>
+<start> we ll speak soon . <end> +++ <start> night . <end>
+<start> i read the hospital report on your client . <end> +++ <start> . . . deborah ann kaye . . . <end>
+<start> you re begging him to kill you ? <end> +++ <start> if he thinks he s man enough . <end>
+<start> what s my name ? <end> +++ <start> doyle . <end>
+<start> so what are you up to now ? <end> +++ <start> i m robbing this place . <end>
+<start> did you ever pick your feet in poughkeepsie ? <end> +++ <start> i don t know what you re talkin about . <end>
+<start> what happened ? <end> +++ <start> you did . <end>
+<start> well ? <end> +++ <start> you leave it . <end>
+<start> i m asking you . <end> +++ <start> keep on asking . <end>
+<start> yes . <end> +++ <start> i had you transferred to kigali . <end>
+<start> want a bite ? <end> +++ <start> i m on a diet . but thank you . <end>
+<start> i didn t see you at the reunion . <end> +++ <start> i ve been busy . <end>
+<start> in about fifteen minutes . <end> +++ <start> remember , dwight , not a word to anyone . <end>
+<start> nussing ! <end> +++ <start> anti semite ! <end>
+<start> i don t know . <end> +++ <start> but you might . <end>
+<start> how many to a cell ? <end> +++ <start> four in this block , sir . <end>
+<start> will you take me home now ? <end> +++ <start> i m sorry i took you in there . <end>
+<start> the contract ? <end> +++ <start> paid in full . <end>
+<start> you expect cornwallis to be held here by militia ? <end> +++ <start> not held , just slowed down . <end>
+<start> made it . . . ? <end> +++ <start> it is from love . <end>
+<start> it s going to sonora . <end> +++ <start> fine maybe i ll see you there sometime . <end>
+<start> tv repair . <end> +++ <start> tv repair ? <end>
+<start> yeah , you ? <end> +++ <start> oh yeah . <end>
+<start> breakfast brunch ? <end> +++ <start> yes , sir <end>
+<start> what okay ? <end> +++ <start> what ! <end>
+<start> who ? <end> +++ <start> those fucking mob assholes . <end>
+<start> d you want me to order one for you ? <end> +++ <start> thank you . <end>
+<start> oh , yes . how did you like that ? <end> +++ <start> well , i didn t . <end>
+<start> what have you done about irving august ? <end> +++ <start> oh , i m making investigations . <end>
+<start> carrots . <end> +++ <start> raw ? <end>
+<start> how d you get the information on depinto ? <end> +++ <start> what do you mean ? <end>
+<start> can you do it with your left hand ? <end> +++ <start> well , i . . . i never tried . <end>
+<start> no . no thank you . i have work . <end> +++ <start> i heard about thorkel s order <end>
+<start> fuck off ! he never wrote any of them . <end> +++ <start> ok , so who was it , then ? <end>
+<start> let the hooker go . she s not important . <end> +++ <start> harry , be quiet . let me handle this . <end>
+<start> that s my business . <end> +++ <start> no argument there . <end>
+<start> shit . <end> +++ <start> and what did you do tonight , honey ? <end>
+<start> i poisoned his life . <end> +++ <start> but not his body . <end>
+<start> get me a plane . . . <end> +++ <start> wait , will . . . <end>
+<start> bob . bet you had a late night . <end> +++ <start> sleep is for the weak , mr . president . <end>
+<start> no . u knots u ! <end> +++ <start> what ? <end>
+<start> i m not really hungry . <end> +++ <start> c mon . i insist . <end>
+<start> where s who ? <end> +++ <start> you won t even tell us ? <end>
+<start> the alps . <end> +++ <start> ohhh i ve never been there . <end>
+<start> active . <end> +++ <start> main bus . . . <end>
+<start> i don t see my container . <end> +++ <start> you try anything , it goes in . . . <end>
+<start> where is he now ? <end> +++ <start> he s in the infirmary , being examined . <end>
+<start> six . <end> +++ <start> and how tall are you ? <end>
+<start> hello , there . what can i get you ? <end> +++ <start> campari and soda would do nicely . <end>
+<start> what do people do in the afternoon ? <end> +++ <start> if they are smart , they take naps . <end>
+<start> and what about the guy that was following me ? <end> +++ <start> now you re really getting paranoid . <end>
+<start> oh , man , there you go again . <end> +++ <start> what ? <end>
+<start> maybe they ll catch up . <end> +++ <start> i have no doubt of it . <end>
+<start> no ! not again ! <end> +++ <start> what are you talking about , we gotta go ! <end>
+<start> is it over ? <end> +++ <start> no . <end>
+<start> . . . good bye then . <end> +++ <start> i ll speak to you . <end>
+<start> that s funny . why is that ? <end> +++ <start> why do mice go where there s cheese ? 3 <end>
+<start> yeah . <end> +++ <start> why ? <end>
+<start> really ? <end> +++ <start> in your dreams . <end>
+<start> do you want an argument or an answer ? <end> +++ <start> an answer . <end>
+<start> how ya doin , ronald . staying comfortable ? <end> +++ <start> didn t think you d make it . <end>
+<start> she comes along too . <end> +++ <start> zira doesn t want your female . <end>
+<start> where we meeting em . . . ? <end> +++ <start> port au prince . <end>
+<start> what s happening ? <end> +++ <start> mariners are pounding the shit out of the tigers . <end>
+<start> these appointments were not my idea , remember . <end> +++ <start> true . should we stop them ? <end>
+<start> what s his name ? <end> +++ <start> brill . <end>
+<start> yes , but i . . . <end> +++ <start> what s his name ? <end>
+<start> big subject with me , yeah . <end> +++ <start> yeah ? <end>
+<start> where did you sleep ? <end> +++ <start> i didn t . <end>
+<start> how do you know how bad it was ? <end> +++ <start> why couldn t you stay here with me ? <end>
+<start> what did you just say ? <end> +++ <start> i said she s been missing for <end>
+<start> mrs . robinson i can t do this . <end> +++ <start> you what ? <end>
+<start> shhh . . . hello , room service ? <end> +++ <start> c mon , man . . . <end>
+<start> i was just taking a walk before dinner . <end> +++ <start> you love walks . <end>
+<start> welcome to the club . <end> +++ <start> excuse me ? <end>
+<start> ask the questions . <end> +++ <start> you re both with the mountain rescue team ? <end>
+<start> are you sure ? <end> +++ <start> no . <end>
+<start> and what are you studying ? <end> +++ <start> poli . sci . with a home ec minor . <end>
+<start> nerves . <end> +++ <start> i know , that s the trouble . <end>
+<start> yeah . <end> +++ <start> i am the walrus . <end>
+<start> i couldn t cut the rope . <end> +++ <start> yeah , good , what else do you remember ? <end>
+<start> jesus , that s beautiful . <end> +++ <start> thank you . <end>
+<start> you re the one who got away . <end> +++ <start> until now . <end>
+<start> fuck you . i ll get it myself . <end> +++ <start> hold on . <end>
+<start> will that be on the midterm ? <end> +++ <start> no . <end>
+<start> imzadi . this is so good . <end> +++ <start> no ! <end>
+<start> homicide . <end> +++ <start> what do you want ? <end>
+<start> then i shall make use of this starship . <end> +++ <start> it will be your chariot ! <end>
+<start> are you sure you re totally into guys ? <end> +++ <start> what are you talking about ? <end>
+<start> yes . <end> +++ <start> you feel ? <end>
+<start> but , i don t know how . <end> +++ <start> here , practice on your arm like this . <end>
+<start> and ? <end> +++ <start> come with me . <end>
+<start> i m not accusing you . . . <end> +++ <start> well , i m not smoking , okay ? <end>
+<start> they re calling me in to work . <end> +++ <start> i should be going anyway . <end>
+<start> just loud enough to wake me up . <end> +++ <start> that s it ? <end>
+<start> what did you say ? <end> +++ <start> they fired everyone . <end>
+<start> you re just supposed to repeat what you said . <end> +++ <start> why ? <end>
+<start> i got something for you to do tomorrow . <end> +++ <start> i kind of had plans . . . . <end>
+<start> thanks . are you officer 412 l ? <end> +++ <start> for my sins . are you settling in alright ? <end>
+<start> motherfucker wasn t saying shit . <end> +++ <start> look at that . <end>
+<start> yeah , i did . <end> +++ <start> it s yours ? <end>
+<start> like it or not . <end> +++ <start> like it . almost there . <end>
+<start> i m a housewife . <end> +++ <start> then why are you eating alone ? <end>
+<start> raise 300 . <end> +++ <start> pass . <end>
+<start> did you ? <end> +++ <start> talk about work ? never ! <end>
+<start> shut it up , loretta . <end> +++ <start> oh , christ , it s true . <end>
+<start> i have someone i want you to meet . <end> +++ <start> i ll be right there . <end>
+<start> he used to puke in his sleep . <end> +++ <start> bastard . <end>
+<start> let me guess breakfast is served ? <end> +++ <start> no . <end>
+<start> every night . <end> +++ <start> you share dreams ? that s incredible . <end>
+<start> you will not walk out on me <end> +++ <start> you are repellant when you drink . <end>
+<start> does he love her ? <end> +++ <start> probably . <end>
+<start> scully . . . . ? <end> +++ <start> yeah . . . ? <end>
+<start> thanks for coming by . <end> +++ <start> you bet . we ll see you later . <end>
+<start> jesus christ ! <end> +++ <start> you can do some crazy things with it . <end>
+<start> my wife s going to have a baby . <end> +++ <start> how about that . <end>
+<start> that s . . . <end> +++ <start> everything i . . . you know . . . <end>
+<start> yes . <end> +++ <start> you really are stupid , you know that . <end>
+<start> it s okay . <end> +++ <start> or i could come back . <end>
+<start> you won t keep growing at this rate . <end> +++ <start> what rate ? <end>
+<start> no , my dear . you must be mistaken . <end> +++ <start> oh bullshit . <end>
+<start> you bastard ! <end> +++ <start> but u alive u ! <end>
+<start> that walt guy got hit underwater <end> +++ <start> no crocodile has ever <end>
+<start> i told you ! i told you i saw a <end> +++ <start> ssssh ! <end>
+<start> i m sorry . . . <end> +++ <start> no ! <end>
+<start> bullshit . from where ? <end> +++ <start> she works part time at my dad s store . <end>
+<start> and did they ? <end> +++ <start> no . <end>
+<start> who s gonna do that ? <end> +++ <start> just get me out . <end>
+<start> no no no no ! <end> +++ <start> ohh ! ohh ! ohh ! <end>
+<start>  <end> +++ <start>  <end>
+<start> where s plissken ? <end> +++ <start> he s . . . near . <end>
+<start> it s interesting . <end> +++ <start> mmm . <end>
+<start> i m back in grand rapids . <end> +++ <start> in g . r . ? why ? <end>
+<start> it s illegal . <end> +++ <start> who cares ? <end>
+<start> i said no . <end> +++ <start> but you don t really mean it . <end>
+<start> jesse , help ! <end> +++ <start> i m jesse now , lisa . <end>
+<start> i m never unfair . <end> +++ <start> you re shouting at me . <end>
+<start> i can t believe this . <end> +++ <start> believe it . <end>
+<start> look , i know a little bit about sharks . <end> +++ <start> do you ? <end>
+<start> yes , sir . <end> +++ <start> can i help you ? <end>
+<start> i just don t think you re being fair . <end> +++ <start> i need this ? <end>
+<start> i want to try . <end> +++ <start> what ? <end>
+<start> he rides tonight . <end> +++ <start> father saw you die . <end>
+<start> excuse me , sergeant . <end> +++ <start> yes , reverend ? <end>
+<start> how did you learn to write , claudia ? <end> +++ <start> the way i learn everything . by watching you . <end>
+<start> sure . <end> +++ <start> do i make you horny ? <end>
+<start> he s a very shy boy . . . <end> +++ <start> what ? <end>
+<start> hi . it s me . <end> +++ <start> where are you ? <end>
+<start> i kissed him , kit . on the mouth . <end> +++ <start> honey , you re not supposed to do that . <end>
+<start> and when will you be ready to do that ? <end> +++ <start> oh i m not near ready yet . <end>
+<start> you ll know soon enough . <end> +++ <start> where did you come from ? <end>
+<start> what do you care ? <end> +++ <start> i don t , but . . . <end>
+<start> do you believe in them ? <end> +++ <start> no . <end>
+<start> i don t get it . <end> +++ <start> it doesn t make any sense . <end>
+<start> she s too upset . <end> +++ <start> what about ? <end>
+<start> stands and pauses for a moment . <end> +++ <start> i really hope you have a nice trip . <end>
+<start> it s not possible right now . <end> +++ <start> why ? <end>
+<start> a party at a waxwork huh ? <end> +++ <start> can i give her a message ? <end>
+<start> i watched tv . <end> +++ <start> what did you watch ? <end>
+<start> what are you doing here ? <end> +++ <start> he wants to talk to you . <end>
+<start> twelve are dead . <end> +++ <start> how dead ? <end>
+<start> in time , she will . <end> +++ <start> she ll think i betrayed her . <end>
+<start> you tossed my hat out the window . <end> +++ <start> wanta sue me ? <end>
+<start> hon ? got the growshries . <end> +++ <start> thank you , hon . how s fargo ? <end>
+<start> you promise to care for her then ? <end> +++ <start> yes . . . <end>
+<start> say that again . <end> +++ <start> there is no letter . i made it up . <end>
+<start> what ? <end> +++ <start> do you . . . pray ? <end>
+<start> no dog . <end> +++ <start> but nice . <end>
+<start> does he have to stay here over night ? <end> +++ <start> absolutely . <end>
+<start> i m sure they ll have this place rigged . <end> +++ <start> how ? <end>
+<start> i take out my slim jim . . . <end> +++ <start> oh , god . . . <end>
+<start> and the brocketts ? <end> +++ <start> horror show . what d you do tonight ? <end>
+<start> zuzu , wake up . . . <end> +++ <start> hah fluck , great video , huh ? <end>
+<start> yes . you ? <end> +++ <start> getting by . <end>
+<start> hi dad . <end> +++ <start> hey jeff . <end>
+<start> haven t got a thing . <end> +++ <start> any kind of assignment . additional dialogue . <end>
+<start> come on ! <end> +++ <start> oh . <end>
+<start> how much do i owe you ? <end> +++ <start> one night on the town . <end>
+<start> the carlsons are here . <end> +++ <start> they are ? come on . <end>
+<start> hospital clean . <end> +++ <start> what ? <end>
+<start> they re coughing . <end> +++ <start> they re gonna die in there ! <end>
+<start> who was it ? <end> +++ <start> kirsty . <end>
+<start> a . m or p . m . ? <end> +++ <start> p . m . <end>
+<start> so what firm you with , pal ? <end> +++ <start> jackson , steinem . . . <end>
+<start> the lighthouse is a make out spot . <end> +++ <start> now i really want to see it . <end>
+<start> great ! <end> +++ <start> go ahead . . . <end>
+<start> nice job back there . <end> +++ <start>  <end>
+<start> well , you know <end> +++ <start> he s got his priorities ? <end>
+<start> i think so . maybe . <end> +++ <start> you are so brilliant . <end>
+<start> i was sorry to hear about your wife . <end> +++ <start> yes . . . i got the money . <end>
+<start> yeah . . . <end> +++ <start> here take this instead . <end>
+<start> does that mean you don t like me ? <end> +++ <start> no , of course not . <end>
+<start> i don t know . where are we going ? <end> +++ <start> it s a surprise . <end>
+<start> i ain t got no fuckin ring . <end> +++ <start> wrong answer . <end>
+<start> so simple to say , so hard to do . <end> +++ <start> not when you have no choice . <end>
+<start> you re the best nurse i can think of <end> +++ <start> nice compliment ! <end>
+<start> i need to talk to you . <end> +++ <start> i m kind of busy right now . . . <end>
+<start> your toes cold ? <end> +++ <start> yeah . <end>
+<start> pretty bad . <end> +++ <start> let s do it . <end>
+<start> the tall trees . . . <end> +++ <start> have you been here before ? <end>
+<start> eddie ? <end> +++ <start> yeah bill how are you ? you okay ? <end>
+<start> oh , leave off ! ! ! <end> +++ <start> temper ! temper ! <end>
+<start> fourteen , harry . <end> +++ <start> right . she s only fourteen . <end>
+<start> but you re a girl , thank goodness . <end> +++ <start> yeah . <end>
+<start>  <end> +++ <start>  <end>
+<start> they won t tell you anything . <end> +++ <start> i can be very persuasive . <end>
+<start> manhattan . <end> +++ <start> you girls aren t from brooklyn or anything ? <end>
+<start> i am osgood fielding the third . <end> +++ <start> i am cinderella the second . <end>
+<start> give who a tail ? <end> +++ <start> the greaser with the blonde . <end>
+<start> what ? <end> +++ <start> hurling <end>
+<start> but it s what we want . <end> +++ <start> you wanted furniture too , didn t you ? <end>
+<start> what the fuck ? <end> +++ <start> harry ? <end>
+<start> what are you talking about ? <end> +++ <start> josh said . . . <end>
+<start> will it change your wife ? <end> +++ <start> will it change my life ? <end>
+<start> why not ? <end> +++ <start> the experiment . the danger . . . <end>
+<start> well of all <end> +++ <start> margo ! <end>
+<start> let s talk about you . <end> +++ <start> i was an fo for the 25th . <end>
+<start> you left out condescending . <end> +++ <start> but there s another side <end>
+<start> dr . gruber . <end> +++ <start> dr . gruber s not in . <end>
+<start> then so was mine . . . <end> +++ <start> don t you pull that shit with me . <end>
+<start> right on the first guess . <end> +++ <start> wha . . . what are you doing here ? <end>
+<start> jumbo , where the hell are the women ? <end> +++ <start> what are you talking about , asshole ? <end>
+<start> so you were at berkeley . <end> +++ <start> i was not . <end>
+<start> we re not canceling . <end> +++ <start> i know . <end>
+<start> what about him ? <end> +++ <start> he . well , he . . . <end>
+<start> what book is that ? <end> +++ <start> meth . . . methodology and technique . . . <end>
+<start> you take care of your family ? <end> +++ <start> sure . <end>
+<start> that breaks my confidentiality stipulation . <end> +++ <start> i didn t use low s name . <end>
+<start> oh , god . . . <end> +++ <start> i called your room from downstairs . <end>
+<start> you ready ? <end> +++ <start> no . <end>
+<start> yes , it is . <end> +++ <start> uh sorry . wrong number . <end>
+<start> see you at the wedding . <end> +++ <start> you bet ya , coach . <end>
+<start> that s all , miss bennett . <end> +++ <start> it isn t all ! i d like to explain <end>
+<start> how did you she was a nazi ? <end> +++ <start> she talks in her sleep . <end>
+<start> those creatures . . ! <end> +++ <start> don t let them hear you . <end>
+<start> some tap dancing , some singing . <end> +++ <start> where do i sign ? <end>
+<start> what if they serve soup ? <end> +++ <start> they will serve salad . <end>
+<start> would you like to see that ? <end> +++ <start> i don t care . <end>
+<start> it s six thirty . . . <end> +++ <start> so . <end>
+<start> who d you kill ? <end> +++ <start> four . but no one this important . <end>
+<start> do you have a hard heart , marylin . <end> +++ <start> did you see the tape ? <end>
+<start> one of your secrets . <end> +++ <start> yes , one of many . <end>
+<start> what happened to you anyway ? <end> +++ <start> like i told ya . my thumbs . <end>
+<start> okay . <end> +++ <start> i figure that way we won t get confused . <end>
+<start> ten dollars ? let s grab a highball ! <end> +++ <start> on norville barnes ! <end>
+<start> good lookin ? <end> +++ <start> he s no steve young . <end>
+<start> undisclosed conflict of interest <end> +++ <start> an offense <end>
+<start> who is it ? <end> +++ <start> it s barry . <end>
+<start> i like you , too . <end> +++ <start> but not that u way u . . . <end>
+<start> hey , man . <end> +++ <start> hey . <end>
+<start> do i look like i want a tiny pizza ? <end> +++ <start> no . <end>
+<start> have another glass of something good , toddy . <end> +++ <start> i ve drunk enough tonight . <end>
+<start> what ? <end> +++ <start> the grave . somebody close ? <end>
+<start> huh ? <end> +++ <start> gear . you know , clothing . <end>
+<start> you know who muhammad was ? <end> +++ <start> some prophet guy ? <end>
+<start> what do you mean , no ? <end> +++ <start> we re not going anywhere . <end>
+<start> they re waitin man . <end> +++ <start> i ll be there , goddamn it ! <end>
+<start> well ? <end> +++ <start> well what ? <end>
+<start> right . <end> +++ <start> they re mutated sea bass . <end>
+<start> like a used car salesman . <end> +++ <start> thanks . what s in there ? <end>
+<start> oh , yes . <end> +++ <start> where do you meet ? <end>
+<start> i don t know what you re talking about . <end> +++ <start> i m talking about the letter , asshole . <end>
+<start> so you ve laid the ghost . <end> +++ <start> i believe i have . <end>
+<start> no , thanks . i ll just look around . <end> +++ <start> fine . <end>
+<start> what assholes . <end> +++ <start> you can t curse in front of it either . <end>
+<start> well , george , who were you ? <end> +++ <start> i ? you all know my history . <end>
+<start> what was that ? <end> +++ <start> what ? i didn t hear anything . <end>
+<start> thank you very much . <end> +++ <start> my pleasure . <end>
+<start> he s hardly my mr . dyle . <end> +++ <start> describe him . <end>
+<start> is this what you call the butler ? <end> +++ <start> yes . <end>
+<start> just smile . <end> +++ <start> at what ? <end>
+<start> that means the nanobot is still inside him . <end> +++ <start> yes . <end>
+<start> i said let me see your hands now ! <end> +++ <start> you redneck idiot , do you have . . . <end>
+<start> that must have taken you a long time . <end> +++ <start> yeah , it did take me a long time . <end>
+<start> yeah . <end> +++ <start> it could be freezing , it could be raining . <end>
+<start> an answer . <end> +++ <start> no . <end>
+<start> do you walk home ? <end> +++ <start> uh huh . <end>
+<start> and no people . <end> +++ <start> yes . <end>
+<start> gerald wants to see him first . <end> +++ <start> shut up . <end>
+<start> honey i don t have the time . . . <end> +++ <start> i need your help . <end>
+<start> my husband . he s in havana in jail . <end> +++ <start> oh . mixed up in that revolution ? <end>
+<start> seal everything now ! <end> +++ <start> what s happening ? <end>
+<start> get that camel out of the way ! <end> +++ <start> what happened to marcus , sallah ? <end>
+<start> might be an accident on the west side highway . <end> +++ <start> how come you got the kid with you ? <end>
+<start> sit down , ma . . . . <end> +++ <start> you guys must be starving . . . . <end>
+<start> nature . . . <end> +++ <start> . . . preserve . . . <end>
+<start> wow , what a beautiful sunrise ! <end> +++ <start> at one o clock in the morning ? <end>
+<start> may i ? <end> +++ <start> go ahead . <end>
+<start> what ? <end> +++ <start> look into the convent records . <end>
+<start> who ? <end> +++ <start> calls himself dodd . <end>
+<start> somebody s got to do it <end> +++ <start> well , let s hear the poem <end>
+<start> yeah , down the end . <end> +++ <start> you sure ? <end>
+<start> you will respect the law . <end> +++ <start> there are unjust laws as there are unjust men . <end>
+<start> a fire which never dies . burning one forever ? <end> +++ <start> oh , yes . <end>
+<start> it won t . <end> +++ <start> but if it does . <end>
+<start> hi , kid . <end> +++ <start> wow . they sure did a job on you . <end>
+<start> somebody broke in . <end> +++ <start> now who d go and do . . . <end>
+<start> he ll turn around . <end> +++ <start> he won t . <end>
+<start> well , we ll see you later , bob . <end> +++ <start> pleasure to meet you , john . <end>
+<start> mason . <end> +++ <start> what ? <end>
+<start> is there a crowd in the street ? <end> +++ <start> no , sir . <end>
+<start> you always did have style . <end> +++ <start> it s one of a kind . <end>
+<start> not enough , what do you want ? <end> +++ <start> i should maybe go to the bathroom . <end>
+<start> want some coffee or tea ? <end> +++ <start> no , thank you . <end>
+<start> i want to buy you a drink . <end> +++ <start> thanks , franky . <end>
+<start> no . <end> +++ <start> why not ? <end>
+<start> no ! <end> +++ <start> i ll bring it back . <end>
+<start> for what , the cops ? <end> +++ <start> nice guy eddie . <end>
+<start> you know , us . <end> +++ <start> i thought you met someone else . <end>
+<start> who s that ? <end> +++ <start> the guy who bought you that ring . <end>
+<start> i ve seen it before . <end> +++ <start> you have ? <end>
+<start> okay , okay . you win . <end> +++ <start> thank you , sir ! <end>
+<start> so i m sorry . <end> +++ <start> make it up to me , then . <end>
+<start> beth shalom ? it s reform . <end> +++ <start> so what ? <end>
+<start> what was that ? <end> +++ <start> bela died . <end>
+<start> dakota . <end> +++ <start> ohio . . . <end>
+<start> what ? <end> +++ <start> she went to medical school in california . <end>
+<start> what now ? <end> +++ <start> we walk . <end>
+<start> yeah ? what three words , harry ? <end> +++ <start> pick n save . <end>
+<start> your hearse ? <end> +++ <start> yearse ! <end>
+<start> colonel . is uhm is otis in ? <end> +++ <start> come on in <end>
+<start> he d bring me carnations . <end> +++ <start> so i got it wrong , then . <end>
+<start> what ? <end> +++ <start> get going ! <end>
+<start> don t cross me . . . <end> +++ <start> nobody s going to do that ! <end>
+<start> hand over your dinner . <end> +++ <start> a flicker of talent . <end>
+<start> it s a thought i had . <end> +++ <start> should i open it now ? <end>
+<start> just as you say , doctor . <end> +++ <start> thank you , major . <end>
+<start> congratulations . <end> +++ <start> thanks . <end>
+<start> well . . . yeah . sure . <end> +++ <start> okay . talk . <end>
+<start> what the hell are you talkin about . . . <end> +++ <start> . . . colonel ? <end>
+<start> what was that all about ? <end> +++ <start> he wants me to perform for him . <end>
+<start> we must talk . <end> +++ <start> stay out of it . <end>
+<start> no . <end> +++ <start> did you ever ? <end>
+<start> a nun ? <end> +++ <start> i m telling you ! <end>
+<start> guess you gotta go . <end> +++ <start> you re the best . <end>
+<start> here . we ll collect them . <end> +++ <start> i will buy them for you . <end>
+<start> what is it , your laundry ? <end> +++ <start> huh ? <end>
+<start> get out , both of you ! <end> +++ <start> charlie , please don t <end>
+<start> and for cleaning up oil spills . <end> +++ <start> right . you predicted it . <end>
+<start> a god ? <end> +++ <start> yes ! <end>
+<start> of course . <end> +++ <start> so what s her name ? <end>
+<start> yeah . <end> +++ <start> i m goin . you on the list ? <end>
+<start> he s a good boy . <end> +++ <start> there is one big problem though . <end>
+<start> she did that deliberately . <end> +++ <start> she s a beast . <end>
+<start> that would mean they d been trapped in there <end> +++ <start> for three hundred years . <end>
+<start> take it easy . the glass is bullet resistant . <end> +++ <start> bullet resistant ? whatever happened to bullet proof ? <end>
+<start> what d he steal ? <end> +++ <start> a chip . goes in a computer . <end>
+<start> maybe your friends already accomplished that chore for us . <end> +++ <start> only one way to find out . <end>
+<start> alex , please . <end> +++ <start> stay in the truck . <end>
+<start> are you reading my mind right now ? <end> +++ <start> rufus , for christ s sake , get up . <end>
+<start> i did . <end> +++ <start> a single hour . <end>
+<start> affirmative , arctic warrior . what type of vessel ? <end> +++ <start> a passenger liner . over . <end>
+<start> and you won t . now move <end> +++ <start> i ll pay you . <end>
+<start> no , i don t think so , shel . <end> +++ <start> i . . . <end>
+<start> need the disk back ! <end> +++ <start> insurance . <end>
+<start> and all those like you . <end> +++ <start> you mean black people ? <end>
+<start> oh ! <end> +++ <start> i think he ll find that satisfying . <end>
+<start> i m not sure he s a lunatic . <end> +++ <start> well what would you call him . <end>
+<start> it is now . <end> +++ <start> you can t just take it ! <end>
+<start> it s a lead mine . <end> +++ <start> right . <end>
+<start> how can it be bullshit to state a preference ? <end> +++ <start> since when did this shop become a fascist regime ? <end>
+<start> would you like to see it ? <end> +++ <start> i ve seen it . <end>
+<start> sheila , please . <end> +++ <start> come on theo , what about plan c ? <end>
+<start> smoke screen for what ? <end> +++ <start> for your own fear . <end>
+<start> he is the fifth leading authority in his field . <end> +++ <start> oh , shit . <end>
+<start> can t we <end> +++ <start> too many people . come on ! shields ! ! <end>
+<start> that guy lovejoy put it in my pocket . <end> +++ <start> i know , i know . <end>
+<start> how do you want to pay ? <end> +++ <start> cash . <end>
+<start> i did . isn t it neat o ? <end> +++ <start> uh . . . what channel were you watching ? <end>
+<start> get out of here ! <end> +++ <start> it s not gonna hurt you . <end>
+<start> you have a name ? <end> +++ <start> marty . marty lewis . <end>
+<start> will that be cash or charge ? <end> +++ <start> better make it charge . <end>
+<start> well , that s blunt ! <end> +++ <start> i m sorry . but if the shoe fits . <end>
+<start> so you were alone . <end> +++ <start> yes . <end>
+<start> i m ray <end> +++ <start> i m peter <end>
+<start> you go ? not watch fun ? <end> +++ <start> i have something far more pleasant awaiting me . <end>
+<start> about benito . <end> +++ <start> did i kill a guy named benito ? <end>
+<start> that s right . <end> +++ <start> then sally comes too . <end>
+<start> okay . <end> +++ <start> good . <end>
+<start> what does clifford say ? <end> +++ <start> right now we have to be practical . <end>
+<start> hey , did you hear what he said ? ! <end> +++ <start> poor guy s had one too many scouting missions . <end>
+<start> that s right . <end> +++ <start> lieutenant snyder . bunco . <end>
+<start> viti levu . for how many ? <end> +++ <start> one . <end>
+<start> it s vince and justin . <end> +++ <start> who s that ? <end>
+<start> they were hebrew , weren t they ? <end> +++ <start> that s right . <end>
+<start> what s happenin . <end> +++ <start> you called this morning ? <end>
+<start> hey , ace . <end> +++ <start> hey . <end>
+<start> you looking for somebody ? <end> +++ <start> wha ? <end>
+<start> lazarus ? <end> +++ <start> oh ! gave me a start . <end>
+<start> good one , phillip ! cheers . <end> +++ <start> cheers , terrance ! <end>
+<start> you could hear them ? <end> +++ <start> yes . <end>
+<start> what do you think ? <end> +++ <start> really ? <end>
+<start> that s all . <end> +++ <start> no , it isn t where s the money ? <end>
+<start> i really don t want to see anybody . <end> +++ <start> even your fiancee . . . ? <end>
+<start> not the place you want to announce your arrival . <end> +++ <start> how s she going to know where to <end>
+<start> jeezus ! <end> +++ <start> sorry . <end>
+<start> i m sorry , man . <end> +++ <start> no . no , it s okay . <end>
+<start> mornin , son . . . <end> +++ <start> mornin , daddy . . . <end>
+<start> it does . <end> +++ <start> everything passes . immutable law of the universe . <end>
+<start> you re in the records room . <end> +++ <start> i m fine . <end>
+<start> baby , don t do this <end> +++ <start> it ll help me if you ll tell me . <end>
+<start> i can t . <end> +++ <start> you ve got to get your mind off this . <end>
+<start> it s home . <end> +++ <start> yeah . <end>
+<start> and where am i gonna be ? <end> +++ <start> in the parking lot , with her . <end>
+<start> it s a fait accompli ? <end> +++ <start> done . <end>
+<start> but i always eat like this . <end> +++ <start> either you re european or badly brought up . <end>
+<start> so ? how was school today ? <end> +++ <start> the same . <end>
+<start> and you ? <end> +++ <start> i ll have the blackbeard over easy . <end>
+<start> you re a spy . <end> +++ <start> what ? <end>
+<start> i m sorry , i <end> +++ <start> well , tell him i ll be back . <end>
+<start> you only made half your quote this year . <end> +++ <start> well , you re a tower of support . <end>
+<start> hi , how are you ? <end> +++ <start> okay , sammy . <end>
+<start> this be it ? <end> +++ <start> y all take american express ? <end>
+<start> so you re our own private guy ? <end> +++ <start> i handle most of cardiff giant s stuff . <end>
+<start> he s dead . <end> +++ <start> what happened ? <end>
+<start> you should feel good about this . <end> +++ <start> i feel like a traitor . <end>
+<start> with a jacked up attitude . <end> +++ <start> didn t know you cared so much . <end>
+<start> i m late for surgery . <end> +++ <start> it s important . <end>
+<start> i don t know . he has pains . <end> +++ <start> where ? <end>
+<start> the witness will answer the question . <end> +++ <start> mr . roston ? <end>
+<start> how much time do we have ? <end> +++ <start> not enough , what do you want ? <end>
+<start> yeah , are you ? <end> +++ <start> yeah . <end>
+<start> she s getting herself up to go out . <end> +++ <start> what d you say , brother ? <end>
+<start> are you comfortable regan ? <end> +++ <start> yes . <end>
+<start> don t you want nice stuff ? <end> +++ <start> i can t imagine spending money on towels . <end>
+<start> a hacker planted the virus . <end> +++ <start> virus ? <end>
+<start> last thing i want is you with a gun . <end> +++ <start> word . <end>
+<start> what s your point ? <end> +++ <start> we can t leave him to repeat anything . <end>
+<start> oh , jesus . . . . <end> +++ <start> adrenaline in your bag , blackburn , you must have <end>
+<start> couple of months . <end> +++ <start> what about before that ? <end>
+<start> what honey ? <end> +++ <start> if you want me to hate her i will . <end>
+<start> you drive . <end> +++ <start> what ? <end>
+<start> merry christmas , mr . campbell . <end> +++ <start> how d you do this year , tony ? <end>
+<start> like this . <end> +++ <start> i ll get my bag . <end>
+<start> don t say that ! <end> +++ <start> what the hell ! ! ! <end>
+<start> you re forgetting howard doyle ? <end> +++ <start> forgery ? fraud ? <end>
+<start> jesus , james , you should ve told someone . <end> +++ <start> who ? <end>
+<start> oh , i could die . . . <end> +++ <start> over this ? <end>
+<start> have you read the story on elvis ? <end> +++ <start> no . not yet . <end>
+<start> it s . . . it s locked . <end> +++ <start> you closed it , didn t you , grace ? <end>
+<start> it s not in me . <end> +++ <start> oh sure it is . <end>
+<start> just shut up , ryan didn t kill wade . <end> +++ <start> the hell he didn t . <end>
+<start> who is it raped you ? <end> +++ <start> nobody . <end>
+<start> come , i ll take you home . <end> +++ <start> i ll walk . . . <end>
+<start> i braided them . <end> +++ <start> must have taken a hell of a long time . <end>
+<start> the man s an ambulance chaser . . . <end> +++ <start> . . . tell me about this case . <end>
+<start> and what d she want ? <end> +++ <start> she was afraid to call you . <end>
+<start> when you go away . <end> +++ <start> we could go together one day . <end>
+<start> you sure ? <end> +++ <start> i know what i see . <end>
+<start> page a hundred and twelve . <end> +++ <start> bye . <end>
+<start> seventy five . <end> +++ <start> eleven hundred . that s my lowest offer . <end>
+<start> you gave them the eight billion . <end> +++ <start> you mean the seven billion . <end>
+<start> yeah . <end> +++ <start> alright , we ll do that tomorrow . <end>
+<start> yes . <end> +++ <start> i ll never forgive you . <end>
+<start> okay . goodbye , ellie . <end> +++ <start> goodbye , alan . <end>
+<start>  <end> +++ <start> all right . hey . <end>
+<start> do you ? <end> +++ <start> yes . <end>
+<start> but this time they ll be ready . <end> +++ <start> we ll see about that . <end>
+<start> want me to imitate a stupid cop ? <end> +++ <start> cut it out now . i m warning you . <end>
+<start> why can t we do it through the mail ? <end> +++ <start> we missed the deadline . <end>
+<start> bottom , left , right . i have it . <end> +++ <start> hurry , rose . <end>
+<start> an evening gown . <end> +++ <start> evening gown ? <end>
+<start> just for making the hand off ? <end> +++ <start> yeah . <end>
+<start> do you hunt ? <end> +++ <start> occasionally . <end>
+<start> you in music ? <end> +++ <start> no . <end>
+<start> as a matter of fact , i am . <end> +++ <start> figured . <end>
+<start> you couldn t have known <end> +++ <start> yeah , i could ve . should ve . <end>
+<start> yeah ? <end> +++ <start> you ve heard the stories right ? <end>
+<start> do you have something to prove ? <end> +++ <start> not in that repressed anger sort of way . <end>
+<start> what we gonna do ? <end> +++ <start> i don t know yet . <end>
+<start> you spit on me ! <end> +++ <start> i didn t spit on you ! <end>
+<start> how long have i been out ? <end> +++ <start> almost two days . <end>
+<start> thanks . . . for all your help . <end> +++ <start> that s what we re paid for . <end>
+<start> are you comfortable ? <end> +++ <start> yes . are you shaking ? <end>
+<start> yeah ? <end> +++ <start> a coyote . <end>
+<start> what do you want ? <end> +++ <start> i m sorry . i was looking for maude . <end>
+<start> i ve been talking to a prominent divorce lawyer . <end> +++ <start> how prominent ? <end>
+<start> i m retired . <end> +++ <start> what did you do ? <end>
+<start> that s great . <end> +++ <start> what ? <end>
+<start> i ll come to the wedding . <end> +++ <start> i m telling you you can t . <end>
+<start> we have a deal . what s your name ? <end> +++ <start> max . <end>
+<start> i hate asparagus . <end> +++ <start> sure you do , it s good for you . <end>
+<start> who is it ? <end> +++ <start> george bailey . <end>
+<start> so ? <end> +++ <start> what ? <end>
+<start> what about the gold ? <end> +++ <start> what about it ? <end>
+<start> plannin on getting married ? <end> +++ <start> no . <end>
+<start> yah ? <end> +++ <start> margie olmstead ? <end>
+<start> not exactly . <end> +++ <start> but you don t hate him . <end>
+<start> hey . <end> +++ <start> hey . you ok ? <end>
+<start> is he is he gonna die . . . ? <end> +++ <start> lock the door . lock it <end>
+<start> yes , sir . <end> +++ <start> delbert grady . <end>
+<start> strange . <end> +++ <start> think they re alright ? <end>
+<start> was it bad news the visit from peter ? <end> +++ <start> paul . <end>
+<start> sun glasses ? <end> +++ <start> to hide a black eye . <end>
+<start> i ll be there . <end> +++ <start> you bringing your new friend ? <end>
+<start> no . . . just keep him in here . <end> +++ <start> until you , or anyone else . . . <end>
+<start> scared ? <end> +++ <start> no . you ? <end>
+<start> i feel like driving . are you terrible hungry ? <end> +++ <start> no , it s all right . <end>
+<start> what ? <end> +++ <start> i ll tell you when it s time . <end>
+<start> she told you about . . . <end> +++ <start> her dog , yes . <end>
+<start> this is a club , sheriff you been in here <end> +++ <start> and people better clear out of here ! now ! <end>
+<start> me too . <end> +++ <start> did you hear what he just said ? <end>
+<start> yes , i wrote it . <end> +++ <start> you wrote it . <end>
+<start> disaster , disaster lurks behind every palm tree . <end> +++ <start> you re being narrow minded . <end>
+<start> are you okay ? you want some help ? <end> +++ <start> no . <end>
+<start> who are you calling ? <end> +++ <start> cecile . <end>
+<start> yes . <end> +++ <start> what time did you leave ? <end>
+<start> do you think he knows about this ? <end> +++ <start> i don t know . <end>
+<start> it s astonishing and incredible , but <end> +++ <start> what is it , my son ? <end>
+<start> i m here . <end> +++ <start> they re still there ! <end>
+<start> how was palm springs ? <end> +++ <start> hot . where do i sign ? <end>
+<start> all right . what s the scoop ? <end> +++ <start> on what ? <end>
+<start> he had a mind that escalated things . <end> +++ <start> so , what happened ? <end>
+<start> she tells you how i ve been <end> +++ <start> a philandering pig . <end>
+<start> plans ? <end> +++ <start> lucy . <end>
+<start> we don t wash em , ya know . <end> +++ <start> how about chargin the battery ? <end>
+<start> you had my help , detective . <end> +++ <start> if anything happens to her while i m here <end>
+<start> i m no good . <end> +++ <start> ed , it s just one man s opinion ! <end>
+<start> are you awake ? <end> +++ <start> no . <end>
+<start> repairs . . . <end> +++ <start> what have you done to my ship ? <end>
+<start> hold it . . . ! <end> +++ <start> i ll prove it ! <end>
+<start> goodbye , mr . fielding . <end> +++ <start> goodbye ? <end>
+<start> me too . <end> +++ <start> i would love to see you again sometime . <end>
+<start> i wish you hadn t done that . <end> +++ <start> why not ? <end>
+<start> hey , hey there s a rent . <end> +++ <start> he s not gonna want us . <end>
+<start> mm hmm . <end> +++ <start> such as ? <end>
+<start> oh , you have an upstairs and a downstairs . <end> +++ <start> yes that s our hurricane cellar . <end>
+<start> oh . . <end> +++ <start> oh . <end>
+<start> or murdered , like nix . <end> +++ <start> he deserved it . <end>
+<start> never mind the sir . never mind the sir . <end> +++ <start> well , sir , i was just . . . <end>
+<start> no . <end> +++ <start> no ? not even one more ? <end>
+<start> is it her ? is anne in there ? <end> +++ <start> she is . don t go in there . <end>
+<start> are you really serious ? about acting ? <end> +++ <start> why . . . yes . <end>
+<start> gee . . . what makes you say that ? <end> +++ <start> your life flashing before your eyes ? <end>
+<start> people seem to like my cat . <end> +++ <start> enough already about it get to work ! <end>
+<start> it s a place where religious people <end> +++ <start> marlin perkins and jim ! <end>
+<start> you take the microwave ? <end> +++ <start> what am i going to do with a microwave ? <end>
+<start> no color , no sparkle but dependable . <end> +++ <start> the type they marry . <end>
+<start> you re insane . <end> +++ <start> you re very tan , will . <end>
+<start> what did you want my hair for ? <end> +++ <start> something else i want to try . <end>
+<start> so what do you want with her anyway ? <end> +++ <start> i m a good friend of hers . <end>
+<start> you told me you had answers . <end> +++ <start> yeah , well i don t have them all . <end>
+<start> geez , you okay , margie ? <end> +++ <start> i m fine it s just morning sickness . <end>
+<start> now , you just find him , son . <end> +++ <start> yes , sir . <end>
+<start> well . . . this is it . <end> +++ <start> listen . i had a great time . <end>
+<start> most we ve ever used is half a cc . <end> +++ <start> five cc s . <end>
+<start> can you ? <end> +++ <start> jim , i don t even know his anatomy . <end>
+<start> en arte voluptus . que les bons temps roule ! <end> +++ <start> gerade aus dann links ! <end>
+<start> i m lost . <end> +++ <start> can t seem to escape you today . <end>
+<start> what ? what are you doing ? <end> +++ <start> what are you doing here ? <end>
+<start> just hold me . <end> +++ <start> it will be rough . <end>
+<start> sit . play with me . <end> +++ <start> no , i . . . <end>
+<start> nervous ? <end> +++ <start> a little . <end>
+<start> are you riding with me , james ? <end> +++ <start> no , i m going ho <end>
+<start> about what ? <end> +++ <start> the faa announcement . <end>
+<start> don t be defensive . <end> +++ <start> i m not being defensive . <end>
+<start> i don t call him , i whistle . <end> +++ <start> what do you whistle ? <end>
+<start> we have room ! let s go ! <end> +++ <start> what do you mean ? what happened ! <end>
+<start> someone out there . <end> +++ <start> jesus fucking christ . <end>
+<start> twenty bucks ? <end> +++ <start> twenty bucks . <end>
+<start> he didn t want me to . <end> +++ <start> why not ? <end>
+<start> yeah . <end> +++ <start> rekallrekallrekall . you thinkin of goin there ? <end>
+<start> hasn t merlin mended your wound ? <end> +++ <start> it is deep . . . <end>
+<start> well , shall we go through documentation ? <end> +++ <start> fine . <end>
+<start> ma am ? <end> +++ <start> yeah . <end>
+<start> what is she saying ? <end> +++ <start> she says that ali is still in the casbah . <end>
+<start> she s in back . <end> +++ <start> thanks . <end>
+<start> spanish . <end> +++ <start> how do you say quit my job in spanish ? <end>
+<start> what ! <end> +++ <start> teddy was killed last night . <end>
+<start> i . . . certainly , but <end> +++ <start> catch me later , okay ? <end>
+<start> where are you going ? <end> +++ <start> i m going out ! <end>
+<start> one thirty . california ballroom . <end> +++ <start> that s right . that gives you . . . <end>
+<start> bye . <end> +++ <start> monica ! <end>
+<start> that crazy guy ? <end> +++ <start> yes . joe . <end>
+<start> alice ! <end> +++ <start> i ve got to go . <end>
+<start> yeah ! <end> +++ <start> the dame s too smart for him . <end>
+<start> you rigged the illusion to fail , right ? <end> +++ <start> yes . <end>
+<start> your friends are late . . . <end> +++ <start> they ll be here . . . <end>
+<start> yeah , i know . <end> +++ <start> you want more money , is that it ? <end>
+<start> jack . <end> +++ <start> you love him ? <end>
+<start> compensated . . . ? <end> +++ <start> how were you paid ? <end>
+<start> they should arrest people for obeying the speed limit . <end> +++ <start> bandit ii ? <end>
+<start> . . . hi . <end> +++ <start> well c mere , young fella . <end>
+<start> sure . . . where would we go ? <end> +++ <start> . . . lover s lane ? <end>
+<start> it s . . . okay <end> +++ <start> i kissed my boyfriend s brother on television ! <end>
+<start> amish . <end> +++ <start> yeah . <end>
+<start> need a lift ? <end> +++ <start> no thank you . <end>
+<start> so you ve done it <end> +++ <start> well i don t go out very much . <end>
+<start> what are u you u looking at ? <end> +++ <start> i don t know . <end>
+<start> oh ! you didn t read it ! <end> +++ <start> naturally i did . <end>
+<start> but it s not true , is it ? <end> +++ <start> what ? <end>
+<start> you mean you had a bad dream . <end> +++ <start> no , he was real . like on tv . <end>
+<start> mind your own business , father . <end> +++ <start> this is my business . <end>
+<start> why ? <end> +++ <start> please , i must get out here . <end>
+<start> wha ? <end> +++ <start> short happy life of francis macomber . <end>
+<start> you think you can learn , mccall ? <end> +++ <start> i think so . <end>
+<start> okay ? <end> +++ <start> okay . <end>
+<start> come with us , sir . <end> +++ <start> i d like to know what . . . <end>
+<start> i thought he was the chief engineer . <end> +++ <start> he is . <end>
+<start> what do you think ? <end> +++ <start> ecru . <end>
+<start> howdy , miz lampert . <end> +++ <start> wha what do you want ? <end>
+<start> how is she alright looking the way she does ? <end> +++ <start> camille , she ll be fine . <end>
+<start> where s matt ? <end> +++ <start> matt ? <end>
+<start> not caesar . <end> +++ <start> why ? <end>
+<start> are you going with chet ? <end> +++ <start> chet ? to a play ? are you kidding ? <end>
+<start> just shut your gap ! <end> +++ <start> did i say anything ? <end>
+<start> i don t want to learn . <end> +++ <start> you don t want to learn . <end>
+<start> sure . yeah . <end> +++ <start> you bet the ponies ? <end>
+<start> we ve got powder but no ball ! <end> +++ <start> then use rocks ! <end>
+<start> i suppose so . <end> +++ <start> i mean , that s what it s like . <end>
+<start> the other day . . . . <end> +++ <start> what for ? <end>
+<start> jack and marcie are gonna be drenched . <end> +++ <start> not if they re where i think they are . <end>
+<start> where s mrs . baldwin ? <end> +++ <start> what did you do with her ? <end>
+<start> bank robbery . <end> +++ <start> really , i m impressed . <end>
+<start> that guy is totally amazing . <end> +++ <start> he does that every single day . <end>
+<start> yeah ? ! <end> +++ <start> yeah . <end>
+<start> think about it . . . <end> +++ <start> what the fuck is wrong with you ? <end>
+<start> he stole something . from a friend of mine . <end> +++ <start> he must be a good friend . <end>
+<start> tough work , that . <end> +++ <start> someone s got to do it . <end>
+<start> someone get a doctor . <end> +++ <start> there s one coming . <end>
+<start> i want you to shut up and listen to me <end> +++ <start> i haven t said anything <end>
+<start> i envy you , jerome . <end> +++ <start> you ll be next . <end>
+<start> you broke my heart . <end> +++ <start> what are we looking for ? <end>
+<start> oh christ . doc . . . <end> +++ <start> dear god . <end>
+<start> . . . i bet you re gay . <end> +++ <start> no , i m not . <end>
+<start> perfect . <end> +++ <start> i don t know which ball s mine . <end>
+<start> have you seen him ? <end> +++ <start> no . <end>
+<start> i ll get your bags . <end> +++ <start> haven t any . <end>
+<start> take a letter . <end> +++ <start> who to ? <end>
+<start> no . . . <end> +++ <start> please excuse leah . she s mentally challenged . <end>
+<start> he s in florida . palm beach . <end> +++ <start> when s he due back ? <end>
+<start> i thought you hardly know her . <end> +++ <start> i know the type . i m a psychologist . <end>
+<start> when ? <end> +++ <start> today . <end>
+<start> give me the ball . <end> +++ <start> my court , i go first . <end>
+<start> never heard of him . thanks anyway . <end> +++ <start> you mean her . <end>
+<start> with what ? against how many ? <end> +++ <start> we can t just sit here waiting to die . <end>
+<start> get the plate numbers off everyone of these cars . <end> +++ <start> i already did . <end>
+<start> it s cold . <end> +++ <start> i don t care . <end>
+<start> they re not open yet ? <end> +++ <start> they don t get opened until eight . <end>
+<start> there is no letter . <end> +++ <start> we ll get a handwriting expert to what ! <end>
+<start> phone number . <end> +++ <start> 818 753 0088 . <end>
+<start> i thought maybe you forgot . . . <end> +++ <start> forgot what ? <end>
+<start> yeah , but i see you moved it up . <end> +++ <start> why you think is today ? <end>
+<start> which one was wearing the strange clothes ? <end> +++ <start> him . <end>
+<start> that guy really must ve belted him . <end> +++ <start> yeah , he s punchy . talking to himself . <end>
+<start> another caucasian , gary . <end> +++ <start> right , dude . <end>
+<start> where s the other one ? <end> +++ <start> she <end>
+<start> fine , my boy , fine , fine . <end> +++ <start> father , i have tried , have i not ? <end>
+<start> the hull s imploding ! <end> +++ <start> rizzo ! can you hear me ? ! <end>
+<start> how much do i owe you ? <end> +++ <start> twelve thousand . <end>
+<start> that musta messed em up pretty bad . <end> +++ <start> what happened to em after that , willie ? <end>
+<start> she saw through me . <end> +++ <start> uh oh . that s not good . <end>
+<start> and she s in your house . <end> +++ <start> yes . <end>
+<start> hi mark , cindy , ben . <end> +++ <start> hi sandy . <end>
+<start> buffy ? <end> +++ <start> jeffrey ! <end>
+<start> i didn t get killed and everyone else did . <end> +++ <start> that s one way to look at it . <end>
+<start> is it captain howdy ? <end> +++ <start> i don t know . <end>
+<start> in my sleep . <end> +++ <start> what d it say ? <end>
+<start> what is it ? <end> +++ <start> it s a thought i had . <end>
+<start> i don t know . <end> +++ <start> the story gets hairier . should i stop ? <end>
+<start> coz he thinks you re a witness . <end> +++ <start> i can t identify him . . <end>
+<start> i ll be there by seven . i promise <end> +++ <start> thanks , tatum . <end>
+<start> i guess you have to go on faith . <end> +++ <start> some times . . . <end>
+<start> so have i . <end> +++ <start> from you , i like it . <end>
+<start> you re doing fine . <end> +++ <start> i mean . i want to . . . <end>
+<start> i think i can lick it . <end> +++ <start> how ? <end>
+<start> your mother was a saint . <end> +++ <start> but buddy deeds was my salvation . <end>
+<start> quit showing off ! we re here on business ! <end> +++ <start> good bye ! <end>
+<start> hi . <end> +++ <start> hi . <end>
+<start> me , too . <end> +++ <start> i m michael . <end>
+<start> she died in a car accident . <end> +++ <start> i m sorry . <end>
+<start> i like steak . <end> +++ <start> then you would use your <end>
+<start> hey bleek . <end> +++ <start> hey , cool tiger . looks proud . <end>
+<start> what are you doing ? <end> +++ <start> cutting it out . <end>
+<start> get out of there ! <end> +++ <start> i can t see . . . <end>
+<start> what about matt ? <end> +++ <start> leave him , he s dead . <end>
+<start> think it ll work ? <end> +++ <start> it would take a miracle . bye ! <end>
+<start> emily left me this morning . <end> +++ <start> she s left before . . . <end>
+<start> she ll be worried about me . <end> +++ <start> she ll get over it . <end>
+<start> melville , huh ? it s been a while . <end> +++ <start> that s the subject of my last chapter . <end>
+<start> why is that funny ? <end> +++ <start> i don t know . <end>
+<start> you wanna release your air tanks ? <end> +++ <start> okay , good tip . <end>
+<start> we established that we have no communication . <end> +++ <start> oh . <end>
+<start> you kids off to the dance ? <end> +++ <start> aren t you coming ? <end>
+<start> hello ? <end> +++ <start> it s raymond . <end>
+<start> guy s a spook ! <end> +++ <start> yeah , but for who ? <end>
+<start> what ll i tell him ? <end> +++ <start> tell him you re going to elope with him . <end>
+<start> huh ? <end> +++ <start> what if it s some kind of monster ? <end>
+<start> i ll see you there . <end> +++ <start> right behind you . <end>
+<start> can we make jack o lanterns ? <end> +++ <start> sure . <end>
+<start> you re conceited <end> +++ <start> but attractive <end>
+<start> what about dinner ? <end> +++ <start> dinner can wait . <end>
+<start> you ve what ? <end> +++ <start> she s just outside the door . <end>
+<start> don t even think about it . <end> +++ <start> why not ? <end>
+<start> how do they know ? <end> +++ <start> what is your idea of being normal ? <end>
+<start> oh , god . . . <end> +++ <start> and here s some hydrogen peroxide . <end>
+<start> don t do that . <end> +++ <start> what are you going to do ? hm ? <end>
+<start> guess i got a little scattered . <end> +++ <start> it s a shitty song . <end>
+<start> you ve just decided , is that right ? <end> +++ <start> yes . <end>
+<start> delivered from armchairs in obscure green stripe patterns . <end> +++ <start> delivered from martha stewart . <end>
+<start> it s not what you think . <end> +++ <start> isn t it ? <end>
+<start> let s go ! let s go ! <end> +++ <start> fuckin a ! <end>
+<start> report ! <end> +++ <start> we ve lost bridge control ! <end>
+<start> yes . <end> +++ <start> they have nothing to do with this <end>
+<start> ben ? <end> +++ <start> sorry . <end>
+<start> do not let the waters touch you . <end> +++ <start> what will happen ? <end>
+<start> grant , where d you go ? <end> +++ <start> hey , grant . <end>
+<start> it s not cool ? <end> +++ <start> it s fine , but <end>
+<start> you can tell by the intonation . <end> +++ <start> one other thing . do you have any tattoos ? <end>
+<start> i should maybe go to the bathroom . <end> +++ <start> can you hold it ? <end>
+<start> you were not coming here , to see me ? <end> +++ <start> no no , sir . <end>
+<start> red label . <end> +++ <start> right . sorry . <end>
+<start> to the foot doctor . <end> +++ <start> yes . <end>
+<start> black hair . paul michael glaser . <end> +++ <start> making hutch david soul ? <end>
+<start> are you kidding ? <end> +++ <start> i always said you were a gentleman . <end>
+<start> you re making popcorn ? <end> +++ <start> uh huh . <end>
+<start> he s a great poet . <end> +++ <start> he is ? <end>
+<start> epps ? <end> +++ <start> what ? <end>
+<start> on screen . <end> +++ <start> admiral <end>
+<start> why re you crying ? <end> +++ <start> i m not crying . <end>
+<start> bitchin good cake . <end> +++ <start> stu , are you . . . feeling okay ? <end>
+<start> how you doing , brewer ? <end> +++ <start> i need a vacation . <end>
+<start> they can t be . <end> +++ <start> they may not know it but they are . <end>
+<start> me . <end> +++ <start> you ? <end>
+<start> must be billy s girl . <end> +++ <start> come on . <end>
+<start> he said what ? <end> +++ <start> he said you ran away from home . <end>
+<start> to old friends . and your new dreams . <end> +++ <start> to old friends . <end>
+<start> she got u paid u . <end> +++ <start> i thought the movie was bitchin . <end>
+<start> stop farting around . . . . <end> +++ <start> stop busting my hump . . . . <end>
+<start> didn t seem worried about them . <end> +++ <start> was this girl from starliner towers ? <end>
+<start> call me a cocksucker and you re outta here ! <end> +++ <start> you re a cocksucker ! <end>
+<start> more . <end> +++ <start> more s gonna cost you . <end>
+<start> sure you do you win either way . <end> +++ <start> i m supposed to . <end>
+<start> mine ! <end> +++ <start> you guys have been so colossal . . . <end>
+<start> yeah , well i figure these are unusual circumstances . <end> +++ <start> that s what i was hoping you d say . <end>
+<start> makes her look even more innocent . <end> +++ <start> what would she want with weapons grade plutonium ? <end>
+<start> i collect spores , molds and fungus . <end> +++ <start> oh , that s very unusual . <end>
+<start> c4 , plastic explosive . <end> +++ <start> helluva fuck factor . <end>
+<start> oh , great . <end> +++ <start> you do . <end>
+<start> where s della ? bring her here ? <end> +++ <start> why ? what for ? <end>
+<start> please . . . <end> +++ <start> they re prisoners to their genes . <end>
+<start> . . . he s two floors below you . <end> +++ <start> in my office ? <end>
+<start> . . . i stank , didn t i ? <end> +++ <start> he didn t say that . <end>
+<start> fuck you . we shoulda taken his car . <end> +++ <start> what s wrong with this one ? <end>
+<start> oh , you mean fred . <end> +++ <start> no , del . <end>
+<start> she s such a long way home for you . <end> +++ <start> time , i ve got plenty of . <end>
+<start> where are they ? <end> +++ <start> eta with target four minutes . <end>
+<start> run for what ? <end> +++ <start> can t you see ? it s raining ! <end>
+<start> what do you mean you can t ? <end> +++ <start> can t eat through a canvas bag . <end>
+<start> kit give me nothin . <end> +++ <start> you bullshittin me ? <end>
+<start> i found you someone . <end> +++ <start> found ? i m not some charity case . <end>
+<start> what s that ? i hear something ! <end> +++ <start> you hear trouble . <end>
+<start> just didn t know who else to talk to . <end> +++ <start> and outpost ? you re happy there ? <end>
+<start> what the hell s there ? <end> +++ <start> polar bears . <end>
+<start> i m busy . <end> +++ <start> doing what ? <end>
+<start> you love him ? <end> +++ <start> no . <end>
+<start> how about if i set the table ? <end> +++ <start> sure . <end>
+<start> instead of going into his mind . . . <end> +++ <start> she s bringing stargher into hers . <end>
+<start> why ? <end> +++ <start> because , you know why . you know . <end>
+<start> take this . <end> +++ <start> and do what with it ? <end>
+<start> just relax . <end> +++ <start> switch the charts . <end>
+<start> he s christ ? <end> +++ <start> i m christ <end>
+<start> no . <end> +++ <start> later . <end>
+<start> i want to touch you . <end> +++ <start> no . <end>
+<start> what s wrong ? <end> +++ <start> i don t know where to begin . . . <end>
+<start> what about all my other stuff ? <end> +++ <start> we ll get it later . <end>
+<start> what do we do ? <end> +++ <start> what do we do ? lean into it . <end>
+<start> i have it here . <end> +++ <start> good . <end>
+<start> what is going to happen ? where is harry ? <end> +++ <start> he s safe in the russian zone . <end>
+<start> ah ha . what did he want ? <end> +++ <start> something personal . is he bothering you ? <end>
+<start> yeah ? <end> +++ <start> paulie , you ve got kids , right ? <end>
+<start> bullshit . you would ve killed us anyway . <end> +++ <start>  <end>
+<start> we have a situation . the members are assembling . <end> +++ <start> is it an emergency ? <end>
+<start> . . . nothing . <end> +++ <start> a letter . may i see ? <end>
+<start> why haven t they killed the juice ? <end> +++ <start> switches are shorted out . <end>
+<start> sometimes i wonder what they talk about . <end> +++ <start> yeah , i know . <end>
+<start> what ? <end> +++ <start> you know . your first campaign . <end>
+<start> he s good at it . <end> +++ <start> i read an article about this . . . <end>
+<start> yeah . <end> +++ <start> any prospects ? <end>
+<start> nice guy . who s he ? <end> +++ <start> who s it , you mean . <end>
+<start> beaumont livingston ? <end> +++ <start> you already knew that ? <end>
+<start> no , sergeant . i checked twice . <end> +++ <start> a bootleg . . . <end>
+<start> yep . <end> +++ <start> then why do you call it harlin s ? <end>
+<start> well , when are you quitting ? <end> +++ <start> quitting ? i m not thinking about quitting . <end>
+<start> this is miss costello . . . ? <end> +++ <start> yes . price . . . <end>
+<start> big house . <end> +++ <start> you like ? <end>
+<start> he doesn t give a damn about me . <end> +++ <start> oh , you re wrong . he told me <end>
+<start> i know what you re going to say . <end> +++ <start> do you ? <end>
+<start> we better watch him . he s crazy . <end> +++ <start> right . <end>
+<start> no way to take another day or two ? <end> +++ <start> no . you ll see when we get inside . <end>
+<start> make it the way i always do . <end> +++ <start> yeah . too sweet . <end>
+<start> well . . . yes . all right . but <end> +++ <start> ah , come on now ! <end>
+<start> what do you mean ? <end> +++ <start> feel this . <end>
+<start> and . . . ? <end> +++ <start> and what ? <end>
+<start> what mr . parker ? <end> +++ <start> she never ate a slice . <end>
+<start> come on , she s getting away . <end> +++ <start> i can t keep up . <end>
+<start> yeah . we just go home . <end> +++ <start> we can t . <end>
+<start> hey , mike ? <end> +++ <start> what ? are you all right ? <end>
+<start> yo . <end> +++ <start> how are we doing ? <end>
+<start> what ? <end> +++ <start> you do see me standing here , right ? <end>
+<start> her father loading up the shotgun ? <end> +++ <start> stella ! <end>
+<start> will . . . i . . . <end> +++ <start> what is it ? <end>
+<start> you are female ? <end> +++ <start> as you see . <end>
+<start> i think you need your balls reattached . <end> +++ <start> keep it down , dude . <end>
+<start> you ok ? <end> +++ <start> fine . are you ? <end>
+<start> who are you ? <end> +++ <start> he s the owner . . . <end>
+<start> no , sir . <end> +++ <start> lice ? <end>
+<start> those are the two categories . . . <end> +++ <start> m hm . <end>
+<start> departure angle on viewer . <end> +++ <start> departure angle . <end>
+<start> please , it really doesn t matter . <end> +++ <start> well . . did you have a pleaant flight ? <end>
+<start> so it seems sergeant . <end> +++ <start> right . <end>
+<start> no ? <end> +++ <start> no . <end>
+<start> uh huh . <end> +++ <start> came back three days ago . <end>
+<start> what ? <end> +++ <start> funny time to say this . <end>
+<start> no . . . he s determined . unstoppable <end> +++ <start> cocky . <end>
+<start> don t let s talk about it . <end> +++ <start> you said it ! how about a little action ? <end>
+<start> what the hell s it matter ? <end> +++ <start> how much ? <end>
+<start> cookie , they are dead , dead , deadski . <end> +++ <start> of course they re dead . they re ghosts . <end>
+<start> thank you , mr . lawson . <end> +++ <start> don t mention it . whoever you are . <end>
+<start> . . . and unharmed , de . . . <end> +++ <start> . . . spite the mouth . <end>
+<start> this is nice . <end> +++ <start> never been here before ? <end>
+<start> when are you leaving ? <end> +++ <start> tomorrow . <end>
+<start> right . <end> +++ <start> so it s on the street . <end>
+<start> j . c . penney . beauty and fragrances . <end> +++ <start> what s her middle name ? <end>
+<start> like a baby . you ? <end> +++ <start> in and out . <end>
+<start> fine . <end> +++ <start> what do you want on it ? <end>
+<start> oh but i <end> +++ <start> you re tired . i can see that . <end>
+<start> no ? <end> +++ <start> i ll write you ten poems . bye . <end>
+<start> shit . <end> +++ <start> wait until he is on the stairs . <end>
+<start> could you watch jango ? <end> +++ <start> no . <end>
+<start> it s true . i wouldn t lie . <end> +++ <start> you are sweet . <end>
+<start> sorry , sir . can t do it . <end> +++ <start> that s an order . <end>
+<start> don t be so hard on yourself . <end> +++ <start> i just got kicked off my first movie . <end>
+<start> switch the charts . <end> +++ <start> what ? <end>
+<start> not if i don t let her . <end> +++ <start> you ? <end>
+<start> beth <end> +++ <start> you did , didn t you ? <end>
+<start> i live here . <end> +++ <start> i thought you were going to the mixer ? <end>
+<start> no you mean . . . ? <end> +++ <start> uh huh . <end>
+<start> you ll what ? <end> +++ <start> i m going to have you fired . <end>
+<start> you re my conscience . <end> +++ <start> haven t you got a conscience of your own ? <end>
+<start> right . <end> +++ <start> okay now . cases smith versus state of michigan . <end>
+<start> yes . <end> +++ <start> i have excellent long term memory . <end>
+<start> so don t marry him . <end> +++ <start> if only it were that simple . <end>
+<start> is that how you play ? <end> +++ <start> i try . <end>
+<start> i had it on the island with me . <end> +++ <start> must be a story there . <end>
+<start> i know a lawyer at justice <end> +++ <start> has he got an ax ? <end>
+<start> sustained . <end> +++ <start> sustain all objections , but face the truth ! <end>
+<start> plenty of time . <end> +++ <start> what are these ? <end>
+<start> yeah . <end> +++ <start> like he would find dignan . one day . <end>
+<start> mrs . kramer , do you love your child ? <end> +++ <start> yes . very much . <end>
+<start> what is it ? <end> +++ <start> i don t know . got it from stephanie . <end>
+<start> hello ? <end> +++ <start> yah , is this marge ? <end>
+<start> she finally got in <end> +++ <start> it s saturday . <end>
+<start> see this ? <end> +++ <start> yeah , what is it ? <end>
+<start> oh . bigfoot gets his out of a can . <end> +++ <start> how do you know ? <end>
+<start> just tell him to call me . <end> +++ <start> ok . <end>
+<start> just the obvious stuff . <end> +++ <start> what s the obvious stuff ? <end>
+<start> thanks . why do you do it ? <end> +++ <start> what do i do ? <end>
+<start> he s a ghost ! <end> +++ <start> he s alive ! <end>
+<start> i d believe him . <end> +++ <start> why ? <end>
+<start> maroon . i stole it . <end> +++ <start> what ? <end>
+<start> a car accident . <end> +++ <start> jesus , jesus ! . . . when ? <end>
+<start> . . . who is this ? <end> +++ <start> chet ! <end>
+<start> no . <end> +++ <start> did you hear that click ? <end>
+<start> of course <end> +++ <start> and do princesses do improper things ? <end>
+<start> it s nice to do a lot of things . <end> +++ <start> that s what i mean . <end>
+<start> yes , mikey ? <end> +++ <start> do you have any brothers or sisters ? <end>
+<start> irena . but who are you ? <end> +++ <start> i m your friend . <end>
+<start> how was it ? <end> +++ <start> could use a dash more jet fuel . <end>
+<start> dela what s the matter with you . <end> +++ <start> you ain t happy about the green light ? <end>
+<start> let s go have dinner , shall we ? <end> +++ <start> mmm . <end>
+<start> ellis loew . <end> +++ <start> what about him ? <end>
+<start> drive or i ll blow your fuckin head off . <end> +++ <start> no he won t . <end>
+<start> how d it go ? <end> +++ <start> i m here , aren t i ? <end>
+<start> what ? <end> +++ <start> this is alvy singer ! <end>
+<start> not good . <end> +++ <start> do you have a back up . <end>
+<start> okay . okay . <end> +++ <start> goodnight . <end>
+<start> what are you doing here ? <end> +++ <start> let s go down to the basement . <end>
+<start> no thank you . <end> +++ <start> i also have tiny pizzas and mushrooms stuffed with <end>
+<start> bye , sweetie . <end> +++ <start> okay , sweetie . <end>
+<start> oh , miss price ? <end> +++ <start> yes , doctor ? <end>
+<start> hey . way to gut it out . <end> +++ <start> thanks , wick . <end>
+<start> are you ready to put him in ? <end> +++ <start> not yet . <end>
+<start> i know she s coming back . <end> +++ <start> i don t think so . <end>
+<start> my mom is gone . <end> +++ <start> where is she ? <end>
+<start> i can t keep my mind on the show . <end> +++ <start> but there s nothing wrong with you . <end>
+<start> they weren t worth a damn . <end> +++ <start> i heard he was the best . <end>
+<start> have you warned professor hikita ? <end> +++ <start> first thing i did . <end>
+<start> my kids were on that beach . . . <end> +++ <start> just sign it , larry . <end>
+<start> the prince of darkness . <end> +++ <start> the nightcrawler . the bloodsucker . <end>
+<start> that ain t much of a name . <end> +++ <start> it s easy to remember . easy lay . <end>
+<start> yes . i told him . <end> +++ <start> what did he say ? <end>
+<start> it wasn t me . <end> +++ <start> yeah , right . who was it randal ? <end>
+<start> on the phone ? <end> +++ <start> no , she s here . <end>
+<start> looking for my room one sixty six . <end> +++ <start> you live here ? <end>
+<start> why not ? <end> +++ <start> why not ? <end>
+<start> salem , massachusetts ? where all the witches were ? <end> +++ <start> yeah . . . you a witch ? <end>
+<start> he isn t any friend of father . <end> +++ <start> he isn t ? <end>
+<start> what do you want ? <end> +++ <start> came by to check on you . <end>
+<start> lenny , this shit s illegal . <end> +++ <start> define illegal . <end>
+<start> they re out of glenlivet . <end> +++ <start> what else is going on ? <end>
+<start> no . <end> +++ <start> thank q ! <end>
+<start> but wouldn t that drive you out of regan ? <end> +++ <start> it would bring us together . <end>
+<start> yes , sir . <end> +++ <start> have you notified the police ? <end>
+<start> probably . <end> +++ <start> i don t trust her . <end>
+<start> no , i m not playing this game . <end> +++ <start> no , this is serious . say it backwards . <end>
+<start> all right i ll go out and find one . <end> +++ <start> firefly must be captured at any cost . <end>
+<start> to friends . <end> +++ <start> yes , anatoly , yes . <end>
+<start> hunt doesn t seem like your ordinary consultant . <end> +++ <start> maybe a political operative of some sort <end>
+<start> aw . . . that s so sweet . <end> +++ <start> i love you . <end>
+<start> everybody loves trout . <end> +++ <start> i m serious . <end>
+<start> confirm with trig and image . <end> +++ <start> any id on the shooter yet ? <end>
+<start> one more . smile . one more . <end> +++ <start> no , c mon <end>
+<start> got to see pop , uncle billy . <end> +++ <start> some other time , george . <end>
+<start> hello again . <end> +++ <start> i ve never seen you here before . <end>
+<start> perhaps . there is something more . an inheritance . <end> +++ <start> of bodies . <end>
+<start> what is your uncle s name ? <end> +++ <start> o grady . <end>
+<start> congratulations , eve . <end> +++ <start> thank you , karen . <end>
+<start> shopping , really ? i should tell my friend . <end> +++ <start> don t worry . he found the chocolate room . <end>
+<start> i m not really , uh . <end> +++ <start> please ! please ! <end>
+<start> guess please would be a stretch . <end> +++ <start> please . <end>
+<start> darling , peter says i could stay <end> +++ <start> why not ? <end>
+<start> yeah . <end> +++ <start> and here , you just <end>
+<start> damn . it s doing it again . <end> +++ <start> what s wrong ? <end>
+<start> you don t ? <end> +++ <start> no . what is happening ? <end>
+<start> is there a script ? <end> +++ <start> fuck no ! but there s a poster . <end>
+<start> i m looking for some perfume . <end> +++ <start> any particular brand ? <end>
+<start> pardon ? <end> +++ <start> what did you call me , boy ? <end>
+<start> can i hold him ? <end> +++ <start> sure . <end>
+<start> she s cute as a button . <end> +++ <start> how long have they been married ? <end>
+<start> don t do it , mike . <end> +++ <start> shut up . <end>
+<start> i love you , elaine . <end> +++ <start> i love you . <end>
+<start> who ? <end> +++ <start> twombley . <end>
+<start> . . . owe you . <end> +++ <start> us . owe us . <end>
+<start> maybe . . . <end> +++ <start> our father ? did you see my father ? <end>
+<start> we must have a blow out . <end> +++ <start> oh . . . <end>
+<start> really ? <end> +++ <start> yeah . <end>
+<start> paden sends his best . <end> +++ <start> i guess i put a good scare into him . <end>
+<start> i hope we get some more help . <end> +++ <start> i wish it would rain . . . <end>
+<start> very good . <end> +++ <start> you re next move should have been e2 e3 . <end>
+<start> you said there was a quick way out ! <end> +++ <start> what about dr . michaels ? <end>
+<start> don t scream . <end> +++ <start> then leave . <end>
+<start> yo ! <end> +++ <start> geiger counter ? <end>
+<start> he s holding out on you . <end> +++ <start> let s go and see . taxi ! <end>
+<start> someone gave him more money than we could . <end> +++ <start> i m a bargain . <end>
+<start> is he straight ? <end> +++ <start> you got the parole , didn t you ? <end>
+<start> but it s a responsibility being a berserk . <end> +++ <start> i must only let the red rage . . . <end>
+<start> follow you where ? <end> +++ <start> down to my car . <end>
+<start> of course . <end> +++ <start> you have your tickets ? <end>
+<start> he s gonna kill you ! <end> +++ <start> i can handle it <end>
+<start> you can t buy wade off . <end> +++ <start> we bought you . <end>
+<start> the sensors are picking up something outside . <end> +++ <start> what ? <end>
+<start> was she married or something ? <end> +++ <start> yes . <end>
+<start> what took you so long ? is it hot ? <end> +++ <start> hot . hot . <end>
+<start> tickets to malkovich ? <end> +++ <start> exactly . two hundred dollars a pop . <end>
+<start> so what do you think ? <end> +++ <start> sign me up . <end>
+<start> who was this fuckin guy ? <end> +++ <start> rock and roll , gus . johnny boz . <end>
+<start> no , i don t think so . <end> +++ <start> how do i get out of here ? <end>
+<start> i can t tell . <end> +++ <start> why not ? <end>
+<start> i think he might be worried . <end> +++ <start> i ll call your brother . <end>
+<start> . . . . ma am ? <end> +++ <start> i m talking to taos , new mexico <end>
+<start> you didn t tell me you lived with her . <end> +++ <start> you know each other ? <end>
+<start> shall i alert dr . mccoy ? <end> +++ <start> yes . he has a long journey ahead . <end>
+<start> yes , it is . <end> +++ <start> well . . . thanks . bye . <end>
+<start> nice landing . <end> +++ <start> thanks . <end>
+<start> okay . <end> +++ <start> will you ? <end>
+<start> no way . . . . <end> +++ <start> chicken . . . . <end>
+<start> that kid is amazing . <end> +++ <start> i don t get you bruce wayne . <end>
+<start> you call that a compliment ? <end> +++ <start> it s a start . <end>
+<start> then don t . <end> +++ <start> but my own kid bro <end>
+<start> alright . that s a justifiable homicide . <end> +++ <start> yes , but he was a cop . <end>
+<start> yeah . <end> +++ <start> it shouldn t have . but it did . <end>
+<start> he lost all the weight . . . there . <end> +++ <start> that s impossible . a guy can t <end>
+<start> cheer up , darling . <end> +++ <start> i m sorry . <end>
+<start> just relax . <end> +++ <start> what s happening ? help me . <end>
+<start> aren t they doing a terrific job this year ? <end> +++ <start> looks great . it does . <end>
+<start> oh , it is . <end> +++ <start> it better be worth it for me . <end>
+<start> how does she know that ? <end> +++ <start> her headaches . <end>
+<start> i promised her she d be safe . <end> +++ <start> it s our only option . <end>
+<start> so , talk . <end> +++ <start> we think we got a rat in the house . <end>
+<start> and none of them worked ? <end> +++ <start> no . <end>
+<start> just plain joe ? <end> +++ <start> love that name . <end>
+<start> i thought you were kia , johnny . . . <end> +++ <start> that was just a mix up . <end>
+<start> and you want to know <end> +++ <start> will he keep his word ? <end>
+<start> that s going to fit me ? <end> +++ <start> like a glove . <end>
+<start> i love you , margie . <end> +++ <start> i love you , norm . <end>
+<start> ok . <end> +++ <start> do you want i send it to your room ? <end>
+<start> i don t know . <end> +++ <start> shopping ? <end>
+<start> who ? <end> +++ <start> they re going to stop me talking to you . <end>
+<start> try joshua strader , will ya , darlin ? <end> +++ <start> for you , anything . <end>
+<start> i admire them . <end> +++ <start> i do , too . <end>
+<start> tell me one ? <end> +++ <start> she d aspirated vomitus into her mask . . . <end>
+<start> you may not like what you hear . <end> +++ <start> i can take it . <end>
+<start> what happened ? <end> +++ <start> i m engaged . <end>
+<start> did you look around the headboard ? <end> +++ <start> jezzie , i can t see . <end>
+<start> uh . . . <end> +++ <start> it depends on what way you want to go . <end>
+<start> hm . <end> +++ <start> can you see it ? <end>
+<start> i left it in the tent , sir . <end> +++ <start> well hurry then , and get it . <end>
+<start> because i know what it says . <end> +++ <start> maybe you re afraid of what it says . <end>
+<start> whozat ? <end> +++ <start> whozat ? <end>
+<start> what happened , mike . <end> +++ <start> you don t want to know . <end>
+<start> we re fucked , i know <end> +++ <start> they got their stories straight . <end>
+<start> he s pretty laid back , confident . <end> +++ <start> he remind you of that guy , tillman ? <end>
+<start> some other time . <end> +++ <start> excuse me ? <end>
+<start> why ain t his pick swinging ? <end> +++ <start> why ain t that pick swinging ? <end>
+<start> do me another favor ? <end> +++ <start> . . . what ? <end>
+<start> some think not . <end> +++ <start> who ? <end>
+<start> what the <end> +++ <start> betcha didn t predict that . <end>
+<start> tell me all the details . <end> +++ <start> it was . . . fantastic . <end>
+<start> yeah <end> +++ <start> now what was your news , baxter ? <end>
+<start> i know . <end> +++ <start> i haven t given you much of a life . <end>
+<start> jackie shawn . <end> +++ <start> yeah , this is <end>
+<start> what plans ? you and mom got plans ? <end> +++ <start> she s taking singing lessons . <end>
+<start> do you feel privileged ? <end> +++ <start> i m very scared . <end>
+<start> in progress , admiral . <end> +++ <start> uhura . get me through to starfleet command . <end>
+<start> they ll get him ! they ll get him ! <end> +++ <start> ssh ! <end>
+<start> hi , mon . <end> +++ <start> sam ! hi ! <end>
+<start> i mean , that s what i heard <end> +++ <start> you got something to say <end>
+<start> i m almost done . <end> +++ <start> finish it up without the lip . <end>
+<start> i wonder if she d go out with me . <end> +++ <start> apology hastily retracted . <end>
+<start> i want you to come to me . <end> +++ <start> and if i refuse ? <end>
+<start> treadstone . <end> +++ <start> never heard of it . <end>
+<start> if there is , develop it ! <end> +++ <start> you got it . <end>
+<start> do i know you ? <end> +++ <start> i m ann millaney s sister . <end>

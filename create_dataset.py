@@ -54,7 +54,7 @@ def load_source_data(path_to_convs, path_to_lines):
 	convs = [re.findall(r'L\d+', conv) for conv in convs]
     
 	with open(path_to_lines, encoding='iso-8859-1') as f:
-		lines = f.read()strip().split('\n')
+		lines = f.read().strip().split('\n')
     
 	line_dict = dict()
 	for line in lines:
@@ -191,23 +191,15 @@ def get_dataset(path_to_dataset, vocab_size, max_len,
 
 
 if __name__ == '__main__':
-	# import argparse
-
-	# parser = argparse.ArgumentParser("Loading source data, preprocess the data, create and save training and testing data\
-	# 	to their files.")
-	# parser.add_argument('-vocab_size', '--vocab_size', type=int, metavar='', help='vocabulary size for the model', default=9668)
-	# parser.add_argument('-max_len', '--max_len', type=int, metavar='', help='max sentence length', default=12)
-	# parser.add_argument('-test_set_size', '--test_set_size', type=int, metavar='', help='size of the test set', default=5000)
-
-	# args = parser.parse_args()
+	print("Loading source and preprocess data, create and save training and testing data to their own files...")
 
 	data_file_path = './cornell movie-dialogs corpus'
 	path_to_convs = os.path.join(data_file_path, 'movie_conversations.txt')
 	path_to_lines = os.path.join(data_file_path, 'movie_lines.txt')
 
 	path_to_train_set = './train_test_data/train_set.txt'
-	path_to_test_set = './test_test_data/test_set.txt'
-	
+	path_to_test_set = './train_test_data/test_set.txt'
+
 	save_to_train_test_files(path_to_convs, path_to_lines, path_to_train_set, path_to_test_set)
 
 
