@@ -133,7 +133,7 @@ def load_dataset(path_to_dataset):
 	return messages, responses
 
 
-def get_tensor(message, response, tokenizer, max_len):
+def get_tensors(message, response, tokenizer, max_len=MAX_LEN):
 	m_tensor = tokenizer.texts_to_sequences(message)
 	m_tensor = tf.keras.preprocessing.sequence.pad_sequences(
 		m_tensor,
@@ -159,10 +159,11 @@ def save_tokenizer(tokenizer):
 		print('Tokenizer saved at %s' % file_name)
 
 
-def get_dataset(path_to_dataset, vocab_size, max_len,
-	batch_size, tokenizer=None):
+def get_dataset(path_to_dataset, tokenizer=None,
+	vocab_size=VOCAB_SIZE, batch_size=BATCH_SIZE):
 	
 	messages, responses = load_dataset(path_to_dataset)
+	
 	steps_per_epoch = len(messages) // batch_size
 
 	if tokenizer == None:
@@ -174,15 +175,12 @@ def get_dataset(path_to_dataset, vocab_size, max_len,
 
 		save_tokenizer(tokenizer)
 
-	message_tensor, response_tensor = get_tensors(
-		messages, responses,
-		tokenizer, max_len)
+	message_tensor, response_tensor = get_tensors(messages, responses, tokenizer)
 
 	print(f'- tensor shape: {message_tensor.shape}')
 	print(f'- steps per spoch: {steps_per_epoch}')
 
-	dataset = tf.data.Dataset.from_tensor_slices(
-		(message_tensor, response_tensor))
+	dataset = tf.data.Dataset.from_tensor_slices((message_tensor, response_tensor))
 	dataset = dataset.shuffle(buffer_size=100000).batch(
 		batch_size, drop_remainder=True)
 
