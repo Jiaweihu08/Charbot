@@ -17,7 +17,7 @@
 ##### - Monitor training evolution with TensorBoard
 ##### - Understand BLEU score, perplexity, and cross_entropy
 
-				----- In progress -----
+	----- In progress -----
 
-#####	- Training on GCP
-#####	- Model deployment on GCP
+	- Model training on AWS
+	- Model deployment with Flask
