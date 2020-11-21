@@ -36,7 +36,6 @@ class Chatbot:
 		self.max_len = max_len
 
 	def preprocess_text(self, text):
-
 		text = re.sub(r"([?.!,¿])", r" \1 ", text)
 		
 		text = re.sub(r'[" "]+', " ", text)
