@@ -7,50 +7,51 @@ from inference import *
 
 
 def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
-	batch_size = 1000
-	steps = len(m_val_tensor) // batch_size
-	all_responses = []
+	pass
+	# batch_size = 1000
+	# steps = len(m_val_tensor) // batch_size
+	# all_responses = []
 
-	for i in range(steps):
-		print("Step {}/{}".format(i + 1, steps))
+	# for i in range(steps):
+	# 	print("Step {}/{}".format(i + 1, steps))
 		
-		begin = time.time()
-		start = i * batch_size
-		end = (i + 1) * batch_size
+	# 	begin = time.time()
+	# 	start = i * batch_size
+	# 	end = (i + 1) * batch_size
 
-		m_val_batch = m_val_tensor[start:end]
-		r_val_mod_batch = r_val_mod[start:end]
+	# 	m_val_batch = m_val_tensor[start:end]
+	# 	r_val_mod_batch = r_val_mod[start:end]
 
-		enc_out, hiddens = encoder(m_val_batch)
-		dec_in = tf.expand_dims([tokenizer.word_index['<start>']] * batch_size, 1)
+	# 	enc_out, hiddens = encoder(m_val_batch)
+	# 	dec_in = tf.expand_dims([tokenizer.word_index['<start>']] * batch_size, 1)
 
-		batch_responses = []
-		for i in range(MAX_SENT_LEN):
-			predictions, hiddens, _ = decoder(dec_in, hiddens, enc_out)
-			prediction_ids = tf.argmax(predictions, axis=1)
+	# 	batch_responses = []
+	# 	for i in range(MAX_SENT_LEN):
+	# 		predictions, hiddens, _ = decoder(dec_in, hiddens, enc_out)
+	# 		prediction_ids = tf.argmax(predictions, axis=1)
 
-			ids = list(map(lambda id: tokenizer.index_word.get(id, '<UNK>'),
-				prediction_ids.numpy()))
+	# 		ids = list(map(lambda id: tokenizer.index_word.get(id, '<UNK>'),
+	# 			prediction_ids.numpy()))
 
-			batch_responses.append(ids)
+	# 		batch_responses.append(ids)
 
-			dec_in = tf.expand_dims(prediction_ids, 1)
+	# 		dec_in = tf.expand_dims(prediction_ids, 1)
 
-		generated_outputs = list(zip(*batch_responses))
+	# 	generated_outputs = list(zip(*batch_responses))
 
-		for i in range(batch_size):
-			for j in range(MAX_SENT_LEN):
-				if generated_outputs[i][j] == '<end>':
-					generated[i] = generated[i][:j]
-					break
+	# 	for i in range(batch_size):
+	# 		for j in range(MAX_SENT_LEN):
+	# 			if generated_outputs[i][j] == '<end>':
+	# 				generated[i] = generated[i][:j]
+	# 				break
 
-		all_responses.extend(generated)
-		print("Time taken for 1 epoch {} secs\n".format(time.time()-begin))
+	# 	all_responses.extend(generated)
+	# 	print("Time taken for 1 epoch {} secs\n".format(time.time()-begin))
 
-	smooth_func = SmoothFunction()
-	bleu = corpus_bleu(r_val_mod, all_responses, smooth_function=smooth_func)
+	# smooth_func = SmoothFunction()
+	# bleu = corpus_bleu(r_val_mod, all_responses, smooth_function=smooth_func)
 
-	return bleu
+	# return bleu
 
 
 
