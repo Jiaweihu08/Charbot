@@ -67,9 +67,9 @@ def calculate_corpus_bleu(encoder, decoder, tokenizer, m_val_tensor, r_val_mod):
 
 
 # 	message_train_val, response_train_val, tokenizer = load_dataset(
-# 															path_to_convs, path_to_lines,
-# 															args.max_len, args.vocab_size,
-# 															args.test_set_size)
+# 		path_to_convs, path_to_lines,
+# 		args.max_len, args.vocab_size,
+# 		args.test_set_size)
 
 # 	m_train_tensor, m_val_tensor, m_val = message_train_val
 # 	r_train_tensor, r_val_tensor, r_val = response_train_val
