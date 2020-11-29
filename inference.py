@@ -9,7 +9,7 @@ MAX_LEN = 14
 
 
 def load_tokenizer():
-	with open('./model/tokenizer.json', 'r') as f:
+	with open('./tokenizer.json', 'r') as f:
 		data = json.load(f)
 		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
 
