@@ -14,7 +14,7 @@
 		3. Bidirectional encoder
 		3. Decoder with Luong's attention
 	- Define training loop with teacher-forcing
-	- Inferencing
+	- Inference with both greedy and beam search
 
 ### How to use:
 	- Clone the repo
