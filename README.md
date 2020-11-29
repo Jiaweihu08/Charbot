@@ -2,22 +2,21 @@
 
 ### Motivation
 	- Gain deepened understanding on NLP
-	- Improve SW development understanding: development + deployment
 	- Hands-on experience implementing seq2seq models with attention with TensorFlow
-	- Familiarize model training and deployment on GCP
+	- Familiarize model training using TPUs
 
 ### Steps
 	- Theoretical understanding on Encoder-Decoder based seq2seq conversational agent with attentions
-	- Explore and preprocess Cornell movie-dialogs corpus dataset
+	- Explore and preprocess a variety of conversational datasets
 	- Build encoder-decoder model with attention:
 		1. Shared embedding layer for encoder and decoder
 		2. Two GRU layer for both encoder and decoder
-		3. Encoder with Luong's attention
+		3. Bidirectional encoder
+		3. Decoder with Luong's attention
 	- Define training loop with teacher-forcing
-	- Monitor training evolution with TensorBoard
-	- Understand BLEU score, perplexity, and cross_entropy
+	- Inference with both greedy and beam search
 
-### 	----- Currenty In progress -----
-
-	- Model training on AWS
-	- Model deployment with Flask
+### How to use:
+	- Clone the repo
+	- Create environment: pip install -r requirements.txt
+	- run inference.py: python3 inference.py
