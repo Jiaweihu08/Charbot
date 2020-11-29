@@ -1,32 +1,19 @@
 import tensorflow as tf
 import json
-import unicodedata
 import re
 from random import choice
 
-from model import *
 
 
-MAX_LEN = 12
+MAX_LEN = 14
 
-def load_model(units, embedding_dim, vocab_size,
-		checkpoint_dir='./training_checkpoints',
-		tok_path='./tokenizer.json'):
-	
-	encoder = Encoder(units, embedding_dim, vocab_size)
-	decoder = Decoder(units, encoder.embedding, vocab_size)
 
-	checkpoint = tf.train.Checkpoint(
-		optimizer=optimizer,
-		encoder=encoder,
-		decoder=decoder)
-	checkpoint.restore(tf.train.latest_checkpoint(checkpoint_dir))
-
-	with open(tok_path) as f:
+def load_tokenizer():
+	with open('./model/tokenizer.json', 'r') as f:
 		data = json.load(f)
 		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
 
-	return encoder, decoder, tokenizer
+	return tokenizer
 
 
 class Chatbot:
@@ -138,18 +125,19 @@ class Chatbot:
 
 
 if __name__ == '__main__':
-	units = 1024
-	embedding_dim = 512
-	vocab_size = 9561
-
-	encoder, decoder, tokenizer = load_model(units, embedding_dim, vocab_size)
+	encoder_dir = './model/encoder_25ep'
+	decoder_dir = './model/decoder_25ep'
+	
+	encoder = tf.keras.models.load_model(encoder_dir)
+	decoder = tf.keras.models.load_model(decoder_dir)
+	tokenizer = load_tokenizer()
 
 	chatbot = Chatbot(encoder, decoder, tokenizer)
 
 	while True:
 		message = input('Me: ')
-		# print(f"Bot: {chatbot.beam_search(message)[1]}")
-		print(f"Bot: {chatbot.greedy_search(message)[1]}")
+		print(f"Bot: {chatbot.beam_search(message)[1]}")
+		# print(f"Bot: {chatbot.greedy_search(message)[1]}")
 
 
 
