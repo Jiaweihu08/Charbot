@@ -19,4 +19,4 @@
 ### How to use:
 	- Clone the repo
 	- Create environment: pip install -r requirements.txt
-	- run inference.py: python3 inference.py
+	- run flask app: python app.py
