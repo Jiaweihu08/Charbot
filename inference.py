@@ -7,14 +7,6 @@ from random import choice
 MAX_LEN = 14
 
 
-def load_tokenizer():
-	with open('./tokenizer.json', 'r') as f:
-		data = json.load(f)
-		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
-
-	return tokenizer
-
-
 class Chatbot:
 	def __init__(self, encoder, decoder, tokenizer, max_len=MAX_LEN):
 		self.encoder = encoder
@@ -120,16 +112,25 @@ class Chatbot:
 				return message, response
 
 
+def load_tokenizer():
+	with open('./tokenizer.json', 'r') as f:
+		data = json.load(f)
+		tokenizer = tf.keras.preprocessing.text.tokenizer_from_json(data)
+	return tokenizer
 
-if __name__ == '__main__':
+
+def load_model():
 	encoder_dir = './model/encoder_25ep'
 	decoder_dir = './model/decoder_25ep'
 	
 	encoder = tf.keras.models.load_model(encoder_dir)
 	decoder = tf.keras.models.load_model(decoder_dir)
 	tokenizer = load_tokenizer()
+	return Chatbot(encoder, decoder, tokenizer)
 
-	chatbot = Chatbot(encoder, decoder, tokenizer)
+
+if __name__ == '__main__':
+	chatbot = Chatbot(*load_model())
 
 	while True:
 		message = input('Me: ')

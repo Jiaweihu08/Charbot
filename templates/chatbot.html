@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<style>
+			* {
+            box-sizing: border-box
+        	}
+        	body, html {
+            	height: 100%;
+            	margin: 0;
+            	font-family: Arial;
+        	}
+			#userInput {
+		        margin-left: auto;
+		        margin-right: auto;
+		        width: 40%;
+		        margin-top: 60px;
+		    }
+		    #textInput {
+		        width: 90%;
+		        border: none;
+		        border-bottom: 3px solid black;
+		        font-family: monospace;
+		        font-size: 17px;
+		    }
+			.userText {
+				color: white;
+				text-align: right;
+			}
+			.userText span {
+				background-color: #808080;
+				padding: 10px;
+			}
+			.botText {
+				color: white;
+				text-align:left;
+			}
+			.botText span {
+				background-color: #4169e1;
+				padding: 10px;
+			}
+		</style>
+		<link href="{{ url_for('static', filename='bootstrap.min.css') }}" rel="stylesheet">
+
+		{% if title %}
+			<title>Portfolio - {{ title }}</title>
+		{% else %}
+			<title>Portfolio - Jiawei Hu</title>
+		{% endif %}
+	</head>
+	<body>
+		<div class='container'>
+			<div class="shadow-lg p-3 mb-5 bg-white rounded">
+				<h1 align='center'>Chitchatting Chatbot</h1>
+				<p align='center'><img src="{{ url_for('static', filename='chatbot.jpg') }}"></p>
+				<p align='center'>Check out the code <a href="https://github.com/Jiaweihu08/Chatbot">here</a>.</p>
+				<div id='chatbox' class='shadow-lg p-3 mb-5 bg-white rounded'>
+					<p class='botText'><span>Hi, let's talk!</span></p>
+				</div>
+				<div id='userInput' style=''>
+					<input id='textInput' type='text' name='msg' placeholder='Your text here'/>
+				</div>
+			</div>
+			<script>
+				function getResponse() {
+					var textInput = $('#textInput').val();
+					var userHtml = "<p class='userText'><span>" + textInput + "</span></p>"
+					$('#textInput').val('');
+					$('#chatbox').append(userHtml);
+					document
+						.getElementById('userInput')
+						.scrollIntoView({block: 'start', behavior: 'smooth'});
+
+					$.get('/get_response', { msg: textInput }).done(function (data) {
+						var botHtml = "<p class='botText'><span>" + data + "</span></p>";
+						$('#chatbox').append(botHtml);
+						document
+							.getElementById('userInput')
+							.scrollIntoView({block: 'start', behavior: 'smooth'})
+					})
+				}
+				$('#textInput').keypress(function (e) {
+					if (e.which == 13) {
+						getResponse();
+					}
+				});
+			</script>
+		</div>
+	</body>
+</html>
