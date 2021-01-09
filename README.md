@@ -1,5 +1,7 @@
 # Chitchatting Chatbo - A seq2seq model with attention.
 
+![](static/demo.jpg)
+
 ### Motivation
 	- Gain deepened understanding on NLP
 	- Hands-on experience implementing seq2seq models with attention with TensorFlow
@@ -15,6 +17,7 @@
 		3. Decoder with Luong's attention
 	- Define training loop with teacher-forcing
 	- Inference with both greedy and beam search
+	- Deploy the model with Flask
 
 ### How to use:
 	- Clone the repo
