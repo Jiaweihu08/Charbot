@@ -4,7 +4,6 @@ import re
 from random import choice
 
 
-
 MAX_LEN = 14
 
 
@@ -111,12 +110,10 @@ class Chatbot:
 
 			candidates = sorted(next_candidates, reverse=True)[:k]
 
-			are_ended = []
 			for candidate in candidates:
-				is_ended = len(candidate[1]) == self.max_len or candidate[1][-1] == end_token
-				are_ended.append(is_ended)
-
-			if all(are_ended):
+				if not (len(candidate[1]) == self.max_len or candidate[1][-1] == end_token):
+					break
+			else:
 				sequences = [cand[1][1:-1] for cand in candidates]
 				# response = choice(self.tokenizer.sequences_to_texts(sequences))
 				response = self.tokenizer.sequences_to_texts(sequences)[0]
@@ -138,10 +135,4 @@ if __name__ == '__main__':
 		message = input('Me: ')
 		print(f"Bot: {chatbot.beam_search(message)[1]}")
 		# print(f"Bot: {chatbot.greedy_search(message)[1]}")
-
-
-
-
-
-
 
