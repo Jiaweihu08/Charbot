@@ -1,7 +1,6 @@
 # Chitchatting Chatbo - A seq2seq model with attention.
 
-![](static/demo.jpg)
-
+![](static/demo_gif.gif)
 ### Motivation
 	- Gain deepened understanding on NLP
 	- Hands-on experience implementing seq2seq models with attention with TensorFlow
