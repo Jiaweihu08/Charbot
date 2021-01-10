@@ -20,5 +20,5 @@
 
 ### How to use:
 	- Clone the repo
-	- Create environment: pip install -r requirements.txt
+	- Create an virtual environment and install the packeges using: pip install -r requirements.txt
 	- run flask app: python app.py
